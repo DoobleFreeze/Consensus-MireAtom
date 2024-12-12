@@ -4,7 +4,7 @@ services:
   consensus_web:
     build:
       dockerfile:
-        app_web/configs/prod/Dockerfile
+        app_web/configs/Dockerfile
     ports:
       - "4009:4009"
     network_mode: "host"

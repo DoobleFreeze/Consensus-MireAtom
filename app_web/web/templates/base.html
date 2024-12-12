@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="ru" data-overlayscrollbars-initialize>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!--  Основные стили  -->
+    <link rel="stylesheet" type="text/css" href="/static/css/font.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/variables.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/elements_style.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/utils.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/page_style.css">
+
+    <!--  Стили плагинов  -->
+    <link rel="stylesheet" type="text/css" href="/static/js/vendors/iconfonts/mdi/css/materialdesignicons.css">
+    <link rel="stylesheet" type="text/css" href="/static/plugins/datatable/css/dataTables.bootstrap5.min.css">
+    <link rel="stylesheet" type="text/css" href="/static/plugins/notifications/css/lobibox.min.css" />
+
+    <!--  Добавление кастомных scroll-bars  -->
+    {% if current_menu in ["main"] %}
+        <link rel="stylesheet" type="text/css" href="/static/plugins/overlayscrollbars/overlayscrollbars.min.css"/>
+    {% endif %}
+
+    <title>{{ title }}</title>
+</head>
+<body class="header-fixed" data-overlayscrollbars-initialize>
+    <nav class="t-header">
+        <!--  Лого  -->
+        <div class="t-header-brand-wrapper">
+            <a href="/static">
+                <img class="logo" src="/static/images/Consensus.svg" alt="" id="logo">
+                <img class="logo-mini" src="/static/images/Consensus_mini.svg" alt="" id="logo-mini">
+            </a>
+        </div>
+
+        <!--  Шапка  -->
+        <div class="t-header-content-wrapper">
+            <div class="t-header-content">
+                <!--  Кнопка меню при малом экране  -->
+                <button class="t-header-toggler t-header-mobile-toggler d-block d-lg-none">
+                    <i class="mdi mdi-menu"></i>
+                </button>
+
+                <!--  Кнопка документации  -->
+                <ul class="nav ml-auto">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link" href="/static/documentation">
+                            <i class="mdi mdi-information-outline mdi-3x"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="page-body">
+        <!--  Меню выбора страницы  -->
+        <div class="sidebar">
+            <ul class="navigation-menu">
+                <li>
+                    <a href="/static/check">
+                        Работа с формулами
+                        <i class="mdi mdi-regex link-icon"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="/static/analyze">
+                        Текстовый редактор
+                        <i class="mdi mdi-format-float-right link-icon"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="/static/excepted">
+                        База данных
+                        <i class="mdi mdi-alert-box link-icon"></i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+        <!--  Основное поле  -->
+        <div class="page-content-wrapper">
+
+            {% block content %}{% endblock %}
+
+            <!--  Подвал (Footer)  -->
+            <footer class="footer">
+                <div class="row">
+                    <div class="col-sm-4 text-center mt-5 mt-sm-0">
+                        <small class="text-muted d-block">Хакатон Mire/A\tom</small>
+                    </div>
+                    <div class="col-sm-4 text-center mt-5 mt-sm-0 mb-5">
+                        <small class="text-muted d-block">1.0.0</small>
+                    </div>
+                    <div class="col-sm-4 text-center order-sm-1">
+                        <a href="/" class="text-gray">
+                            <b>Документация</b>
+                        </a>
+                    </div>
+                </div>
+            </footer>
+        </div>
+
+        <!--  Кнопка вверх  -->
+        <div class="go-top"><i class="mdi mdi-apple-keyboard-control"></i></div>
+    </div>
+
+    <!--  Кнопка вверх  -->
+    <script src="/static/js/button_scroll.js"></script>
+
+
+    <script src="/static/js/vendors/js/core.js"></script>
+    <script src="/static/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/vendors/apexcharts/apexcharts.min.js"></script>
+    <script src="/static/js/template.js"></script>
+    <script src="/static/plugins/datatable/js/jquery.dataTables.min.js"></script>
+    <script src="/static/plugins/datatable/js/dataTables.bootstrap5.min.js"></script>
+    <script src="/static/plugins/notifications/js/lobibox.min.js"></script>
+    <script src="/static/plugins/notifications/js/notifications.min.js"></script>
+    <script src="/static/plugins/notifications/js/notification-custom-script.js"></script>
+
+    <!--  Добавление кастомных scroll-bars  -->
+    <script src="/static/plugins/overlayscrollbars/overlayscrollbars.browser.es6.min.js"></script>
+    {% if current_menu == "main" %}
+        <script src="/static/js/overlay_scrollbars/page_main.js"></script>
+    {% endif %}
+
+
+    <script>
+        $(function () {
+            $('[data-bs-toggle="popover"]').popover();
+            $('[data-bs-toggle="tooltip"]').tooltip();
+        })
+    </script>
+
+
+</body>
+</html>

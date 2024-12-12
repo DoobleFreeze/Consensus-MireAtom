@@ -2,7 +2,7 @@ FROM python:3.11
 
 WORKDIR /opt/app
 
-COPY app_web/configs/dev/requirements.txt .
+COPY app_web/configs/requirements.txt .
 
 RUN pip3 install -r /opt/app/requirements.txt
 
