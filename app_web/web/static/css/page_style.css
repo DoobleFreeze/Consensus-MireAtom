@@ -1,0 +1,550 @@
+/*------------------------------------------------------------------
+ [Page Stylesheet]
+
+ Project:   Regulator
+ Version:	1.0
+ Creator:   N. Osipov (ML-QA Team)
+ Inc.:      CISM - 2024
+-------------------------------------------------------------------*/
+
+
+                            /*  html  */
+/*-----------------------------------------------------------------*/
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    letter-spacing: 0.03rem;
+    font-size: 14px;
+}
+
+                             /*  body  */
+/*-------------------------------------------------------------------
+                              [Variables]
+    --body-color:       Цвет текста на теле сайта
+    --body-background:  Цвет заднего фона тела сайта
+-------------------------------------------------------------------*/
+body {
+    color: var(--body-color);
+    background-color: var(--body-background);
+    box-shadow: none;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    text-align: left;
+    font-family: "Commissioner", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    letter-spacing: 0.03rem;
+}
+
+                            /*  footer  */
+/*-----------------------------------------------------------------*/
+footer {
+    display: block;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 2rem 2.5rem;
+    max-width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media (max-width: 992px) {
+    footer {
+        padding: 20px 20px 30px 20px;
+    }
+}
+
+                            /*  textarea  */
+/*-------------------------------------------------------------------
+                              [Variables]
+    --placeholder-color:            Цвет текста до ввода
+    --custom-scrollbar-background:  Цвет фона за полосой прокрутки
+    --custom-scrollbar-color:       Цвет полосы прокрутки
+-------------------------------------------------------------------*/
+textarea {
+    margin: 0;
+    font-size: 14px;
+    font-family: inherit;
+    line-height: inherit;
+    overflow: auto;
+    resize: none;
+}
+
+textarea, textarea:active, textarea:focus, textarea:hover, textarea:visited {
+    box-shadow: none;
+}
+
+textarea.placeholder, textarea:-moz-placeholder, textarea::-moz-placeholder,
+textarea:-ms-input-placeholder, textarea::-webkit-input-placeholder {
+    font-family: inherit;
+    font-size: inherit;
+    color: var(--placeholder-color);
+    font-weight: inherit;
+}
+
+textarea::-webkit-scrollbar {
+    background-color: var(--custom-scrollbar-background);
+    width: 10px;
+}
+
+textarea::-webkit-scrollbar-thumb {
+    background-color: var(--custom-scrollbar-color);
+    border-radius: 6px;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    textarea {
+        font-size: calc(14px + 0 * ((100vw - 768px) / 223));
+    }
+}
+
+@media (min-width: 991px) and (max-width: 1200px) {
+    textarea {
+        font-size: calc(14px + -1 * ((100vw - 991px) / 209));
+    }
+}
+
+textarea.form-control {
+    height: auto;
+}
+
+                            /*  input  */
+/*-------------------------------------------------------------------
+                              [Variables]
+    --placeholder-color:            Цвет текста до ввода
+    --custom-scrollbar-background:  Цвет фона за полосой прокрутки
+    --custom-scrollbar-color:       Цвет полосы прокрутки
+-------------------------------------------------------------------*/
+input {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    overflow: visible;
+}
+
+input[type="radio"], input[type="checkbox"] {
+    box-sizing: border-box;
+    padding: 0;
+}
+
+input[type="date"], input[type="time"], input[type="datetime-local"], input[type="month"] {
+    -webkit-appearance: listbox;
+}
+
+input[type=button]::-moz-focus-inner, input[type=file] > input[type=button]::-moz-focus-inner,
+input[type=reset]::-moz-focus-inner, input[type=submit]::-moz-focus-inner {
+    outline: 0;
+}
+
+input, input:active, input:focus, input:hover, input:visited {
+    box-shadow: none;
+}
+
+input:focus {
+    outline: none;
+}
+
+input[type="text"], input[type="password"], input[type="email"], input[type="number"], input[type="name"] {
+    font-size: 14px;
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    input[type="text"], input[type="password"], input[type="email"], input[type="number"], input[type="name"] {
+        font-size: calc(14px + 0 * ((100vw - 768px) / 223));
+    }
+}
+
+@media (min-width: 991px) and (max-width: 1200px) {
+    input[type="text"], input[type="password"], input[type="email"], input[type="number"], input[type="name"] {
+        font-size: calc(14px + -1 * ((100vw - 991px) / 209));
+    }
+}
+
+@media (min-width: 1200px) {
+    input[type="text"], input[type="password"], input[type="email"], input[type="number"], input[type="name"] {
+        font-size: 13px;
+    }
+}
+
+input[type="text"].placeholder, input[type="password"].placeholder, input[type="email"].placeholder,
+input[type="number"].placeholder, input[type="name"].placeholder, input[type="text"]:-moz-placeholder,
+input[type="password"]:-moz-placeholder, input[type="email"]:-moz-placeholder, input[type="number"]:-moz-placeholder,
+input[type="name"]:-moz-placeholder, input[type="text"]::-moz-placeholder, input[type="password"]::-moz-placeholder,
+input[type="email"]::-moz-placeholder, input[type="number"]::-moz-placeholder, input[type="name"]::-moz-placeholder,
+input[type="text"]:-ms-input-placeholder, input[type="password"]:-ms-input-placeholder,
+input[type="email"]:-ms-input-placeholder, input[type="number"]:-ms-input-placeholder,
+input[type="name"]:-ms-input-placeholder, input[type="text"]::-webkit-input-placeholder,
+input[type="password"]::-webkit-input-placeholder, input[type="email"]::-webkit-input-placeholder,
+input[type="number"]::-webkit-input-placeholder, input[type="name"]::-webkit-input-placeholder {
+    font-family: inherit;
+    font-size: inherit;
+    color: var(--placeholder-color);
+    font-weight: inherit;
+}
+
+input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:focus {
+    border: 1px solid var(--autofill-border) !important;
+    -webkit-text-fill-color: var(--autofill-color);
+    -webkit-box-shadow: 0 0 0 1000px var(--autofill-background) inset;
+    transition: background-color 5000s ease-in-out 0s !important;
+}
+
+                               /*  a  */
+/*-------------------------------------------------------------------
+                              [Variables]
+--a-color:          Цвет ссылки
+--a-hover-color:    Цвет ссылки при наведении
+-------------------------------------------------------------------*/
+a {
+    color: var(--a-color);
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    outline: none;
+    text-shadow: none;
+    box-shadow: none;
+}
+
+a:hover {
+    color: var(--a-hover-color);
+    box-shadow: none;
+    text-decoration: none;
+}
+
+a:focus {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    outline: none;
+    outline: 0;
+    box-shadow: none;
+    border-color: transparent;
+    outline: none;
+}
+
+a:active {
+    outline: 0;
+    box-shadow: none;
+}
+
+a:visited {
+    outline: 0;
+    box-shadow: none;
+}
+
+a:not([href]):not([tabindex]) {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:not([href]):not([tabindex]):hover, a:not([href]):not([tabindex]):focus {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:not([href]):not([tabindex]):focus {
+    outline: 0;
+}
+
+                             /*  button  */
+/*-----------------------------------------------------------------*/
+button {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    overflow: visible;
+    text-transform: none;
+}
+
+button, [type="button"], [type="reset"], [type="submit"] {
+    -webkit-appearance: button;
+}
+
+button:not(:disabled), [type="button"]:not(:disabled), [type="reset"]:not(:disabled), [type="submit"]:not(:disabled) {
+    cursor: pointer;
+}
+
+[type=button]:focus, button::-moz-focus-inner, [type="button"]::-moz-focus-inner, [type="reset"]::-moz-focus-inner, [type="submit"]::-moz-focus-inner {
+    padding: 0;
+    outline: 0;
+    border-style: none;
+}
+
+button, button:active, button:hover, button:visited {
+    box-shadow: none;
+}
+
+button, button:active, button:checked, button:focus, button:hover, button:visited {
+    outline: 0;
+    outline-offset: 0;
+}
+
+                              /*  pre  */
+/*-------------------------------------------------------------------
+                              [Variables]
+--pre-color:        Цвет текста
+-------------------------------------------------------------------*/
+pre {
+    font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    overflow: auto;
+    display: block;
+    color: var(--pre-color);
+    font-size: 15px;
+}
+
+                             /*  code  */
+/*-------------------------------------------------------------------
+                              [Variables]
+--code-color:        Цвет текста
+-------------------------------------------------------------------*/
+code {
+    font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    font-size: 90%;
+    color: var(--code-color);
+    word-break: break-word;
+}
+
+a > code {
+    color: inherit;
+}
+
+                             /*  select  */
+/*-----------------------------------------------------------------*/
+select {
+    text-transform: none;
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    word-wrap: normal;
+}
+
+select::-moz-focus-inner {
+    outline: 0;
+}
+
+select, select:active, select:focus, select:visited {
+    box-shadow: none;
+}
+
+                               /*  hr  */
+/*-------------------------------------------------------------------
+                              [Variables]
+--hr-color:        Цвет линии
+-------------------------------------------------------------------*/
+hr {
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid var(--hr-color);
+}
+
+                               /*  caption  */
+/*-------------------------------------------------------------------
+                              [Variables]
+--hr-color:        Цвет линии
+-------------------------------------------------------------------*/
+caption {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: var(--caption-color);
+    text-align: left;
+    caption-side: bottom;
+}
+
+                               /*  mark  */
+/*-------------------------------------------------------------------
+                              [Variables]
+--mark-background:        Цвет линии
+-------------------------------------------------------------------*/
+mark, .mark {
+    background-color: var(--mark-background);
+}
+
+                          /*  btn-success  */
+/*-------------------------------------------------------------------
+                              [Variables]
+--btn-success-color:                Цвет текста на кнопке
+--btn-success-background:           Цвет заднего фона кнопки
+--btn-success-border:               Цвет границы кнопки
+--btn-success-hover-color:          Цвет текста при наведении на кнопку
+--btn-success-hover-background:     Цвет заднего фона при наведении на кнопку
+--btn-success-hover-border:         Цвет границы при наведении на кнопку
+--btn-success-disabled-color:       Цвет текста, если кнопка выключена
+--btn-success-disabled-background:  Цвет заднего фона, если кнопка выключена
+--btn-success-disabled-border:      Цвет границы, если кнопка выключена
+--btn-success-focus-shadow:         Цвет тени при фокусировании на кнопке
+-------------------------------------------------------------------*/
+.btn-success {
+    color: var(--btn-success-color);
+    background-color: var(--btn-success-background);
+    border-color: var(--btn-success-border);
+}
+
+.btn-success:hover {
+    color: var(--btn-success-hover-color);
+    background-color: var(--btn-success-hover-background);
+    border-color: var(--btn-success-hover-border);
+}
+
+.btn-success.disabled, .btn-success:disabled {
+    color: var(--btn-success-disabled-color);
+    background-color: var(--btn-success-disabled-background);
+    border-color: var(--btn-success-disabled-border);
+}
+
+.btn-success:focus, .btn-success.focus {
+    box-shadow: 0 0 0 0.2rem var(--btn-success-focus-shadow);
+}
+
+
+                          /*  breadcrumb  */
+/*-------------------------------------------------------------------
+                              [Variables]
+--breadcrumb-background:            Цвет заднего фон навигационной иерархии
+--breadcrumb-item-before-color:     Цвет текста навигационной иерархии
+--breadcrumb-item-active-color:     Цвет активного текста нав. иерархии
+-------------------------------------------------------------------*/
+.breadcrumb {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0.75rem 1rem;
+    margin-bottom: 1rem;
+    list-style: none;
+    background-color: var(--breadcrumb-background);
+    border-radius: 0.25rem;
+}
+
+.breadcrumb-item + .breadcrumb-item {
+    padding-left: 0.5rem;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+    display: inline-block;
+    padding-right: 0.5rem;
+    color: var(--breadcrumb-item-before-color);
+    content: "-";
+}
+
+.breadcrumb-item + .breadcrumb-item:hover::before {
+    text-decoration: none;
+}
+
+.breadcrumb-item.active {
+    color: var(--breadcrumb-item-active-color);
+}
+
+                             /*  table  */
+/*-------------------------------------------------------------------
+                              [Variables]
+--table-th_td-border:                       Цвет границ элементов таблицы
+--table-tbody_thead_tfoor-tr-th-color:      Цвет текста элементов таблицы
+--table-tbody_thead_tfoor-tr-th-background: Цвет заднего фона элементов таблицы
+--table-hover-tbody-tr-hover-td-color:      Цвет текста элемента при наведении
+--table-hover-tbody-tr-hover-td-background: Цвет элемента при наведении
+--table-bordered-border:                    Цвет границы "Bordered" таблицы
+--table-striped-tbody-tr-odd-background:    Цвет заднего фона чередующихся строк
+-------------------------------------------------------------------*/
+.table th, .table td {
+    padding: 10px 15px;
+    vertical-align: top;
+    border-top: 1px solid var(--table-th_td-border);
+}
+
+.table tbody tr td, table tbody tr td {
+    font-size: 13px;
+    vertical-align: middle;
+    color: var(--table-tbody_thead_tfoor-tr-th-color);
+    background: var(--table-tbody_thead_tfoor-tr-th-background);
+    transition: 0.3s ease;
+}
+
+.table thead tr th, .table tfoot tr th, table thead tr th, table tfoot tr th {
+    border-bottom-width: 1px;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: inherit;
+    color: var(--table-tbody_thead_tfoor-tr-th-color);
+    background: var(--table-tbody_thead_tfoor-tr-th-background);
+    transition: 0.3s ease;
+}
+
+.table-hover tbody tr:hover td {
+    cursor: pointer;
+    background-color: var(--table-hover-tbody-tr-hover-td-background);
+    color: var(--table-hover-tbody-tr-hover-td-color);
+}
+
+.table-bordered, .table-bordered th, .table-bordered td {
+    border: 1px solid var(--table-bordered-border);
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: var(--table-striped-tbody-tr-odd-background);
+}
+
+
+                             /*  table  */
+/*-------------------------------------------------------------------
+                              [Variables]
+--form-control-color:                   Цвет текста элемента
+--form-control-background:              Цвет заднего фона элемента
+--form-control-border:                  Цвет границы элемента
+--form-control-focus-shadow:            Цвет тени при выделении элемента
+--form-control-placeholder-color:       Цвет текста до ввода
+--form-control-disabled-background:     Цвет фона выключенного элемента
+-------------------------------------------------------------------*/
+.form-control {
+    box-shadow: none;
+    outline: 0;
+    display: block;
+    width: 100%;
+    height: calc(1.5em + 0.75rem + 2px);
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.5;
+    color: var(--form-control-color);
+    background-color: var(--form-control-background);
+    background-clip: padding-box;
+    border: 1px solid var(--form-control-border);
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.form-control:focus {
+    outline: 0;
+    box-shadow: 0 0 0 0.15rem var(--form-control-focus-shadow);
+}
+
+.form-control.placeholder, .form-control:-moz-placeholder, .form-control::-moz-placeholder, .form-control::placeholder,
+.form-control:-ms-input-placeholder, .form-control::-webkit-input-placeholder, .form-control::-ms-input-placeholder {
+    font-family: inherit;
+    font-size: inherit;
+    color: var(--form-control-placeholder-color);
+    font-weight: inherit;
+    opacity: 1;
+}
+
+.form-control:disabled, .form-control[readonly] {
+    background-color: var(--form-control-disabled-background);
+    opacity: 1;
+}

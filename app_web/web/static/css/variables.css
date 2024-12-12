@@ -1,0 +1,211 @@
+:root {
+    /*  body  */
+    --body-color: #000000;
+    --body-background: #fff;
+
+    /*  a  */
+    --a-color: #2377C7;
+    --a-hover-color: #1e27f9;
+
+    /*  pre  */
+    --pre-color: #212529;
+
+    /*  code  */ /* TODO */
+    --code-color: #bd4147;
+
+    /*  hr  */ /* TODO */
+    --hr-color: rgba(0, 0, 0, 0.1);
+
+    /*  caption  */ /* TODO */
+    --caption-color: #6c757d;
+
+    /*  mark  */ /* TODO */
+    --mark-background: #fcf8e3;
+
+    /*  placeholder  */
+    --placeholder-color: #afb5ba;
+
+    /*  custom-scrollbar  */
+    --custom-scrollbar-background: #f8f9fb;
+    --custom-scrollbar-color: #001D41;
+
+    /*  btn-success  */
+    --btn-success-color: #fff;
+    --btn-success-background: #4CCEAC;
+    --btn-success-border: #4CCEAC;
+    --btn-success-hover-color: #fff;
+    --btn-success-hover-background: #34bf9b;
+    --btn-success-hover-border: #32b593;
+    --btn-success-disabled-color: #212529;
+    --btn-success-disabled-background: #4CCEAC;
+    --btn-success-disabled-border: #4CCEAC;
+    --btn-success-focus-shadow: rgba(70, 181, 152, 0.5);
+
+    /*  autofill  */
+    --autofill-border: #f1f4f8;
+    --autofill-color: #000000;
+    --autofill-background: #f8f9fb;
+
+    /*  breadcrumb  */ /* TODO */
+    --breadcrumb-background: #f9fbfc;
+    --breadcrumb-item-before-color: #3c6bad;
+    --breadcrumb-item-active-color: #6c757d;
+
+    /*  table  */ /* TODO */
+    --table-th_td-border: #000000;
+    --table-tbody_thead_tfoor-tr-th-color: #101010;
+    --table-tbody_thead_tfoor-tr-th-background: #ffffff;
+    --table-hover-tbody-tr-hover-td-color: #ffffff;
+    --table-hover-tbody-tr-hover-td-background: #001D41;
+    --table-bordered-border: #f2f4f9;
+    --table-striped-tbody-tr-odd-background: #f8f9fb;
+
+    /*  form-control  */
+    --form-control-color: #000000;
+    --form-control-background: #f8f9fb;
+    --form-control-border: #f1f4f8;
+    --form-control-focus-shadow: #001D41;
+    --form-control-placeholder-color: #afb5ba;
+    --form-control-disabled-background: #f8f9fb;
+
+
+
+
+
+    --auth-theme-form-control: #000000;
+    --bg-auth-theme-form-control: #f8f9fb;
+    --auth-theme-form-control-border: #f1f4f8;
+
+    /* Header */
+    --bg-t-header: #fbfcfd;
+    --bg-t-header-brand-wrapper: #fff;
+    --bg-t-header-brand-wrapper-mini: #fff;
+    --t-header-content-wrapper-i: #001D41;
+
+    /* Sidebar */
+    --bg-sidebar: #fff;
+    --sidebar-navigation-menu-li-a: #001D41;
+    --bg-sidebar-navigation-menu-li-a-collapse: #fafafa;
+    --sidebar-navigation-menu-li-a-link-icon: #001D41;
+    --sidebar-navigation-menu-li-a-after: #001D41;
+    --sidebar-navigation-menu-li-navigation-submenu: #fafafa;
+    --sidebar-navigation-menu-li-navigation-submenu-li-a: #001D41;
+    --sidebar-navigation-menu-li-navigation-submenu-li-a-hover: #001D41;
+    --sidebar-navigation-menu-li-navigation-submenu-li-a-active: #fff;
+    --sidebar-navigation-menu-li-navigation-submenu-li-a-active-hover: #fff;
+    --bg-sidebar-navigation-menu-li-navigation-submenu-li-a-active: #001D41;
+
+    /* Layout */
+    --bg-page-body: #fff;
+    --page-content-wrapper: #fbfcfd;
+
+
+    --bg-grid: #ffffff;
+
+    --inc-badge-dark: #ffffff;
+    --bg-inc-badge-dark: #001D41;
+
+    --bg-timeline-vertical-activity-log-before: #001D41;
+    --timeline-vertical-activity-log-before-border: #FFFFFF;
+    --timeline-vertical-activity-log-after-border: #001D41;
+    --timeline-vertical-activity-log-log-details: #565656;
+
+    --nav-pills-nav-links: #001D41;
+    --nav-pills-nav-links-show: #FFFFFF;
+    --bg-nav-pills-nav-links-show: #001D41;
+
+    --btn-dark: #FFFFFF;
+    --bg-btn-dark: #001D41;
+    --btn-dark-border: #001D41;
+    --btn-dark-hover: #FFFFFF;
+    --bg-btn-dark-hover: #0F3D95;
+    --btn-dark-hover-border: #0E2863;
+    --btn-dark-disabled: #FFFFFF;
+    --bg-btn-dark-disabled: #223C61;
+    --btn-dark-disabled-border: #223C61;
+    --btn-dark-active: #DFDFEA;
+    --bg-btn-dark-active: #ff4e33;
+    --btn-dark-active-border: #ff4e33;
+
+    --btn-ultra-dark: #FFFFFF;
+    --bg-btn-ultra-dark: #001D41;
+    --btn-ultra-dark-border: #001D41;
+    --btn-ultra-dark-hover: #FFFFFF;
+    --bg-btn-ultra-dark-hover: #0F3D95;
+    --btn-ultra-dark-hover-border: #0E2863;
+
+    --bg-authentication-theme-auth-style: #fbfcfd;
+
+
+
+
+    --page-item: #101010;
+    --bg-page-item: #fff;
+    --page-item-border: #dee2e6;
+    --page-item-active: #fff;
+    --bg-page-item-active: #223C61;
+    --page-item-active-border: #223C61;
+    --page-item-disabled: #6c757d;
+    --bg-page-item-disabled: #fff;
+    --page-item-disabled-border: #dee2e6;
+
+    --bg-modal-content: #fff;
+
+    --bg-custom-select: #f8f9fb;
+    --custom-select-border: #f1f4f8;
+    --custom-select: #101010;
+
+    --bg-div-nav-button: #f8f9fb;
+
+    --btn-o-success: #212529;
+    --bg-btn-o-success: #4CCEAC;
+    --btn-o-success-border: #4CCEAC;
+    --btn-o-success-hover: #fff;
+    --bg-btn-o-success-hover: #34bf9b;
+    --btn-o-success-hover-border: #32b593;
+
+    --btn-o-none-success: #101010;
+    --bg-btn-o-none-success: rgba(0, 0, 0, 0);
+    --btn-o-none-success-border: #4CCEAC;
+
+    --btn-o-warning: #212529;
+    --bg-btn-o-warning: #f8bb45;
+    --btn-o-warning-border: #f8bb45;
+    --btn-o-warning-hover: #fff;
+    --bg-btn-o-warning-hover: #e69800;
+    --btn-o-warning-hover-border: #e69800;
+
+    --btn-o-none-warning: #101010;
+    --bg-btn-o-none-warning: rgba(0, 0, 0, 0);
+    --btn-o-none-warning-border: #f8bb45;
+
+    --btn-o-danger: #212529;
+    --bg-btn-o-danger: #FF6F59;
+    --btn-o-danger-border: #FF6F59;
+    --btn-o-danger-hover: #fff;
+    --bg-btn-o-danger-hover: #ff4e33;
+    --btn-o-danger-hover-border: #ff4326;
+
+    --btn-o-none-danger: #101010;
+    --bg-btn-o-none-danger: rgba(0, 0, 0, 0);
+    --btn-o-none-danger-border: #FF6F59;
+
+    --btn-o-gray: #212529;
+    --bg-btn-o-gray: #b1b1b1;
+    --btn-o-gray-border: #b1b1b1;
+    --btn-o-gray-hover: #fff;
+    --bg-btn-o-gray-hover: #525252;
+    --btn-o-gray-hover-border: #525252;
+
+    --btn-o-none-gray: #101010;
+    --bg-btn-o-none-gray: rgba(0, 0, 0, 0);
+    --btn-o-none-gray-border: #b1b1b1;
+
+    --btn-o-none-dark: #001D41;
+    --bg-btn-o-none-dark: rgba(0, 0, 0, 0);
+    --btn-o-none-dark-border: #001D41;
+
+
+
+
+}

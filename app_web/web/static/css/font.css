@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'Commissioner';
+    src: url("../fonts/Commissioner/Commissioner-Black.ttf");
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Commissioner';
+    src: url("../fonts/Commissioner/Commissioner-SemiBold.ttf");
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Commissioner';
+    src: url("../fonts/Commissioner/Commissioner-Medium.ttf");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Commissioner';
+    src: url("../fonts/Commissioner/Commissioner-Light.ttf");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Commissioner';
+    src: url("../fonts/Commissioner/Commissioner-ExtraLight.ttf");
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Commissioner';
+    src: url("../fonts/Commissioner/Commissioner-Thin.ttf");
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Commissioner';
+    src: url("../fonts/Commissioner/Commissioner-Regular.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Commissioner';
+    src: url("../fonts/Commissioner/Commissioner-Bold.ttf");
+    font-weight: bold;
+    font-style: normal;
+}

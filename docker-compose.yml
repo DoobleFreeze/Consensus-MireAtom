@@ -1,0 +1,10 @@
+version: "3.9"
+
+services:
+  consensus_web:
+    build:
+      dockerfile:
+        app_web/configs/prod/Dockerfile
+    ports:
+      - "4009:4009"
+    network_mode: "host"
