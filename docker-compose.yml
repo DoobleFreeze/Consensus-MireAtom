@@ -2,7 +2,6 @@ version: "3.9"
 
 services:
   db_consensus:
-
     build:
       dockerfile:
         database/Dockerfile
@@ -11,13 +10,11 @@ services:
     expose:
       - "5488"
     command: -p 5488
-    network_mode: "host"
   consensus_web:
     build:
       dockerfile:
         app_web/configs/Dockerfile
     ports:
       - "4009:4009"
-    network_mode: "host"
     depends_on:
       - db_consensus

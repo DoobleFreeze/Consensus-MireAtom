@@ -16,7 +16,7 @@ def global_init():
     if __factory:
         return
 
-    conn_str = 'postgresql://admin:consensus@localhost:5488/database'
+    conn_str = 'postgresql://admin:consensus@db_consensus:5488/database'
     print(f"Подключение к базе данных по адресу {conn_str}")
 
     engine = sa.create_engine(conn_str, echo=False, pool_pre_ping=True)
