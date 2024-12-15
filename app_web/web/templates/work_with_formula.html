@@ -1,0 +1,122 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="page-content-wrapper-inner">
+    <div class="row">
+        <div class="col-md-6 col-12 equel-grid">
+            <div class="grid grid-body">
+                <nav class="nav nav-pills nav-fill" role="tablist">
+                    <a id="nav_link_import_latex" class="nav-item nav-link active" data-bs-toggle="tab" href="#nav_href_import_latex" role="tab" aria-selected="true">
+                        LaTeX
+                    </a>
+                    <a id="nav_link_import_img" class="nav-item nav-link" data-bs-toggle="tab" href="#nav_href_import_img" role="tab" aria-selected="false">
+                        Изображение
+                    </a>
+                </nav>
+                <div class="tab-content py-3">
+                    {# Вкладка Результаты #}
+                    <div class="tab-pane fade show active" id="nav_href_import_latex" role="tabpanel">
+                        <form class="form-group showcase_row_area" id="form_import_latex" method="post">
+                            <div class="row">
+                                <label for="import_formula" class="text-center col-12 p-0 pb-2">
+                                    <h5><b>Формула в формате LaTeX</b></h5>
+                                </label>
+
+                                <textarea class="form-control form-control-lg col-12" id="import_formula" name="import_formula" cols="40" rows="20" placeholder="Формула в формате LaTeX">{{ import_formula }}</textarea>
+                                <div class="showcase_text_area col-12 p-0 mt-3">
+                                    <button type="submit" class="btn btn-dark btn-block" id="button_import_latex" name="button_import_latex">
+                                        Конвертировать
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="tab-pane fade" id="nav_href_import_img" role="tabpanel">
+                        <form class="form-group showcase_row_area" id="form_import_img" enctype="multipart/form-data" method="post">
+                            <div class="row">
+                                <div class="text-center col-12 p-0 pb-2">
+                                    <h5><b>Формула в формате изображения</b></h5>
+                                </div>
+                                <div class="custom-file col-12">
+                                    <input type="file" class="custom-file-input" id="file_import_img" name="file_import_img">
+                                    <label class="custom-file-label" for="file_import_img">Выберете файл</label>
+                                </div>
+                                <div class="showcase_text_area col-12 p-0 mt-3">
+                                    <button type="submit" class="btn btn-dark btn-block" id="button_import_img">
+                                        Конвертировать
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6 col-12 equel-grid">
+            <div class="grid grid-body">
+                <nav class="nav nav-pills nav-fill" role="tablist">
+                    <a id="nav_link_export_latex" class="nav-item nav-link active" data-bs-toggle="tab" href="#nav_href_export_latex" role="tab" aria-selected="true">
+                        LaTeX
+                    </a>
+                    <a id="nav_link_export_katex" class="nav-item nav-link" data-bs-toggle="tab" href="#nav_href_export_katex" role="tab" aria-selected="false">
+                        KaTex
+                    </a>
+                </nav>
+                <div class="tab-content py-3">
+                    {# Вкладка Результаты #}
+                    <div class="tab-pane fade show active" id="nav_href_export_latex" role="tabpanel">
+                        <form class="form-group showcase_row_area" id="form_export_latex">
+                            <div class="row">
+                                <label for="export_formula" class="text-center col-12 p-0 pb-2">
+                                    <h5><b>Формула в формате LaTeX</b></h5>
+                                </label>
+
+                                <textarea class="form-control form-control-lg col-12" readonly="readonly" id="export_formula" name="rule" cols="40" rows="20" placeholder="Тут будет отображена готовая формула...">{{ clear_latex }}</textarea>
+                                <div class="showcase_text_area col-6 mt-3">
+                                    <button type="button" class="btn btn-dark btn-block" onclick="copyText('export_formula')">
+                                        Скопировать LaTeX
+                                    </button>
+                                </div>
+                                <div class="showcase_text_area col-6 mt-3">
+                                    <button type="submit" class="btn btn-dark btn-block" id="button_4">
+                                        Сохранить в БД
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="tab-pane fade" id="nav_href_export_katex" role="tabpanel">
+                        <div class="row">
+                            <div class="text-center col-12 p-0 pb-2">
+                                <h5><b>Формула в формате KaTeX</b></h5>
+                            </div>
+                            <div class="col-12 text-center">
+                                {% for st in str_latex %}
+                                    <span class='math' style=" font-size: 1.3em;">
+                                        {{ st }}
+                                    </span>
+                                {% endfor %}
+                            </div>
+                            <div class="showcase_text_area col-6 mt-3">
+                                <button type="button" class="btn btn-dark btn-block" onclick="copyText('export_formula')">
+                                        Скопировать LaTeX
+                                    </button>
+                            </div>
+                            <div class="showcase_text_area col-6 mt-3">
+                                <button type="submit" class="btn btn-dark btn-block" id="button_2">
+                                    Сохранить в БД
+                                </button>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+{% endblock %}

@@ -7,6 +7,7 @@ from flask import Flask, redirect, render_template
 
 from web.utils.api_swagger import template
 from .init_logger import get_logger
+from web.database import db_session
 
 
 # Основные классы
@@ -32,6 +33,8 @@ def create_api(flask_log: bool,
         flask_log=flask_log,
         flask_app=app,
     )
+
+    db_session.global_init()
 
     @app.errorhandler(404)
     def not_found(_error):

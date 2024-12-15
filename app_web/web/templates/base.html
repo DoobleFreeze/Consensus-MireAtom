@@ -15,6 +15,7 @@
     <link rel="stylesheet" type="text/css" href="/static/js/vendors/iconfonts/mdi/css/materialdesignicons.css">
     <link rel="stylesheet" type="text/css" href="/static/plugins/datatable/css/dataTables.bootstrap5.min.css">
     <link rel="stylesheet" type="text/css" href="/static/plugins/notifications/css/lobibox.min.css" />
+    <link rel="stylesheet" type="text/css" href="/static/plugins/katex/katex.min.css" />
 
     <!--  Добавление кастомных scroll-bars  -->
     {% if current_menu in ["main"] %}
@@ -58,21 +59,15 @@
         <div class="sidebar">
             <ul class="navigation-menu">
                 <li>
-                    <a href="/static/check">
+                    <a href="/static/work_with_formula">
                         Работа с формулами
-                        <i class="mdi mdi-regex link-icon"></i>
+                        <i class="mdi mdi-format-superscript link-icon"></i>
                     </a>
                 </li>
                 <li>
-                    <a href="/static/analyze">
-                        Текстовый редактор
-                        <i class="mdi mdi-format-float-right link-icon"></i>
-                    </a>
-                </li>
-                <li>
-                    <a href="/static/excepted">
+                    <a href="/static/database">
                         База данных
-                        <i class="mdi mdi-alert-box link-icon"></i>
+                        <i class="mdi mdi-database link-icon"></i>
                     </a>
                 </li>
             </ul>
@@ -90,12 +85,10 @@
                         <small class="text-muted d-block">Хакатон Mire/A\tom</small>
                     </div>
                     <div class="col-sm-4 text-center mt-5 mt-sm-0 mb-5">
-                        <small class="text-muted d-block">1.0.0</small>
+                        <small class="text-muted d-block">2024 г.</small>
                     </div>
-                    <div class="col-sm-4 text-center order-sm-1">
-                        <a href="/" class="text-gray">
-                            <b>Документация</b>
-                        </a>
+                    <div class="col-sm-4 text-center mt-5 mt-sm-0 mb-5">
+                        <small class="text-muted d-block">Consensus team</small>
                     </div>
                 </div>
             </footer>
@@ -118,6 +111,10 @@
     <script src="/static/plugins/notifications/js/lobibox.min.js"></script>
     <script src="/static/plugins/notifications/js/notifications.min.js"></script>
     <script src="/static/plugins/notifications/js/notification-custom-script.js"></script>
+    <script src="/static/plugins/katex/katex.min.js"></script>
+    {% if current_menu == "work_with_formula" %}
+        <script src="/static/js/pages/work_with_formula.js"></script>
+    {% endif %}
 
     <!--  Добавление кастомных scroll-bars  -->
     <script src="/static/plugins/overlayscrollbars/overlayscrollbars.browser.es6.min.js"></script>
@@ -132,6 +129,7 @@
             $('[data-bs-toggle="tooltip"]').tooltip();
         })
     </script>
+
 
 
 </body>
