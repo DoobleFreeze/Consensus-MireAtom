@@ -1,5 +1,6 @@
 import traceback
 import os
+import json
 
 from datetime import datetime
 from typing import Dict
@@ -11,6 +12,9 @@ from texify.inference import batch_inference
 from PIL import Image
 
 from . import logger, model, processor
+from web.database import db_session
+from web.database.db_session import create_session
+from web.database.formulas import Formulas
 
 module = Blueprint(name='statics_page', import_name=__name__, url_prefix='/static')
 
@@ -103,6 +107,25 @@ def work_with_formula():
 @module.route('/database', methods=['GET', 'POST'])
 def database():
     try:
+        if request.method == 'POST':
+            if request.files != {}:
+                file = request.files['file_import_csv']
+                filename = secure_filename(file.filename)
+                if filename != "":
+                    file.save(os.path.join('/opt/app', filename))
+
+                    db_session.global_init()
+                    with open("/opt/app/" + filename, "r") as f:
+                        list_latex = [i for i in f.read().split("\n")[1:]]
+
+                    session = create_session()
+
+                    for i in list_latex:
+                        new_formula = Formulas(formula=json.dumps({"formula": [i]}))
+                        session.add(new_formula)
+                    session.commit()
+                    session.close()
+
         return render_template('database.html',
                                title="База данных",
                                # Выбранная вкладка из меню слева
