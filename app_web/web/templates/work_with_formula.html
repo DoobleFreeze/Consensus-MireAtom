@@ -64,7 +64,6 @@
                     </a>
                 </nav>
                 <div class="tab-content py-3">
-                    {# Вкладка Результаты #}
                     <div class="tab-pane fade show active" id="nav_href_export_latex" role="tabpanel">
                         <form class="form-group showcase_row_area" id="form_export_latex">
                             <div class="row">
@@ -79,7 +78,7 @@
                                     </button>
                                 </div>
                                 <div class="showcase_text_area col-6 mt-3">
-                                    <button type="submit" class="btn btn-dark btn-block" id="button_4">
+                                    <button type="button" class="btn btn-dark btn-block" onclick="save_in_db()">
                                         Сохранить в БД
                                     </button>
                                 </div>
@@ -104,7 +103,7 @@
                                     </button>
                             </div>
                             <div class="showcase_text_area col-6 mt-3">
-                                <button type="submit" class="btn btn-dark btn-block" id="button_2">
+                                <button type="button" class="btn btn-dark btn-block" onclick="save_in_db()">
                                     Сохранить в БД
                                 </button>
                             </div>

@@ -26,3 +26,39 @@ function copyText(el) {
         });
     }
 }
+
+
+function save_in_db() {
+    let export_formula = document.getElementById("export_formula");
+
+    $.ajax({
+        url: "/api/add_formula_ajax",
+        type: "post",
+        data: {
+            formula: export_formula.value
+        },
+        success: (response) => {
+            console.log(response);
+
+            if (response.result === true) {
+                Lobibox.notify('default', {
+                    pauseDelayOnHover: true,
+                    continueDelayOnInactiveTab: false,
+                    position: 'center top',
+                    title: "Сохранено",
+                    msg: 'Формула успешно сохранена в БД'
+                });
+            } else {
+                $('#modalCreateATest').modal('hide');
+                Lobibox.notify('error', {
+                    pauseDelayOnHover: true,
+                    continueDelayOnInactiveTab: false,
+                    position: 'center top',
+                    icon: false,
+                    title: "Ошибка!",
+                    msg: 'Ошибка сохранения данных в БД'
+                });
+            }
+        }
+    })
+}

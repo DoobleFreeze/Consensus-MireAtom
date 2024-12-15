@@ -112,8 +112,12 @@
     <script src="/static/plugins/notifications/js/notifications.min.js"></script>
     <script src="/static/plugins/notifications/js/notification-custom-script.js"></script>
     <script src="/static/plugins/katex/katex.min.js"></script>
-    {% if current_menu == "work_with_formula" %}
+    {% if current_menu == "main" %}
+        <script src="/static/js/pages/main.js"></script>
+    {% elif current_menu == "work_with_formula" %}
         <script src="/static/js/pages/work_with_formula.js"></script>
+    {% elif current_menu == "database" %}
+        <script src="/static/js/pages/database.js"></script>
     {% endif %}
 
     <!--  Добавление кастомных scroll-bars  -->

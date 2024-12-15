@@ -1,0 +1,2001 @@
+\min\sum_{\mu=1}^{C}s|x^{\mu}\cdot w|^{2}+\eta g(w).
+\|w\|_{2}=1
+\displaystyle V_{1}(x-x_{0})
+"\displaystyle\delta^{\mu}_{\nu}=e^{\mu}_{a}E^{a}_{\nu}+\frac{\varepsilon}{N}t^{\mu}n_{\nu}\,."
+\displaystyle-\frac{2}{T}x_{n}(\lambda)
+"\displaystyle V^{GG}(x,y)"
+"\displaystyle\Delta V^{qq}(x,y)"
+"\displaystyle\Delta V^{qG}(x,y)"
+\displaystyle-2N_{f}T_{R}\frac{x}{y^{2}}
+"\displaystyle\Delta V^{Gq}(x,y)"
+\displaystyle C_{F}\left[\frac{x^{2}}{y}\right]
+"\displaystyle\Delta V^{GG}(x,y)"
+"\displaystyle f^{q}(z,\mu)"
+"\displaystyle zf^{G}(z,\mu)"
+"\displaystyle(2x-1)V_{ext}^{Gq}(x,y)"
+\displaystyle\log(f(\epsilon^{\prime}_{\lambda n}(\lambda)))
+"\displaystyle\Gamma_{n}^{qq}(z,z^{\prime})"
+"\displaystyle\Gamma_{n}^{qG}(z,z^{\prime})"
+"\displaystyle\Gamma_{n}^{Gq}(z,z^{\prime})"
+"\displaystyle\Gamma_{n}^{GG}(z,z^{\prime})"
+\displaystyle+\beta_{0}\delta(z-z^{\prime}).
+"\displaystyle\Delta\Gamma_{n}^{qq}(z,z^{\prime})"
+"\displaystyle\Delta\Gamma_{n}^{qG}(z,z^{\prime})"
+"\displaystyle+\Theta(z^{\prime}-z)[(\frac{1+z}{1+z^{\prime}})^{n}\frac{1}{n}]\},"
+"\displaystyle\Delta\Gamma_{n}^{Gq}(z,z^{\prime})"
+"\displaystyle\Delta\Gamma_{n}^{GG}(z,z^{\prime})"
+\displaystyle\rho_{p/h}(q)
+"\displaystyle(1-z^{\prime 2})^{n}\Gamma_{n}^{i,j}(z,z^{\prime})"
+"\displaystyle\Gamma_{n}^{i,j}(z^{\prime},z)(1-z^{2})^{n},"
+"\displaystyle(1-z^{\prime 2})^{n}\Delta\Gamma_{n}^{i,j}(z,z^{\prime})"
+"\displaystyle\Delta\Gamma_{n}^{i,j}(z^{\prime},z)(1-z^{2})^{n}~{}."
+"\displaystyle\Gamma_{n}^{i,j}(z,z^{\prime})"
+"\displaystyle\Delta\Gamma_{n}^{i,j}(z,z^{\prime})"
+\displaystyle\sigma_{p/hn}(\lambda)
+E/K\colon y^{2}=x(x-(2\alpha^{2}+7\alpha+19))(x-(18\alpha^{2}+7\alpha+3)).
+"E_{b,c}/K\colon y^{2}=x(x-(\alpha^{2}+b\alpha+c))(x-16(\alpha^{2}+\alpha+1))."
+E/K\colon y^{2}=x(x+(10\beta^{2}-3))(x-(\beta+4))
+E/K\colon y^{2}+xy+\beta y=x^{3}-8x^{2}-6x-1
+E/K:y^{2}=x(x-(2\alpha^{2}+7\alpha+19))(x-(18\alpha^{2}+7\alpha+3)).
+\displaystyle=361\alpha^{2}-22\alpha-83
+\displaystyle=-2112\alpha^{2}-2048\alpha-640
+\displaystyle=-372\alpha^{2}+1976\alpha+1552.
+\displaystyle\sigma(\lambda)f(\pm\epsilon_{\lambda n}(\lambda));
+"E_{b,c}/K:y^{2}=x(x-(\alpha^{2}+b\alpha+c))(x-16(\alpha^{2}+\alpha+1))."
+E/K:y^{2}=x(x-(\alpha^{2}+b\alpha+c))(x-16(\alpha^{2}+\alpha+1))
+y^{2}+\alpha^{2}xy=x^{3}+\frac{-A-B+\alpha(\alpha+1)}{4}x^{2}-\frac{AB}{16}x.
+"E/K\colon y^{2}=x(x-(\alpha^{2}+b\alpha+c))(x-16(\alpha^{2}+\alpha+1)),"
+"K(E[4])=K(x_{1},x_{2},x_{3},\sqrt[4]{\Delta})"
+\displaystyle-16(b+c)\alpha^{2}-16(c-2)\alpha-16(c-b-1)
+\displaystyle-32(\alpha^{2}+\alpha+1)x+16((b+c)\alpha^{2}+(c-2)\alpha+(c-b+1))
+\displaystyle=2^{6}((b+c)\alpha^{2}+(c-2)\alpha+(c-b-1))
+"K(E[4])=K(\sqrt{d_{1}},\sqrt{d_{2}},\sqrt{d_{3}},\sqrt{d_{4}})."
+\displaystyle\sigma^{\prime}_{p/hn}(\lambda)
+"E:y^{2}=x(x-(\alpha^{2}+b\alpha+c))(x-16(\alpha^{2}+\alpha+1)),"
+\displaystyle d_{4}=-64(\alpha^{2}+\alpha+1)d_{3}.
+y^{2}=(x-a)(x-b)(x-c)
+T^{2}-\frac{a_{p}-2}{\ell}T+\frac{1+p-a_{p}}{\ell^{2}}.
+"T^{2}-a_{p}T+p,"
+\displaystyle e^{i\delta_{e}(E)}
+"s\circ t=st\mbox{ providing $R(s)=D(t)$,}"
+"a=\{(w,x),(x,w)\},\ g=\{(w.w),(x,x)\},\ e=\{(w.w),(x,x),(y,y)\},"
+st=(sD(t))(R(sD(t))t)=(sD(R(s)t))(R(s)t).
+st=s|D(t)\circ R(s|D(t))|t=s|D(R(s)|t)\circ R(s)|t.
+D(R(es)t)=D(R(esR(s))t)=D(R(esD(t))t)=R(esD(t))=R(esR(s))=R(es).
+D(xy)=D(xD(R(x)y)))=D(xD(D(y)y)))=D(xD(y))=D(xR(x))=D(x).
+\displaystyle R(st)
+\displaystyle R(stR(t))
+\displaystyle R(stD(R(t)))
+\displaystyle D(R(stD(R(t)))R(t))\mbox{ by the left match-up condition}
+\displaystyle{\cal R}(E)+{\cal T}(E);
+\displaystyle D(R(stR(t))R(t))
+\displaystyle D(R(st)R(t)).
+\displaystyle R(sD(t))
+\displaystyle D(R(sD(t))R(D(t)))\mbox{ by the first additional law}
+\displaystyle D(R(sD(t))D(t))
+\displaystyle D(R(sD(t))t)\mbox{ by the left congruence condition.}
+D(R(xD(y))y)=D(R(xD(y))D(y))=D(R(xD(y))R(D(y)))=D(R(xD(y)))=R(xD(y)).
+st=s|D(t)\circ R(s|D(t))|t=s|D(R(s)|t)\circ R(s)|t\mbox{ in }{\mathcal{C}}(S).
+D(ef)=D(eef)D(ef)=D(eD(ef))D(ef)=R(eD(ef))D(ef)
+"=R(eD(D(ef)))D(ef)=R(e)D(ef)=eD(ef)=eD(R(e)f)=eD(f)=ef,"
+\displaystyle 1={\cal R}(E)-{\cal T}(E).
+"D(R(sD(t))t)=D(R(sD(t))D(t))=D(R(sD(t)))=R(sD(t)),"
+"R(sD(t))tR(st)=R(sD(t))D(tR(st))t=R(sD(t))t,"
+\displaystyle R(xy)
+\displaystyle R((xy)R(y))
+\displaystyle R(R(xyD(R(y)))R(y))\mbox{ by the right weak congruence condition}
+\displaystyle R(R(xy)R(y))R(y))
+\displaystyle R(R(xy)R(y))
+"\displaystyle R(xy)R(y)\mbox{ since $D(S)$ is a band,}"
+"s\otimes_{l}t=s|D(t)\circ R(s|D(t))|t,"
+R(a|D(R(a)|(b|e)))=D(R(a)|(b|e))=D(D(b)|(b|e))=D((D(b)|b)|e)=D(b|e).
+p=p^{\rm bulk}+p^{\rm imp}/L=p^{\rm bulk}+\delta_{e}(E)/L.
+(a\circ b)|e=a|D(b|e)\circ b|e=a|D(b|e)\circ R(a|D(R(a)|(b|e))|(b|e).
+"x|e=(x\circ R(x))|e=x|D(R(x)|e)\circ R(x|D(R(x)|e))|(R(x)|e),"
+\displaystyle(A|e)|e
+\displaystyle((R(s)|R(x))|e)|e
+\displaystyle(R(s)|(R(x)|e))|e
+\displaystyle R(s)|((R(x)|e)|e)
+\displaystyle R(s)|(R(x)|(e|e))
+\displaystyle R(s)|(R(x)|e)
+\displaystyle(R(s)|R(x))|e
+\displaystyle A|e.
+\epsilon_{\rm el}=\epsilon_{q}(q)-\epsilon_{\lambda}(\lambda).
+\displaystyle(x|e)|e
+\displaystyle(x|e)|D(R(x|e)|e)\circ R((x|e)|D(R(x|e)|e))|(R(x|e)|e)\mbox{ by (TC4b${}^{\prime}$)}
+\displaystyle(x|e)|R(x|e)\circ R((x|e)|R(x|e))|(R(x|e)|e)\mbox{ by (LMU)}
+\displaystyle(x|e)\circ R(x|e)|(R(x|e)|e)\mbox{ by (TC2)}
+\displaystyle(x|e)\circ(R(x|e)|R(x|e))|e\mbox{ by (TC6)}
+"\displaystyle(x|e)\circ R(x|e)|e\mbox{ by (2)},"
+\displaystyle(x|e)\circ R(x|e)|e\mbox{ by (5)}
+\displaystyle x|D(R(x)|e)\circ A|e\circ R(A|e)|e\mbox{ by (1) and (4)}
+\displaystyle x|D(R(x)|e)\circ(A|e)|e\mbox{ by (5) with $x$ replaced by $A$}
+\displaystyle x|D(R(x)|e)\circ A|e\mbox{ by (3)}
+\displaystyle\rho_{\rm bulk}(q)+\rho^{\rm imp}(q);
+"\displaystyle x|e\mbox{ by (1),}"
+e|x=e|(D(x)\circ x)=e|D(x)\circ R(e|D(x))|x=e\otimes_{l}x.
+\displaystyle x|e
+\displaystyle(x|e)|e\mbox{ by Lemma \ref{TC7}}
+\displaystyle(x|e\circ R(x|e))|e
+"\displaystyle A\circ R(A)|(R(x|e)|e)\mbox{ by (TC4b${}^{\prime}$),}"
+\displaystyle x|e\circ R(x|e)|(R(x|e)|e)
+\displaystyle x|e\circ(R(x|e)|R(x|e))|e\mbox{ by (TC6)}
+"\displaystyle x|e\circ R(x|e)|e\mbox{, by (2) in the proof of Lemma \ref{TC7}}"
+\displaystyle(x|D(e))\circ R(x|D(e))|e
+\displaystyle\sigma_{\rm bulk}(\lambda)+\sigma^{\rm imp}(\lambda).
+\displaystyle x\otimes_{l}e.
+x\otimes_{l}y=x|D(y)\circ R(x|D(y))|y=x|R(x)\circ R(x|R(x))|y=x\circ R(x)|y=x\circ D(y)|y=x\circ y.
+"e\otimes_{l}e=e|D(e)\circ R(e|D(e))|e=e|R(e)\circ R(e|e)|e=e\circ R(e)|e=R(e)|e=e|e=e,"
+"D(x\otimes_{l}y)=D(x|D(y))=D(x|R(x))=D(x),"
+R(x\otimes_{l}y)=R(R(x|D(y))|y)=R(R(x|R(x))|y)=R(R(x)|y)=R(D(y)|y)=R(y).
+"R(xD(y))=R(x|D(y))=D(R(x|D(y))|y)=D(R(xD(y))y),"
+\displaystyle F(s\otimes_{l}t)
+\displaystyle F(s|D(t)\circ R(s|D(t))|t)
+\displaystyle F(s|D(t))\circ F(R(s|D(t))|t)
+\displaystyle F(s)|F(D(t))\circ F(R(s|D(t))|F(t)
+\displaystyle\rho^{\rm imp}(q)
+\displaystyle F(s)|D(F(t))\circ R(F(s)|D(F(t)))|F(t)
+"\displaystyle F(s)\otimes_{l}F(t),"
+"x|e=(x\circ R(x))|e=x|(R(x)|e)\circ R(x|(R(x)|e))|(R(x)|e),"
+R(x|e)=R(x|(R(x)|e))|(R(x)|e)=R(x|e)|R(R(x)|e)=R(x|e)|(R(x)|e)=(R(x|e)|R(x))|e
+"=(R(x|e)|R(x))|(e|e)=((R(x|e)|R(x))|e)|e=(R(x|e)|(R(x)|e))|e=R(x|e)|e,"
+"D(R(x|D(y))|y)=D(R(x|D(y))|D(y))=D(R(x|D(y)))=R(x|D(y)),"
+(s\otimes_{l}t)\otimes_{l}u=((s\otimes_{l}t)|D(u))\circ R((s\otimes_{l}t)|D(u))|u.
+\displaystyle(s\otimes_{l}t)|D(u)
+\displaystyle(s|D(t)\circ R(s|D(t))|t)|D(u)
+\displaystyle(s|D(t))|(D(R(s|D(t))|t|D(u))\circ R((s|D(t))|(D(R(s|D(t))|t|D(u)))|(R(s|D(t))|t|D(u))
+\displaystyle\sigma^{\rm imp}(\lambda)
+\displaystyle A\circ R(A)|(R(s|D(t))|t|D(u))
+\displaystyle(s|D(t))|(D(R(s|D(t))|t|D(u)))
+\displaystyle(s|D(t))|(D(R(s|D(t))|D(t|D(u))))
+\displaystyle(s|D(t))|(R(s|D(t))|D(t|D(u)))
+\displaystyle(s|D(t))|D(t|D(u))\hskip 56.9055pt\mbox{$(*)$}
+\displaystyle s|(D(t)|D(t|D(u)))
+\displaystyle s|D(D(t)|D(t|D(u)))
+\displaystyle s|D(D(t)|(t|D(u))
+\displaystyle s|D((D(t)|t)|D(u))
+"\displaystyle s|D(t|D(u)),"
+"\displaystyle-\int^{B}_{-D}dqa_{1}(\lambda-g(q))\rho^{\rm imp}(q),"
+\displaystyle R(A)|(R(s|D(t))|t|D(u))
+\displaystyle R(s|D(t|D(u)))|(R(s|D(t))|t|D(u))
+\displaystyle R(s|D(t)|D(t|D(u)))|(R(s|D(t))|t|D(u))\mbox{ by $(*)$ above}
+\displaystyle R((s|D(t)|R(s|D(t)))|D(t|D(u)))|(R(s|D(t))|(D(t|D(u))|(t|D(u)))
+\displaystyle R((s|D(t)|R(s|D(t)))|D(t|D(u)))|t|D(u)
+e|f\in D(C)
+R(x|e)|e=R(x|e)
+x\in C
+"e,f\in D(C)"
+\displaystyle R((s|D(t))|D(t|D(u)))|t|D(u)
+\displaystyle p^{\rm imp}_{q}(B)
+\displaystyle R(A)|t|D(u)\mbox{ by $(*)$ above}
+\displaystyle R(s|D(t|D(u)))|t|D(u).
+\displaystyle R((s\otimes_{l}t)|D(u))|u
+\displaystyle R(R(s|D(t|D(u)))|t|D(u))|u
+\displaystyle R(R(s|D(t|D(u)))|t|D(u)|R(t|D(u)))|u
+\displaystyle R(R(s|D(t|D(u)))|t|D(u)|R(t|D(u)))|R(t|D(u))|u
+\displaystyle R(R(s|D(t|D(u))|t|D(u))|R(t|D(u))|u.
+\displaystyle(s\otimes_{l}t)\otimes_{l}u
+\displaystyle((s\otimes_{l}t)|D(u))\circ R((s\otimes_{l}t)|D(u))|u
+\displaystyle s|D(t|D(u))\circ R(s|D(t|D(u)))|t|D(u)\circ R(R(s|D(t|D(u))|t|D(u))|R(t|D(u))|u.
+\displaystyle 2\pi\int^{B}_{-D}dq\rho^{\rm imp}(q);
+\displaystyle s\otimes_{l}(t\otimes_{l}u)
+\displaystyle(s|D(t\otimes_{l}u))\circ(R(s|D(t\otimes_{l}u))|(t\otimes_{l}u))
+\displaystyle s|D(t|D(u))\circ R(s|D(t\otimes_{l}u))|((t|D(u))\circ(R(t|D(u))|u))
+\displaystyle s|D(t|D(u))\circ R(s|D(t|D(u)))|t|D(u)\circ R(R(s|D(t|D(u))|t|D(u))|R(t|D(u))|u
+"\displaystyle(s\otimes_{l}t)\otimes_{l}u,"
+s\otimes_{l}t=s\otimes_{r}t=s|D(R(s)|D(t))\circ R(s)|D(t)\circ R(R(s)|D(t))|t.
+\displaystyle s\otimes_{l}t
+\displaystyle s|D(t)\circ R(s|D(t))|t
+\displaystyle(s\circ R(s))|D(t)\circ R(R(s)|D(t))|t
+"\displaystyle s|(D(R(s)|D(t))\circ R(s)|D(t)\circ R(R(s)|D(t))|t,"
+\displaystyle p^{\rm imp}_{\lambda}(Q)
+s\otimes t=s|(D(R(s)|D(t))\circ R(s)|D(t)\circ R(R(s)|D(t))|t.
+\displaystyle(a\otimes b)\otimes c
+\displaystyle(a\otimes_{r}b)\otimes_{l}c\mbox{ by Proposition \ref{lrequal}}
+\displaystyle(a\otimes_{r}b)|D(c)\circ R((a\otimes_{r}b)|D(c))|c
+\displaystyle(a|D(R(a)|b)\circ R(a)|b)|D(c)\circ R((a\otimes b)|D(c))|c\mbox{ by (TC7b)}
+"\displaystyle a|D(R(a)|b|D(c))\circ R(a)|b|D(c)\circ R(R(a)|b|D(c))|c,"
+"s\otimes t=s|D(t)\circ R(s)|t\mbox{ for all }s,t\in C."
+\displaystyle x|D(y)\circ R(x)|y
+\displaystyle(x\circ R(x))|D(y)\circ R(x)|(D(y)\circ y)
+\displaystyle x|D(R(x)|D(y))\circ R(x)|D(y)\circ R(x)|D(y)\circ R(R(x)|D(y))|y\mbox{ by (TC4)}
+\displaystyle 2\pi\int^{\tilde{Q}}_{Q}d\lambda\sigma^{\rm imp}(\lambda).
+\displaystyle x|D(R(x)|D(y))\circ R(x)|D(y)\circ R(R(x)|D(y))|y\mbox{ by (SMU2)}
+"\displaystyle x\otimes y\mbox{ by Proposition \ref{lrequal},}"
+\displaystyle(s\otimes D(t))\otimes(R(s)\otimes t)
+\displaystyle(s|D(t))\otimes(R(s)|t)
+\displaystyle(s|D(t))|D(R(s)|t)\circ R(s|D(t))|(R(s)|t)
+\displaystyle(s|D(t))|R(s|D(t))\circ D(R(s)|t)|(R(s)|t)\mbox{ by (SMU1)}
+\displaystyle s|D(t)\circ R(s)|t
+"\displaystyle s\otimes t\mbox{ by Proposition \ref{strongood},}"
+"u_{\nu}=\frac{1}{\mu}(\epsilon_{,\nu}+\zeta\beta_{,\nu}+\theta S_{,\nu})"
+u^{\nu}u_{\nu}=-1.
+\displaystyle p^{\rm imp}_{q}(q)
+"ds^{2}=-N^{2}(t)dt^{2}+a^{2}(t)g_{ij}dx^{i}dx^{j},"
+"{\cal H}=-\frac{p_{a}^{2}}{12a}+\Lambda a^{3}-3ka+\frac{p_{T}}{a^{3\alpha}}\,\,,"
+"\displaystyle-ka+\frac{2}{3}\Lambda a^{3}+\frac{1-3\alpha}{6}a^{-3\alpha}p_{T},"
+\displaystyle-3\dot{a}^{2}+\Lambda a^{4}-3ka^{2}+a^{1-3\alpha}p_{T}.
+"(\Phi,\Psi)=\int_{0}^{\infty}a^{1-3\alpha}\Phi^{*}\Psi da,"
+"\psi(a,t)=e^{iEt}\psi(a),"
+"\Psi(a,t)=\sum_{n=0}^{m}C_{n}(E_{n})\psi_{n}(a)e^{iE_{n}t},"
+"-\frac{d^{2}\psi(x)}{dx^{2}}+\hat{f}[x]\psi(x)=E\,\hat{g}[x]\,\,\psi(x),"
+"\displaystyle\hat{f}\,\,\psi(x)"
+"\displaystyle\hat{g}\,\,\psi(x)"
+\displaystyle p_{1\lambda}^{\rm imp}(\lambda)
+"\displaystyle\left(\frac{n\pi}{L}\right)^{2}A_{n}+B_{n}=E\,B^{\prime}_{n}."
+"\displaystyle B_{n}=\sum_{m}C_{m,n}\,\,A_{m},"
+"\displaystyle B^{\prime}_{n}=\sum_{m}C^{\prime}_{m,n}\,\,A_{m},"
+"\displaystyle D\,A=E\,D^{\prime}\,A,"
+"\displaystyle D^{\prime-1}D\,A=E\,A,"
+"-\frac{d^{2}\psi(a)}{da^{2}}+(36ka^{2}-12\Lambda a^{4})\psi(a)=12E\psi(a),"
+"-\frac{d^{2}\psi(a)}{da^{2}}+(36ka^{2}-12\Lambda a^{4})\psi(a)=12Ea\psi(a),"
+"-\frac{d^{2}\psi(a)}{da^{2}}+36ka^{2}\psi(a)=12Ea\psi(a),"
+"-\frac{d^{2}\xi}{dx^{2}}+\left[-2\lambda+w^{2}x^{2}\right]\xi(a)=0,"
+"E_{n}=\pm\sqrt{6(2n+1)}\,\,,\mbox{       }n=0,1,2,...\quad."
+\displaystyle\theta_{n}(\lambda)
+"{\Psi}_{n}(a,t)=e^{-iE_{n}t}{\varphi}_{n}\left(12a-E_{n}\right),"
+"{\varphi}_{n}(x)=H_{n}\bigg{(}\frac{x}{\sqrt{12}}\bigg{)}e^{-x^{2}/24}\,\,,"
+V_{1D}(r)=-\frac{C_{3}}{(r-r_{0})^{3}}
+"r-r_{0}\to r(x,y)=x-A\sin{(\frac{2\pi}{L}y+\phi)}\,,"
+"V_{2D}(x,y)=-\frac{C_{3}}{(x-A\sin{(\frac{2\pi}{L}y+\phi))^{3}}}\,,"
+\displaystyle 2\tan^{-1}(\frac{2}{n}\lambda)-\pi;
+\displaystyle\Sigma_{nm}(\lambda)
+\mathsf{W}
+\mathsf{0}
+\mathrm{d}
+\mathsf{P}
+f\left(x\right)=\cos\left(5x\right)
+\displaystyle\theta_{|n-m|}(\lambda)
+"\frac{\,\mathrm{d}f\left(x\right)}{\,\mathrm{d}x}=-5\sin\left(5x\right)."
+\mathsf{P}_{c}^{\textrm{T}}\mathsf{W}_{c}\mathsf{P}_{c}=\mathsf{I}.
+"\mathsf{U}^{\textrm{T}}\mathsf{U}=\mathsf{I},"
+\mathsf{U}=\mathsf{W}_{c}^{\frac{1}{2}}\mathsf{P}_{c}.
+\eta_{m}=-\log_{10}\left(\epsilon_{m}\right).
+\phi^{-1}(b\star b^{\prime})=\phi^{-1}(\phi(a)\star\phi(a^{\prime}))=\phi^{-1}(\phi(a\ast a^{\prime}))=a\ast a^{\prime}=\phi^{-1}(b)\ast\phi^{-1}(b^{\prime}).
+"\displaystyle\partial_{q}p^{\rm imp}_{q}(q,T)=2\pi\rho^{\rm imp}(q,T);"
+"\{([n],\star):([n],\star)\cong([n],\ast)\}=\{([n],\ast_{\sigma}):\sigma\in S_{n}\}."
+\displaystyle a\ \ast_{\sigma\circ\tau}\ a^{\prime}
+\displaystyle=\sigma\circ\tau((\sigma\circ\tau)^{-1}(a)\ast(\sigma\circ\tau)^{-1}(a^{\prime}))
+\displaystyle=\sigma(\tau(\tau^{-1}(\sigma^{-1}(a))\ast\tau^{-1}(\sigma^{-1}(a^{\prime}))))
+\displaystyle=\sigma(\sigma^{-1}(a)\ast_{\tau}\sigma^{-1}(a^{\prime}))
+\displaystyle\delta_{el\uparrow}(T)
+\displaystyle\iff\ast_{\sigma}=\ast
+"\displaystyle\iff\forall b,b^{\prime}\in[n]\colon b\ast_{\sigma}b^{\prime}=b\ast b^{\prime}"
+"\displaystyle\iff\forall b,b^{\prime}\in[n]\colon\sigma(\sigma^{-1}(b)\ast\sigma^{-1}(b^{\prime}))=b\ast b^{\prime}"
+"\displaystyle\iff\forall a,a^{\prime}\in[n]\colon\sigma(a\ast a^{\prime})=\sigma(a)\ast\sigma(a^{\prime})"
+"\sigma^{k}(x_{p,q})=\sigma^{k}(\sigma^{p}(a)\ast\sigma^{q}(b))=\sigma^{k+p}(a)\ast\sigma^{k+q}(b)=x_{(k+p)\bmod r,\,(k+q)\bmod s}"
+"\displaystyle 2\pi\int^{q}_{-D}dq\rho^{\rm imp}(q,T)"
+\frac{n!}{1^{j_{1}}\cdots n^{j_{n}}j_{1}!\cdots j_{n}!}=\frac{n!}{\prod_{i=1}^{n}i^{j_{i}}j_{i}!}
+"\ast_{\sigma}=\sigma\circ\ast\circ(\sigma^{-1}\times\sigma^{-1}),"
+\phi\circ\ast=\star\circ\phi^{\times k}.
+\displaystyle\ast_{\sigma\circ\tau}
+\displaystyle=\sigma\circ\tau\circ\ast\circ((\sigma\circ\tau)^{-1})^{\times k}
+\displaystyle=\sigma\circ\tau\circ\ast\circ(\tau^{-1})^{\times k}\circ(\sigma^{-1})^{\times k}
+\displaystyle\epsilon_{el}=\epsilon_{q}(q)-\epsilon(\lambda).
+\displaystyle=\sigma\circ\ast_{\tau}\circ(\sigma^{-1})^{\times k}
+\displaystyle\iff\sigma\circ\ast\circ(\sigma^{-1})^{\times k}=\ast
+\displaystyle\iff\sigma\circ\ast=\ast\circ\sigma^{\times k}
+L[\hat{a}]\hat{u}=\hat{f}.
+"\delta_{el}(\epsilon,T)=\delta_{el}(-\epsilon,T)."
+"\frac{(n-1)!}{(n-i)!}t_{i}(n-i)!Z_{n-i}=(n-1)!t_{i}Z_{n-i},"
+"\sum_{i=1}^{n}(n-1)!t_{i}Z_{n-i}=n!Z_{n},"
+"d_{E}(\mathbf{x},\mathbf{y})=\sqrt{(x_{1}-x_{2})^{2}+(y_{1}-y_{2})^{2}}"
+"d_{max}(\mathbf{x},\mathbf{y})=max\{|x_{1}-x_{2}|,|y_{1}-y_{2}|\}"
+"d_{1}(\mathbf{x},\mathbf{y})=\{|x_{1}-x_{2}|+|y_{1}-y_{2}|\}"
+\lim_{p_{i}\rightarrow p}{K(p_{i})}<\infty
+"\displaystyle\delta_{el\uparrow}(\epsilon_{el},T)"
+"K_{l.c.t}(p)=\frac{1}{d(p,q_{2})}"
+"S\bigcap B(k,r)=\{p\}"
+\displaystyle x_{1}(t_{1})
+\displaystyle x_{2}(t_{1})
+\displaystyle x_{1}(t_{2})
+\displaystyle x_{2}(t_{2})
+\displaystyle(x_{1}(t_{1})-x_{10})^{2}+\left(x_{2}(t_{1})-x_{20}\right)^{2}
+\displaystyle(x_{1}(t_{2})-x_{10})^{2}+\left(x_{2}(t_{2})-x_{20}\right)^{2}
+"\rho(r)\propto{1\over(r/r_{v})^{\alpha}(1/c+r/r_{v})^{2}},"
+\displaystyle\epsilon_{el}
+"\lambda={JE^{1/2}\over GM^{5/2}},"
+"{\cal J}(r)\propto\left({r\over r_{v}}\right)^{\beta},"
+"{r_{\rm es}}={1\over\sqrt{2}}{j_{d}\over m_{d}}\lambda r_{v},"
+{m_{\rm tot}}M(<r_{i})\geq 3M(<r_{f}).
+"H(p,x)={1\over 2m}{p^{2}}+{m{\omega^{2}}\over 2}{x^{2}}+g{1\over x^{2}},"
+"0<g<{3\hbar^{2}\over 8m},"
+"a={1\over 2}\sqrt{1+{8mg\over\hbar^{2}}},"
+"(U-I)\Psi+i{L_{0}}(U+I)\Psi^{\prime}=0,"
+"\left[(U-I)+i{L_{0}}\xi(U+I)\right]\Psi=0,"
+"\det\left|U-I+i{L_{0}}\xi(U+I)\right|=\det\left|D-I+i{L_{0}}\xi(D+I)\right|=0,"
+\displaystyle\epsilon(q)-\epsilon(\lambda_{0}).
+"D=\pmatrix{e^{i{\theta_{+}}}&0\cr 0&e^{i{\theta_{-}}}},"
+"E^{(1)}_{n}=(2n+{c_{1}})\hbar\omega,\qquad E^{(2)}_{n}=(2n+{c_{2}})\hbar\omega,"
+\hat{\mathbf{e}}_{l}=f(\mathbf{e}_{l}\oplus\mathbf{e}^{\prime}_{l})
+\mathbf{h}^{0}_{l}=\hat{\mathbf{e}}_{l}
+"\widetilde{r}_{u,i}=MLP(\mathbf{e}_{u}\oplus\mathbf{e}_{i})"
+"\displaystyle\mathcal{L}=mu^{\mu}u_{\mu}/2+eA^{\mu}u_{\mu}+mc^{2}/2,"
+"\displaystyle m\frac{du_{\mu}}{ds}=eF_{\mu\nu}u^{\nu},"
+"\displaystyle u^{\mu}=\frac{dX^{\mu}}{ds},"
+\displaystyle\frac{dX^{\mu}}{ds}
+"\displaystyle=\frac{P^{\mu}-eA^{\mu}}{m},"
+\displaystyle\phi_{n}(\lambda)
+\displaystyle\frac{dP_{\mu}}{ds}
+"\displaystyle=\frac{e}{m}(\partial_{\mu}A_{\nu})(P^{\nu}-eA^{\nu}),"
+\displaystyle\frac{dX^{\mu}}{ds}=\Psi^{\dagger}c\gamma^{0}\gamma^{\mu}\Psi.
+\displaystyle\frac{d}{ds}\langle\psi|\hat{x}^{\mu}|\psi\rangle
+"\displaystyle=\langle\psi|c\gamma^{0}\gamma^{\mu}|\psi\rangle,"
+\displaystyle\frac{d}{ds}\langle\psi|\hat{p}_{\mu}|\psi\rangle
+"\displaystyle=c\gamma^{0}\gamma^{\mu},"
+\displaystyle\frac{1}{T}\epsilon_{n}(\lambda-\frac{1}{\pi}\log(\frac{2A}{T}));
+"\displaystyle{[}\hat{x}^{\mu},\hat{p}_{\nu}{]}"
+"\displaystyle=-i\hbar\kappa\delta^{\mu}_{\,\,\,\,\nu},"
+"\displaystyle{[}\hat{x}^{\mu},\hat{\lambda}_{\nu}{]}"
+"\displaystyle=-i\delta^{\mu}_{\,\,\,\,\nu},"
+"\displaystyle{[}\hat{p}_{\mu},\hat{\theta}^{\nu}{]}"
+"\displaystyle=-i\delta^{\nu}_{\,\,\,\,\mu},"
+"\displaystyle{[}\hat{\lambda}_{\mu},\hat{\theta}^{\nu}{]}"
+\displaystyle\hat{x}^{\prime\mu}
+"\displaystyle=\hat{x}^{\mu}+\hbar\kappa\hat{\theta}^{\mu},"
+\displaystyle\phi^{\prime}_{1}(g(q))
+\displaystyle\hat{\lambda}^{\prime}_{\mu}
+"\displaystyle=-\hat{\lambda}_{\mu},"
+\displaystyle\hat{p}^{\prime}_{\nu}
+"\displaystyle=\hat{p}_{\nu}-\hbar\kappa\hat{\lambda}_{\nu},"
+\displaystyle\hat{\theta}^{\prime\mu}
+"\displaystyle=-\hat{\theta}^{\mu},"
+"\displaystyle{[}\hat{x}^{\prime\mu},\hat{p}^{\prime}_{\nu}{]}"
+"\displaystyle=i\hbar\kappa\delta^{\mu}_{\,\,\,\,\nu},"
+"\displaystyle{[}\hat{p}^{\prime}_{\mu},\hat{\theta}^{\prime\nu}{]}"
+"\displaystyle=i\delta^{\nu}_{\,\,\,\,\mu},"
+\displaystyle-\frac{1}{T}\epsilon(-g(q)+\frac{1}{\pi}\log(\frac{2A}{T}));
+"\displaystyle{[}\hat{x}^{\prime\mu},\hat{\lambda}^{\prime}_{\nu}{]}"
+"\displaystyle=i\delta^{\mu}_{\,\,\,\,\nu},"
+"\displaystyle{[}\hat{\lambda}^{\prime}_{\mu},\hat{\theta}^{\prime\nu}{]}"
+"\displaystyle[\hat{x}^{\prime\mu},\hat{x}^{\nu}]"
+"\displaystyle[\hat{x}^{\prime\mu},\hat{p}_{\nu}]"
+"\displaystyle[\hat{p}^{\prime}_{\mu},\hat{x}^{\nu}]"
+"\displaystyle[\hat{p}^{\prime}_{\mu},\hat{p}_{\nu}]"
+"\displaystyle c\gamma^{0}\gamma^{\mu},"
+"\displaystyle ce\partial_{\mu}\hat{A}_{\nu}\gamma^{0}\gamma^{\nu},"
+"\displaystyle[\hat{X}^{\mu},\hat{P}_{\nu}]"
+\displaystyle\phi^{\prime}_{n+1}(\lambda)
+"\displaystyle{[}\hat{X}^{\mu},\hat{\Lambda}_{\nu}{]}"
+"\displaystyle{[}\hat{P}_{\mu},\hat{\Theta}^{\nu}{]}"
+"\displaystyle{[}\hat{\Lambda}_{\mu},\hat{\Theta}^{\nu}{]}"
+\displaystyle\hat{x}^{\mu}
+"\displaystyle=\hat{X}^{\mu}-\frac{\hbar\kappa}{2}\hat{\Theta}^{\mu},"
+\displaystyle\hat{\lambda}_{\mu}
+"\displaystyle=\hat{\Lambda}_{\mu},"
+\displaystyle\ \hat{p}_{\mu}
+"\displaystyle=\hat{P}_{\mu}+\frac{\hbar\kappa}{2}\hat{\Lambda}_{\mu},"
+\displaystyle\hat{\theta}^{\mu}
+"\displaystyle\frac{\sqrt{2U\Gamma}}{2\pi},"
+\displaystyle=\hat{\Theta}^{\mu}.
+"\displaystyle\frac{d\hat{x}^{\mu}}{ds}=c\gamma^{0}\gamma^{\mu},"
+\displaystyle u^{\mu}u_{\mu}=c^{2}
+\displaystyle\mathcal{H}=0.
+\displaystyle=e(\partial_{\mu}A_{\nu})u^{\nu}.
+\displaystyle m\frac{du_{\mu}}{ds}
+\displaystyle=e(\partial_{\mu}A_{\nu}-\partial_{\nu}A_{\mu})u^{\nu}.
+\displaystyle=eF_{\mu\nu}u^{\nu}.
+\displaystyle\xi_{n}(\lambda)
+\displaystyle\int\mathcal{L}ds
+"\displaystyle\int Ldt,"
+\displaystyle\int\mathcal{L}\frac{ds}{dt}dt
+L=\mathcal{L}\frac{ds}{dt}.
+\displaystyle\exp(\hat{A})=\sum_{k=0}^{\infty}\frac{\hat{A}^{k}}{k!}.
+"\displaystyle f^{\prime}_{\hat{A}_{k}}(\hat{A}_{1},\ldots,\hat{A}_{n})"
+"\displaystyle[\hat{A}_{1}\cdots\hat{A}_{n},\hat{B}]"
+"\displaystyle[\hat{x},G(\hat{x},\hat{p})]"
+"\displaystyle=i\hbar\frac{\partial G(\hat{x},\hat{p})}{\partial\hat{p}}"
+"\displaystyle=-i\hbar\frac{\partial G(\hat{x},\hat{p})}{\partial\hat{x}}."
+"\displaystyle                      -\delta_{n1}e^{\pi\lambda},"
+"[\hat{x}^{\mu},\hat{p}_{\nu}]=-i\delta^{\mu}_{\,\,\,\,\nu}\hbar,"
+\displaystyle\hat{p}_{\mu}
+"\displaystyle i\hbar\frac{\partial\,\,\,}{\partial x^{\mu}}."
+\displaystyle\rightarrow i\hbar\frac{\partial}{\partial t}
+"\displaystyle[\hat{X}^{\mu},\hat{\Lambda}_{\nu}]"
+"\displaystyle-i\delta^{\mu}_{\,\,\,\,\nu},"
+"\displaystyle{[}\hat{\Theta}^{\nu},\hat{P}_{\mu}{]}"
+\displaystyle\hat{X}^{\mu}
+"\displaystyle X^{\mu},"
+\sigma^{\rm imp}_{h1}(\lambda)=0;~{}~{}~{}\sigma^{\rm imp}_{m}=0;~{}~{}~{}m>1.
+\displaystyle\hat{\Lambda}_{\mu}
+"\displaystyle i\frac{\partial\,\,\,}{\partial X^{\mu}},"
+"\displaystyle P_{\mu},"
+\displaystyle\hat{\Theta}^{\mu}
+"\displaystyle-i\frac{\partial\,\,\,}{\partial P_{\mu}}."
+"\displaystyle i\frac{\partial\,\,\,}{\partial\Theta^{\mu}},"
+"\displaystyle\Theta^{\mu},"
+"F\!\!\!\!/=\frac{1}{2}\sigma^{\mu\nu}F_{\mu\nu},"
+\displaystyle\gamma^{0}\frac{d}{ds}u\!\!\!/
+\displaystyle=\left\langle\gamma^{0}eF\!\!\!\!/u\!\!\!/\right\rangle_{H}.
+\displaystyle\sigma^{\rm imp}_{h1}(\lambda)
+\displaystyle\langle\gamma^{0}\sigma^{\mu\nu}\gamma_{\xi}\rangle_{H}
+"\displaystyle\frac{dX^{\mu}}{ds}=\Psi^{\dagger}c\gamma^{0}\gamma^{\mu}\Psi,"
+"\displaystyle u\!\!\!/\rightarrow u^{\prime}\!\!\!\!\!/=Lu\!\!\!/L^{-1},"
+\displaystyle u\!\!\!/=cL\gamma^{0}L^{-1}.
+\displaystyle u\!\!\!/=cB^{2}\gamma^{0}=c\gamma^{0}B^{-2}.
+\displaystyle\frac{d}{ds}X\!\!\!\!/
+\displaystyle=u\!\!\!/
+"\displaystyle\gamma^{0}\frac{d}{ds}u\!\!\!/,"
+"\displaystyle=\left\langle\gamma^{0}eF\!\!\!\!/u\!\!\!/\right\rangle_{H},"
+"\displaystyle\frac{dL}{ds}=\frac{\Omega}{2}L,"
+\displaystyle\sigma^{\prime\rm imp}_{hn}(\lambda)
+"\displaystyle=cLL^{\dagger}\gamma^{0},"
+\displaystyle\frac{dL}{ds}
+"\displaystyle=\frac{eF\!\!\!\!/}{2}L,"
+\displaystyle\gamma^{0}\mathcal{P}
+"\displaystyle=\mathcal{P},"
+\displaystyle i\gamma^{1}\gamma^{2}\mathcal{P}
+\displaystyle=\mathcal{P}.
+"\displaystyle=\Psi^{\dagger}c\gamma^{0}\gamma^{\mu}\Psi,"
+\displaystyle\frac{d\Psi}{ds}
+\displaystyle=\frac{eF\!\!\!\!/}{2}\Psi.
+\displaystyle\int^{\infty}_{-\infty}dq\rho^{\rm imp}_{p}(q)a_{n}(\lambda-g(q))
+"\displaystyle=\sigma_{3}\otimes\mathbf{1},"
+\displaystyle\gamma^{j}
+\displaystyle=i\sigma_{2}\otimes\sigma_{j};
+"\displaystyle=\sigma_{1}\otimes\mathbf{1},"
+\displaystyle=i\sigma_{2}\otimes\sigma_{j}.
+\displaystyle{\gamma^{0}}^{\dagger}
+"\displaystyle=\gamma^{0},"
+\displaystyle(\gamma^{k})^{\dagger}
+"\displaystyle=-(\gamma^{k})^{\dagger},"
+\displaystyle=\gamma_{\mu}^{-1}.
+\displaystyle\delta_{n1}s(\lambda-\lambda^{\prime\prime})
+\displaystyle J\!\!\!/=\mathcal{L}{\mathcal{L}}^{\dagger}\gamma^{0}.
+\displaystyle p\!\!\!/_{+\uparrow}=mc{J\!\!\!/}_{+\uparrow}\gamma^{0}
+\displaystyle{J\!\!\!/}_{-\uparrow}
+"\displaystyle=-\frac{p\!\!\!/\gamma^{0}}{mc},"
+\displaystyle{p\!\!\!/}_{-\uparrow}
+"\displaystyle=p\!\!\!/,"
+"\displaystyle u^{0}=c\frac{dt}{d\tau}=\frac{p^{0}}{mc}<0,"
+"\displaystyle=-U^{\prime}(X),"
+"\displaystyle=\frac{m\frac{dX}{dt}}{\sqrt{1-\left(\frac{dX}{dt}/c\right)^{2}}},"
+\displaystyle\sigma^{\rm imp}_{p1}(\lambda)+\sigma^{\rm imp}_{h1}(\lambda)
+\displaystyle=V^{\prime}(P);\qquad V(P)=\sqrt{(cP)^{2}+c^{4}m^{2}}.
+\displaystyle\frac{d\overline{P}}{dt}
+"\displaystyle=-\overline{U^{\prime}(X)},"
+\displaystyle\frac{d\overline{X}}{dt}
+\displaystyle=\overline{V^{\prime}(P)}.
+\displaystyle\frac{d}{dt}\left\langle{\psi(t)}\right|\hat{p}\left|\psi(t)\right\rangle
+\displaystyle\frac{d}{dt}\left\langle{\psi(t)}\right|\hat{x}\left|\psi(t)\right\rangle
+"\displaystyle i\hbar\left|d\psi(t)/dt\right\rangle=\hat{H}\left|\psi(t)\right\rangle,"
+"\displaystyle\frac{i}{\hbar}[\hat{H},\hat{p}]"
+"\displaystyle=-U^{\prime}(\hat{x}),"
+\displaystyle\sigma^{\prime\rm imp}_{pn}(\lambda)+\sigma^{\prime\rm imp}_{hn}(\lambda)
+"\displaystyle\frac{i}{\hbar}[\hat{H},\hat{x}]"
+\displaystyle=V^{\prime}(\hat{p}).
+"\displaystyle[\hat{x},\hat{p}]=i\hbar."
+\displaystyle\frac{\partial\hat{H}}{\partial\hat{x}}
+\displaystyle\frac{\partial\hat{H}}{\partial\hat{p}}
+"\displaystyle=V^{\prime}(\hat{p}),"
+\displaystyle\frac{d}{dt}\left\langle{\psi(t)}\right|\hat{P}\left|\psi(t)\right\rangle
+\displaystyle\frac{d}{dt}\left\langle{\psi(t)}\right|\hat{X}\left|\psi(t)\right\rangle
+\displaystyle i\left|d\psi(t)/dt\right\rangle=\hat{K}\left|\psi(t)\right\rangle.
+"\displaystyle\left\langle{\psi(t)}\right|i[\hat{H},\hat{P}]\left|\psi(t)\right\rangle"
+\displaystyle-\int^{B}_{-D}dqa_{1}(\lambda-g(q))\rho^{\rm imp}(q).
+"\displaystyle\left\langle{\psi(t)}\right|i[\hat{H},\hat{X}]\left|\psi(t)\right\rangle"
+"\displaystyle i[\hat{K},\hat{P}]"
+"\displaystyle=-U^{\prime}(\hat{X}),"
+"\displaystyle i[\hat{K},\hat{X}]"
+\displaystyle=V^{\prime}(\hat{P}).
+"\displaystyle[\hat{X},\hat{P}]=0."
+"\displaystyle{[}\hat{X},\hat{\Lambda}{]}"
+"\displaystyle{[}\hat{P},\hat{\Theta}{]}"
+"\displaystyle{[}\hat{\Lambda},\hat{\Theta}{]}"
+\displaystyle\frac{\partial\hat{K}}{\partial\hat{\Theta}}
+\displaystyle\rho_{0}^{\rm imp}(q)
+\displaystyle\frac{\partial\hat{K}}{\partial\hat{\Lambda}}
+"\displaystyle=V^{\prime}(\hat{P}),"
+"\displaystyle=-i\frac{\partial}{\partial X},"
+\displaystyle=-i\frac{\partial}{\partial P}.
+"\displaystyle=eF_{\mu\nu}u^{\nu},"
+\displaystyle u^{\mu}=\frac{dX^{\mu}}{ds}.
+\displaystyle=\frac{e}{m}(\partial_{\mu}A_{\nu})(P^{\nu}-eA^{\nu}).
+\displaystyle\frac{d\overline{X^{\mu}}}{ds}
+"\displaystyle=\overline{\frac{P^{\mu}-eA^{\mu}}{m}},"
+\displaystyle\Delta_{01}^{\rm imp}(q)+\Delta_{02}^{\rm imp}(q);
+\displaystyle\frac{d\overline{P_{\mu}}}{ds}
+\displaystyle=\frac{e}{m}\overline{(\partial_{\mu}A_{\nu})(P^{\nu}-eA^{\nu})}.
+\displaystyle\frac{d\langle\Psi|\hat{X}^{\mu}|\Psi\rangle}{ds}
+"\displaystyle=\langle\Psi|\frac{\hat{P}^{\mu}-e\hat{A}^{\mu}}{m}|\Psi\rangle,"
+\displaystyle\frac{d\langle\Psi|\hat{P}_{\mu}|\Psi\rangle}{ds}
+"\displaystyle i[\hat{X}^{\mu},G]"
+"\displaystyle=\frac{\hat{P}^{\mu}-e\hat{A}^{\mu}}{m},"
+"\displaystyle i[\hat{P}_{\mu},G]"
+\displaystyle\sigma_{0}^{\rm imp}(\lambda)
+"\displaystyle=\overline{u^{\mu}},"
+\displaystyle m\frac{d\overline{u_{\mu}}}{ds}
+\displaystyle=e\overline{F_{\mu\nu}u^{\nu}}.
+"\displaystyle=\hat{u}^{\mu},"
+"\displaystyle i[\hat{u}_{\mu},G]"
+\displaystyle=eF_{\mu\nu}\hat{u}^{\nu}.
+"\displaystyle[\hat{X}^{\mu},\hat{u}_{\nu}]"
+"\displaystyle{[}\hat{u}_{\mu},\hat{\Theta}^{\nu}{]}"
+\displaystyle\frac{\partial G}{\partial\hat{\Lambda}_{\mu}}
+"\displaystyle\sigma_{01}^{\rm imp}(\lambda)+\sigma_{02}^{\rm imp}(\lambda),"
+\displaystyle\frac{\partial G}{\partial\hat{\Theta}^{\mu}}
+"\displaystyle=eF_{\mu\nu}\hat{u}^{\nu},"
+\displaystyle\frac{d\langle\psi|\hat{x}^{\mu}|\psi\rangle}{ds}
+"\displaystyle=\langle\psi|\frac{\hat{p}^{\mu}-e\hat{A}^{\mu}}{m}|\psi\rangle,"
+\displaystyle\frac{d\langle\psi|\hat{p}_{\mu}|\psi\rangle}{ds}
+"\displaystyle\hbar\frac{d|\psi\rangle}{ds}=i\mathcal{K}|\psi\rangle,"
+"\displaystyle\frac{i}{\hbar}[\hat{x}^{\mu},\mathcal{K}]"
+"\displaystyle=\frac{\hat{p}^{\mu}-e\hat{A}^{\mu}}{m},"
+"\displaystyle\frac{i}{\hbar}[\hat{p}_{\mu},\mathcal{K}]"
+"\displaystyle[\hat{x}^{\mu},\hat{p}_{\nu}]=-i\hbar\delta^{\mu}_{\,\,\,\,\nu}."
+\displaystyle\Delta_{0i}^{\rm imp}(q)
+\displaystyle\frac{\partial\mathcal{K}}{\partial\hat{p}_{\mu}}
+\displaystyle=\frac{\hat{p}^{\mu}-e\hat{A}^{\mu}}{m}
+\displaystyle\frac{\partial\mathcal{K}}{\partial\hat{x}^{\mu}}
+\displaystyle\frac{d}{dt}\overline{{X}_{k}}
+"\displaystyle=\frac{1}{m}\overline{{P}_{k}},"
+\displaystyle\frac{d}{dt}\overline{{P}_{k}}
+"\displaystyle=-\overline{\partial_{k}U({\bf X})},"
+\displaystyle\frac{d}{dt}\overline{{S}_{i}}
+"\displaystyle=\frac{1}{m}\overline{\left[{P}_{k}-eA_{k}({\bf X})\right]},"
+\displaystyle\frac{d}{dt}\langle\Psi|\hat{x}_{k}|\Psi\rangle
+\displaystyle\sigma_{0i}^{\rm imp}(\lambda)
+"\displaystyle=\frac{1}{m}\langle\Psi|\hat{p}_{k}-e\hat{A}_{k}|\Psi\rangle,"
+\displaystyle\frac{d}{dt}\langle\Psi|\hat{p}_{k}|\Psi\rangle
+\displaystyle\frac{d}{dt}\langle\Psi|\hat{S}_{i}|\Psi\rangle
+"\displaystyle\frac{i}{\hbar}[\hat{H},\hat{x}_{k}]"
+"\displaystyle=\frac{1}{m}\left(\hat{p}_{k}-e\hat{A}_{k}\right),"
+"\displaystyle\frac{i}{\hbar}[\hat{H},\hat{p}_{k}]"
+"\displaystyle\frac{i}{\hbar}[\hat{H},\hat{S}_{i}]"
+"\displaystyle=-\frac{e}{m}\sum_{j,k=1}^{3}\epsilon_{ijk}B_{j}\hat{S}_{k}."
+\displaystyle\frac{\partial F_{0}}{\partial p_{k}}
+"\displaystyle=\frac{1}{m}\left(p_{k}-e\hat{A}_{k}\right),"
+\displaystyle\int^{\infty}_{-\infty}dq\Delta_{0i}(q)a_{1}(\lambda-g(q))
+\displaystyle\frac{\partial F_{j}}{\partial p_{k}}
+\displaystyle\frac{\partial F_{0}}{\partial x_{k}}
+\displaystyle\frac{\partial F_{j}}{\partial x_{k}}
+"\displaystyle=-\frac{e}{m}\partial_{k}B_{j},"
+\displaystyle=-\frac{e}{m}B_{j}.
+"\displaystyle[\hat{X}_{k},\hat{P}_{j}]"
+"\displaystyle=0,\qquad[\hat{X}_{k},\hat{\Lambda}_{l}]=i\delta_{k,l},"
+"\displaystyle[\hat{P}_{k},\hat{\Theta}_{l}]"
+\displaystyle\frac{\partial G_{0}}{\partial\Lambda_{k}}
+"\displaystyle=\frac{\hbar}{m}\left(P_{k}-e\hat{A}_{k}\right),"
+\displaystyle\frac{U_{i}}{2}+\epsilon_{di}-\tilde{\epsilon}_{di};
+\displaystyle\frac{\partial G_{j}}{\partial\Lambda_{k}}
+\displaystyle\frac{\partial G_{0}}{\partial\Theta_{k}}
+\displaystyle\frac{\partial G_{j}}{\partial\Theta_{k}}
+\displaystyle=\frac{e\hbar}{m}\partial_{k}B_{j}
+"[T_{a},T_{b}]=C_{ab}^{c}T_{c}\quad,"
+A=A^{a}T_{a}
+"L=\eta_{a}T^{a}\quad,\quad T^{a}(T_{b})=\delta^{a}_{b}"
+"I=\int_{\cal M}L(F(A))=\int_{\cal M}\eta_{a}F^{a}\quad,"
+"[M,P_{a}]={\epsilon^{b}}_{a}P_{b}\quad,\quad[P_{a},P_{b}]=0\quad,"
+"[M,P_{a}]={\epsilon^{b}}_{a}P_{b},\qquad[P_{a},P_{b}]=-\epsilon_{ab}I\ ."
+\displaystyle\frac{U_{i}\Gamma_{i}}{2\alpha_{i}\tilde{\Gamma}_{i}}.
+"[M,P_{a}]={\epsilon^{b}}_{a}P_{b},\qquad[P_{a},P_{b}]=-\Lambda\epsilon_{ab}M\ ,"
+"df(X)=X.f\quad,\quad\alpha(X,Y)=X.\alpha(Y)-Y.\alpha(X)-\alpha([X,Y])\quad,"
+"{1\over 2}\eta^{a}\eta_{a}+J=C\quad,"
+e^{a}={1\over V}(\eta^{a}\omega-\epsilon^{ba}d\eta_{b})\quad.
+"{1\over 2}\eta^{a}\eta_{a}+2u^{2}-{i\over 8}u{{}^{\prime}}{\bar{\chi}}\chi=C\quad,"
+"\{H,H\}\sim D,\ \ \ \{H,D\}\sim H,\ \ \ \{D,D\}\sim D,"
+"\{H_{1},H_{2}\}\sim D,\ \ \ \{H_{i},D\}\sim H_{i},"
+"\displaystyle S[{\vec{u}},{\vec{v}},N,M,\lambda]="
+"\displaystyle\frac{1}{2}(\vec{p}^{2}-\vec{v}^{2})\,,"
+"\displaystyle\frac{1}{2}(\vec{\pi}^{2}-\vec{u}^{2})\,,"
+"\displaystyle{\bf|\epsilon_{d1}-\epsilon_{d2}|\gg\Gamma_{1},\Gamma_{2}:}"
+"\displaystyle{\vec{u}}\cdot{\vec{p}}-{\vec{v}}\cdot{\vec{\pi}}\,."
+"\displaystyle\dot{\vec{u}}=N{\vec{p}}+\lambda{\vec{u}}\,,"
+"\displaystyle\dot{\vec{v}}=M{\vec{\pi}}-\lambda{\vec{v}}\,,"
+"\displaystyle\dot{\vec{p}}=M{\vec{u}}-\lambda{\vec{p}}\,,"
+"\displaystyle\dot{\vec{\pi}}=N{\vec{v}}+\lambda{\vec{\pi}}\,."
+\displaystyle{\dot{H}}_{1}
+"\displaystyle\ MD-2\lambda H_{1}\,,"
+\displaystyle{\dot{H}}_{2}
+"\displaystyle-ND+2\lambda H_{2}\,,"
+\displaystyle{\dot{D}}
+\displaystyle\mathcal{S}^{N}[\hat{a}](F)
+\displaystyle\tilde{\Gamma}_{1/2}
+"\displaystyle-2MH_{2}+2NH_{1}\,."
+"\displaystyle\{H_{1}\,,\,H_{2}\}"
+"\displaystyle\{H_{1}\,,\,D\}"
+"\displaystyle-2H_{1}\,,"
+"\displaystyle\{H_{2}\,,\,D\}"
+"\displaystyle 2H_{2}\,."
+"\displaystyle S_{GR}[g,N,\lambda]"
+"\displaystyle\int dt\int\sqrt{g}d\vec{x}\ N\,(Dg^{2}+R[g]),"
+\displaystyle Dg_{ab}
+\displaystyle\frac{1}{N}(\dot{g}_{ab}-2D_{(a}\lambda_{b)})
+\displaystyle\tilde{\epsilon}_{d1/2}
+\displaystyle\delta{\vec{u}}
+"\displaystyle l(t){\vec{u}}+n(t){\vec{p}}\,,"
+\displaystyle\delta{\vec{p}}
+"\displaystyle m(t){\vec{u}}-l(t){\vec{p}}\,,"
+\displaystyle\delta{\vec{\pi}}
+"\displaystyle l(t){\vec{\pi}}+n(t){\vec{v}}\,,"
+\displaystyle\delta{\vec{v}}
+"\displaystyle m(t){\vec{\pi}}-l(t){\vec{v}}\,,"
+"\displaystyle{\dot{n}}(t)-2n(t)\lambda+2l(t)N\,,"
+"\displaystyle{\dot{m}}(t)+2m(t)\lambda-2l(t)M\,,"
+"\displaystyle{\bf|\epsilon_{d1}-\epsilon_{d2}|}\ll\Gamma_{1},\Gamma_{2}:"
+"\displaystyle\,{\dot{l}}(t)+n(t)M-m(t)N\,."
+"\displaystyle{\vec{u}}^{\prime}=\alpha(t){\vec{u}}+\beta(t){\vec{p}}\,,"
+"\displaystyle{\vec{\pi}}^{\prime}=\alpha(t){\vec{\pi}}+\beta(t){\vec{v}}\,,"
+"\displaystyle{\vec{p}}^{\prime}=\gamma(t){\vec{u}}+\delta(t){\vec{p}}\,,"
+"\displaystyle{\vec{v}}^{\prime}=\gamma(t){\vec{\pi}}+\delta(t){\vec{v}}\,,"
+G(t)=\pmatrix{\alpha(t)&\beta(t)\cr\gamma(t)&\delta(t)}
+"A(t)=\pmatrix{\lambda(t)&N(t)\cr M(t)&-\lambda(t)}\,."
+A^{\prime}=GAG^{-1}-G\frac{d}{dt}G^{-1}
+U(t)=\pmatrix{a(t)&b(t)\cr c(t)&d(t)}
+"\frac{d}{dt}U(t)-A(t)U(t)=0\,."
+\displaystyle\tilde{\Gamma}_{1}
+"\displaystyle U(t)={\cal P}e^{\int_{0}^{t}A(t^{\prime})dt^{\prime}}\,."
+\displaystyle\vec{u}(t)
+"\displaystyle a(t)\vec{u}_{0}+b(t)\vec{p}_{0},"
+\displaystyle\vec{v}(t)
+\displaystyle c(t)\vec{\pi}_{0}+d(t)\vec{v}_{0}.
+a(t)d(t)-b(t)c(t)=1
+"\displaystyle\dot{b}(t)a(t)-\dot{a}(t)b(t)\,,"
+"\displaystyle\dot{c}(t)d(t)-\dot{d}(t)c(t)\,,"
+"\displaystyle\dot{a}(t)d(t)-\dot{b}(t)c(t)\,."
+\displaystyle{\vec{u}}(t)
+\displaystyle\Gamma_{1}+\Gamma_{2};
+"\displaystyle(r\cos(\epsilon t)\,,\,r\sin(\epsilon t))\,,"
+\displaystyle{\vec{v}}(t)
+\displaystyle{\vec{p}}(t)
+"\displaystyle(-r\epsilon\sin(\epsilon t)\,,\,r\epsilon\cos{(\epsilon t)})\,,"
+\displaystyle{\vec{\pi}}(t)
+"O_{ij}=\vec{x}_{i}\times\vec{x}_{j}=x_{i}^{1}x_{j}^{2}-x_{i}^{2}x_{j}^{1},"
+"\displaystyle O_{12}=u^{1}p^{2}-p^{1}u^{2},"
+"\displaystyle O_{23}=u^{2}v^{1}-p^{2}\pi^{1},"
+"\displaystyle O_{13}=u^{1}v^{1}-p^{1}\pi^{1},"
+"\displaystyle O_{24}=u^{2}v^{2}-p^{2}\pi^{2},"
+\displaystyle\tilde{\epsilon}_{d1}
+"\displaystyle O_{14}=u^{1}v^{2}-p^{1}\pi^{2},"
+\displaystyle O_{34}=\pi^{1}v^{2}-v^{1}\pi^{2}.
+"\{O_{ij},O_{kl}\}=g_{ik}O_{jl}-g_{il}O_{jk}+g_{jl}O_{ik}-g_{jk}O_{il}."
+"\displaystyle O_{12}=\epsilon J\,,"
+"\displaystyle O_{34}=\epsilon^{\prime}J\,,"
+"\displaystyle O_{13}=J\cos\phi\,,"
+"\displaystyle O_{24}=\epsilon\epsilon^{\prime}J\cos\phi\,,"
+"\displaystyle O_{14}=J\sin\phi\ \,,"
+"\displaystyle O_{23}=-\epsilon\epsilon^{\prime}J\sin\phi\,."
+J=r^{2}.
+\displaystyle\frac{\epsilon_{d1}+\epsilon_{d2}}{2};
+\displaystyle\epsilon\ O_{34}
+"\displaystyle\ \epsilon^{\prime}\ O_{12}\,,"
+\displaystyle\epsilon\ O_{24}
+"\displaystyle\ \epsilon^{\prime}\ O_{13}\,,"
+\displaystyle\epsilon\ O_{23}
+"\displaystyle-\epsilon^{\prime}\ O_{14}\,,"
+\displaystyle O_{ij}O^{ij}
+"\displaystyle\ \ 0\,,"
+"\displaystyle{u^{1}p^{2}-p^{1}u^{2}\over|u^{1}p^{2}-p^{1}u^{2}|}\,,"
+"\displaystyle{\pi^{1}v^{2}-v^{1}\pi^{2}\over|\pi^{1}v^{2}-v^{1}\pi^{2}|}\,,"
+\displaystyle\tilde{\Gamma}_{2}
+"\displaystyle|u^{1}p^{2}-p^{1}u^{2}|\,,"
+"\displaystyle\arctan{u^{1}v^{2}-p^{1}\pi^{2}\over u^{1}v^{1}-p^{1}\pi^{1}}\,,"
+"\{J,\phi\}=\epsilon\epsilon^{\prime}."
+"\displaystyle\epsilon J=\vec{u}\times\vec{p}\,,"
+\displaystyle-O_{34}
+"\displaystyle-\epsilon^{\prime}J=\vec{v}\times\vec{\pi}\,."
+"M^{ab}\equiv\pmatrix{O_{13}&O_{14}\cr O_{23}&O_{24}}=u^{a}v^{b}-p^{a}\pi^{b},"
+u^{a}(t)v^{b}(t)\ \epsilon_{ac}\epsilon_{bd}\ M^{cd}=O_{12}O_{34}.
+\displaystyle R:=\epsilon Je^{i\phi}
+"\displaystyle\epsilon(O_{13}+iO_{14})=\epsilon^{\prime}(O_{24}-iO_{23}),"
+\displaystyle\tilde{\epsilon}_{d2}
+\displaystyle S:=\epsilon Je^{-i\phi}
+"\displaystyle\epsilon(O_{13}-iO_{14})=\epsilon^{\prime}(O_{24}+iO_{23}),"
+"\overline{J}=J,\ \ \ \overline{R}=S."
+"\displaystyle U^{2}(s,y,z;J,\phi,\epsilon,\epsilon^{\prime})"
+"\displaystyle V^{1}(s,x,z;J,\phi,\epsilon,\epsilon^{\prime})"
+"\displaystyle V^{2}(s,x,y;J,\phi,\epsilon,\epsilon^{\prime})"
+A=\pmatrix{0&N(t)\cr 0&0}
+U(t)=\pmatrix{1&b(t)\cr 0&1}
+\displaystyle{\vec{u}}
+"\displaystyle\vec{u}_{0}+b(t)\vec{p}_{0},"
+\displaystyle\rho_{i}^{\rm imp}(q)
+\displaystyle{\vec{v}}
+\displaystyle\vec{v}_{0}
+"\displaystyle{\vec{u}}=(u\cos{t}\,,\,u\sin{t})\,,"
+"\displaystyle{\vec{v}}=(u\,,\,0)\,,"
+"\displaystyle{\vec{p}}=\left(u\frac{(\cos{t}-1)}{\sin{t}}\,,\,u\right)\,,"
+"\displaystyle{\vec{\pi}}=(u\sin{t}\,,\,0)\,,"
+\displaystyle{\widehat{H}}_{1}
+"\displaystyle-\frac{1}{2}\left({\hbar}^{2}\Delta_{u}+\vec{v}^{2}\right)\,,"
+\displaystyle{\widehat{H}}_{2}
+"\displaystyle-\frac{1}{2}\left({\hbar}^{2}\Delta_{v}+\vec{u}^{2}\right)\,,"
+\displaystyle\mathcal{S}^{\infty}[\hat{a}](F)
+\displaystyle\sigma_{i}^{\rm imp}(\lambda)
+\displaystyle{\widehat{D}}
+"\displaystyle\left[{\widehat{H}}_{1}\,,\,{\widehat{H}}_{2}\right]"
+"\displaystyle\ i\hbar{\widehat{D}}\,,"
+"\displaystyle\left[{\widehat{H}}_{1}\,,\,{\widehat{D}}\right]"
+"\displaystyle-2i\hbar{\widehat{H}}_{1}\,,"
+"\displaystyle\left[{\widehat{H}}_{2}\,,\,{\widehat{D}}\right]"
+"\displaystyle\ 2i\hbar{\widehat{H}}_{2}\,."
+"\Psi(u,v,\alpha,\beta)=A(\alpha)\ B(\beta)\ \psi(u,v)."
+"A(\alpha)=e^{im_{\alpha}\alpha},\ \ \ \ B(\beta)=e^{im_{\beta}\beta},"
+"\psi(u,v)=\psi(uv)"
+"\displaystyle-\int^{B}_{-D}dqa_{1}(\lambda-g(q))\rho_{i}^{\rm imp}(q),"
+"\displaystyle\langle u,v,\alpha,\beta|m,\epsilon,\epsilon^{\prime}\rangle"
+"\displaystyle\Psi_{m,\epsilon,\epsilon^{\prime}}(u,v,\alpha,\beta)"
+"\displaystyle\hat{O}_{12}=\hat{u}^{1}\hat{p}^{2}-\hat{p}^{1}\hat{u}^{2},"
+"\displaystyle\hat{O}_{23}=\hat{u}^{2}\hat{v}^{1}-\hat{p}^{2}\hat{\pi}^{1},"
+"\displaystyle\hat{O}_{13}=\hat{u}^{1}\hat{v}^{1}-\hat{p}^{1}\hat{\pi}^{1},"
+"\displaystyle\hat{O}_{24}=\hat{u}^{2}\hat{v}^{2}-\hat{p}^{2}\hat{\pi}^{2},"
+"\displaystyle\hat{O}_{14}=\hat{u}^{1}\hat{v}^{2}-\hat{p}^{1}\pi^{2},"
+\displaystyle\hat{O}_{34}=\hat{\pi}^{1}\hat{v}^{2}-\hat{v}^{1}\hat{\pi}^{2}.
+"\displaystyle\hat{O}_{12}\ \Psi_{m,\epsilon,\epsilon^{\prime}}"
+"\displaystyle\hat{O}_{34}\ \Psi_{m,\epsilon,\epsilon^{\prime}}"
+\displaystyle\delta_{e}
+J=m\ \hbar.
+\displaystyle J_{m-1}(x)
+"\displaystyle\frac{m}{x}J_{m}(x)+\frac{d}{dx}J_{m}(x),"
+\displaystyle J_{m+1}(x)
+\displaystyle\frac{m}{x}J_{m}(x)-\frac{d}{dx}J_{m}(x)
+"\displaystyle(\hat{O}_{13}+i\hat{O}_{14})\ \Psi_{m,\epsilon,\epsilon^{\prime}}"
+"\displaystyle(\hat{O}_{24}-i\hat{O}_{23})\ \Psi_{m,\epsilon,\epsilon^{\prime}}"
+"c_{m,\epsilon,\epsilon^{\prime}}=cm."
+"\displaystyle\hat{J}\ |m,\epsilon,\epsilon^{\prime}\rangle"
+"\displaystyle\hbar m\ |m,\epsilon,\epsilon^{\prime}\rangle,"
+\displaystyle 2\pi-\delta_{e1}-\delta_{e2}.
+"\displaystyle\hat{R}\ |m,\epsilon,\epsilon^{\prime}\rangle"
+"\displaystyle\hbar m\ |m+\epsilon\epsilon^{\prime},\epsilon,\epsilon^{\prime}\rangle,"
+"\displaystyle\hat{S}\ |m,\epsilon,\epsilon^{\prime}\rangle"
+"\displaystyle\hbar m\ |m-\epsilon\epsilon^{\prime},\epsilon,\epsilon^{\prime}\rangle,"
+"\displaystyle\hat{\epsilon}\ |m,\epsilon,\epsilon^{\prime}\rangle"
+"\displaystyle\epsilon\ \ |m,\epsilon,\epsilon^{\prime}\rangle,"
+"\displaystyle\hat{\epsilon}^{\prime}\ |m,\epsilon,\epsilon^{\prime}\rangle"
+"\displaystyle\epsilon^{\prime}\ |m,\epsilon,\epsilon^{\prime}\rangle."
+"\displaystyle\widehat{\cos\phi}\ |m,\epsilon,\epsilon^{\prime}\rangle"
+"\displaystyle\widehat{\sin\phi}\ |m,\epsilon,\epsilon^{\prime}\rangle"
+"I_{i}^{-1}=\frac{\alpha_{i}^{2}-\tilde{\Gamma}_{i}^{2}}{2U_{i}\Gamma_{i}},"
+"\displaystyle\hat{J}\ \ \psi_{\epsilon,\epsilon^{\prime}}(\phi)"
+"\displaystyle\widehat{\cos\phi}\ \psi_{\epsilon,\epsilon^{\prime}}(\phi)"
+"\displaystyle P\ \cos\phi\ \psi_{\epsilon,\epsilon^{\prime}}(\phi),"
+"\displaystyle\widehat{\sin\phi}\ \psi_{\epsilon,\epsilon^{\prime}}(\phi)"
+"\displaystyle P\ \sin\phi\ \psi_{\epsilon,\epsilon^{\prime}}(\phi)."
+"\displaystyle\hat{U}^{1}(x,y,z)="
+"V(x,y)=V_{0}\left[\cos(q_{x}x)+\cos(q_{y}y)\right],"
+"{\cal H}={\cal H}_{B}+V(x,y),"
+"\displaystyle P_{s}^{>}(N,\phi,x)=P_{s1}+(1-P_{s1})\cdot P_{s2}"
+G(z)=E(z^{j})=\sum_{j=0}^{J}{P_{s}(j)\cdot z^{j}}.
+\displaystyle\delta_{ei}
+E[S_{i}]=q_{i}E[\tau_{x}]
+E[\tau_{x}]=\frac{x+\phi}{\mu-\lambda}
+E[S_{i}]=q_{i}\frac{x+\phi}{\mu-\lambda}
+"R(z)-R^{\mathrm{D}}(z)=\bar{S}(z)\Lambda(z)^{-1}\bar{S}(\overline{{z}})^{*},"
+\displaystyle K_{i1}+K_{i2}.
+\displaystyle\Lambda(z)\varphi
+\displaystyle(1+\lambda)^{1/4}\varphi(\lambda)=(1+\lambda)^{-1/4}\zeta(\lambda).
+"\big{(}S(z)\varphi\big{)}(t)=\exp\!\big{(}\mathrm{i}\sqrt{z-L}\,t\big{)}\varphi."
+"\Lambda(z)\varphi=\mathrm{i}\sqrt{z-L}\,\varphi."
+"z\in(-\infty,\min\sigma)."
+\displaystyle=K\psi\otimes\varphi_{\lambda}
+\displaystyle K_{i1}
+\displaystyle U(1)_{V}:
+\displaystyle U(1)_{A}:
+\displaystyle\partial_{++}X_{L}=
+\displaystyle\partial_{++}\psi_{-}^{l}=
+"\mathcal{L}_{\Sigma}=-\frac{1}{2e^{2}}\int d^{4}\theta\,\bar{\Sigma}\Sigma\,."
+"\mathcal{L}_{\Theta}=\frac{1}{2e^{2}}\int d^{4}\theta\,\bar{\Theta}\Theta\,."
+\displaystyle K_{i2}
+"\int d^{4}\theta\,\bar{\Phi}^{a}e^{q_{a}V}\Phi^{a}\,."
+"\displaystyle        \times\cos\big{(}\pi(\gamma_{i}-1/2)(2n+1)\big{)},"
+"\displaystyle+(i\Phi\,\Xi+c.c.)\Big{]}\,."
+"{\mathcal{A}}_{V}={\mathcal{A}}_{A}=0\,."
+"\displaystyle U(1)_{V}:\quad c_{1}(T_{-}^{1,0})-c_{1}(T_{+}^{1,0})="
+"\displaystyle U(1)_{A}:\quad c_{1}(T_{-}^{1,0})+c_{1}(T_{+}^{1,0})="
+"\displaystyle\,0\,."
+"{\cal L}={\cal L}_{SVM}+{\cal L}_{FI}+{\cal L}_{matter}\,,"
+\displaystyle\mu_{1}\equiv
+\displaystyle\mu_{2}\equiv
+"\displaystyle-(\bar{X}_{L}X_{L}-\bar{X}_{R}X_{R})\,,"
+"\displaystyle:=\bigcup_{N=0}^{\infty}\mathcal{S}^{N}[\hat{a}](F),"
+\displaystyle\frac{2\epsilon_{di}+U_{i}}{\sqrt{2U_{i}\Gamma_{i}}}
+\displaystyle\mu_{3}\equiv
+"\displaystyle-\frac{i\beta}{2}\left(X_{L}X_{R}-\bar{X}_{L}\bar{X}_{R}\right)\,,"
+"\mu_{I}=r_{I}\,,\qquad\qquad I=1,2,3\,\,,"
+"{\cal L}={\cal L}_{SVM}+{\cal L}_{\Phi;M}+{\cal L}_{FI}+{\cal L}_{matter}\,,"
+\displaystyle{\cal L}={\cal L}_{gauge}+\int{\cal D}_{+}{\cal D}_{-}
+"|X_{L}|^{2}-|X_{R}|^{2}=\xi\,,"
+"\sum_{i=1}^{N_{s}}Q_{i}\left(|X_{L}^{i}|^{2}-|X_{R}^{i}|^{2}\right)-\xi=0\,,"
+"K_{UV}=-\frac{1}{2}\Phi\log F-\frac{1}{2}\bar{\Phi}\log\bar{F}\,,"
+\displaystyle K_{i1}+K_{i2}
+"\lambda=\frac{1}{\beta}\,,\qquad\tilde{\lambda}=\sqrt{1-\frac{1}{\beta^{2}}}\,."
+\displaystyle E_{LL}=
+\displaystyle C_{LL}K_{LR}^{-1}J_{s}K_{RL}
+\displaystyle E_{LR}=
+\displaystyle J_{s}K_{LR}J_{s}+C_{LL}K_{LR}^{-1}C_{RR}
+\displaystyle E_{Lc}=
+\displaystyle K_{Lc}+J_{s}K_{Lc}J_{c}+C_{LL}K_{LR}^{-1}C_{Rc}
+\displaystyle E_{Lt}=
+\displaystyle-K_{Lt}-J_{s}K_{Lt}J_{t}+C_{LL}K_{LR}^{-1}A_{Rt}
+\displaystyle E_{RL}=
+\displaystyle        \times\cos\big{(}\pi(\gamma_{i}-1/2)(2n+1)\big{)}.
+\displaystyle-K_{RL}J_{s}K_{LR}^{-1}J_{s}K_{RL}
+\displaystyle E_{RR}=
+\displaystyle-K_{RL}J_{s}K_{LR}^{-1}C_{RR}
+\displaystyle E_{Rc}=
+\displaystyle K_{Rc}-K_{RL}J_{s}K_{LR}^{-1}C_{Rc}
+\displaystyle E_{Rt}=
+\displaystyle-K_{Rt}-K_{RL}J_{s}K_{LR}^{-1}A_{Rt}
+\displaystyle E_{cL}=
+\displaystyle C_{cL}K_{LR}^{-1}J_{s}K_{RL}
+\displaystyle E_{cR}=
+"Q=q^{*}+\frac{1}{2\pi}\ln(2\pi eq^{*}),"
+\displaystyle J_{c}K_{cR}J_{s}+C_{cL}K_{LR}^{-1}C_{RR}
+\displaystyle E_{cc}=
+\displaystyle K_{cc}+J_{c}K_{cc}J_{c}+C_{cL}K_{LR}^{-1}C_{Rc}
+\displaystyle E_{ct}=
+\displaystyle-K_{ct}-J_{c}K_{ct}J_{t}+C_{cL}K_{LR}^{-1}A_{Rt}
+\displaystyle E_{tL}=
+\displaystyle C_{tL}K_{LR}^{-1}J_{s}K_{RL}
+\displaystyle E_{tR}=
+\displaystyle J_{t}K_{tR}J_{s}+C_{tL}K_{LR}^{-1}C_{RR}
+\displaystyle E_{tc}=
+\displaystyle\times\sin(\pi\omega(1+\frac{1}{\beta_{i}}));
+\displaystyle K_{tc}+J_{t}K_{tc}J_{c}+C_{tL}K_{LR}^{1}C_{Rc}
+\displaystyle E_{tt}=
+\displaystyle-K_{tt}-J_{t}K_{tt}J_{t}+C_{tL}K_{LR}^{-1}A_{Rt}
+"e^{V}\to e^{i\bar{\Lambda}}\,e^{V}\,e^{-i\Lambda}\,."
+\displaystyle e^{V_{L}}\to
+"\displaystyle e^{i\bar{\Lambda}_{L}}\,e^{V_{L}}e^{-i\Lambda_{L}}"
+\displaystyle e^{V_{R}}\to
+"\displaystyle e^{i\bar{\Lambda}_{R}}\,e^{V_{R}}e^{-i\Lambda_{R}}"
+\displaystyle\delta_{e\uparrow}
+\displaystyle 2\pi\int^{B}_{-D}dq(\rho^{\rm imp}_{1}(q)+\rho^{\rm imp}_{2}(q))
+\displaystyle\bar{\nabla}_{+}=
+\displaystyle\nabla_{+}=
+\displaystyle\bar{\nabla}_{-}=
+\displaystyle\nabla_{-}=
+"\Sigma|=\frac{1}{2}(\sigma+if)\,,"
+"\{{\cal Q}_{+},{\cal Q}_{-}\}=\,f\,."
+\displaystyle\delta_{e\downarrow}
+"\Theta|=\frac{1}{2}(\sigma^{\prime}+if)\,,"
+"\displaystyle\{{\cal Q}_{+},\mathcal{D}_{-}\}="
+"\displaystyle-(\sigma_{1}+\sigma_{2}),"
+"\displaystyle\{\mathcal{D}_{+},{\cal Q}_{-}\}="
+"\displaystyle-(\sigma_{1}-\sigma_{2})\,,"
+"\displaystyle\{{\cal Q}_{+},{\cal Q}_{-}\}="
+"\displaystyle\sigma_{3}\,."
+\displaystyle{\cal L}_{\phi}=
+\displaystyle X_{L}=
+\displaystyle\sigma^{\rm imp}_{i}(\lambda)
+\displaystyle X_{R}=
+"\displaystyle-\frac{i\beta}{2}\left(X_{L}X_{R}-\bar{X}_{L}\bar{X}_{R}\right)\,."
+\displaystyle{\cal L}_{matter}=
+"\displaystyle~{}{\cal L}_{1}+{\cal L}_{2}\,,"
+\displaystyle{\cal L}_{1}=
+\displaystyle{\cal L}_{2}=
+"gJ_{\pm}\xi\mp J^{t}_{\pm}\alpha=d\mu\,,\qquad\iota_{\xi}\alpha=0\,,"
+\displaystyle\bar{X}=
+"\displaystyle-2i\,\left(\bar{X}_{L}D_{2}X_{L}+\bar{X}_{R}D_{2}X_{R}\right)"
+\displaystyle-\beta(X_{L}D_{3}X_{R}+\bar{X}_{L}D_{3}\bar{X}_{R})+...
+\displaystyle     -\int^{B}_{-D}dq\rho^{\rm imp}_{i}(q)s(\lambda-g(q)).
+\displaystyle\Omega_{k}^{\infty}
+\displaystyle\Omega_{k}^{0}
+"Y_{0}^{\infty}(\mu)\!:=\!X_{0}^{0}(\mu)G,"
+\det(M^{0})\!=\!\det(M^{\infty})\!=\!\det(G)\!=\!1.
+GM^{\infty}\!=\!M^{0}G.
+"\displaystyle\vartheta(\varepsilon_{1},\varepsilon_{2},\tau):="
+"\displaystyle\varrho_{2}(\varepsilon_{1},\varepsilon_{2}):="
+"\displaystyle\theta(\varepsilon_{1},\varepsilon_{2},\tau):="
+\displaystyle\rho^{\rm imp}_{i}(q)
+"\displaystyle\varrho_{0}(\varepsilon_{1},\varepsilon_{2}):="
+"\displaystyle\varrho_{0}^{\sharp}(\varepsilon_{1},\varepsilon_{2}):="
+"\displaystyle\Theta_{0}(\varepsilon_{1},\varepsilon_{2},\tau):="
+"\displaystyle r(\tau)\!=\!-2\!+\!\hat{r}_{0}(\tau),"
+\displaystyle a(\tau)d(\tau)=
+\displaystyle b(\tau)c(\tau)=
+\displaystyle-h_{0}(\tau)\tau^{-2/3}=
+\displaystyle c(\tau)d(\tau)=
+\displaystyle\rho^{\rm imp}_{0i}(q)
+"l(\widetilde{\mu})\!:=\!\sqrt{\det(\mathcal{A}(\widetilde{\mu}))},"
+\displaystyle\mathcal{P}_{\infty}(\xi):=
+\displaystyle\mathcal{P}_{1}(\xi):=
+\displaystyle\mathcal{I}_{\tau}(\widetilde{\mu})=
+\displaystyle\Delta_{0i}(q)
+"\displaystyle\,\mathcal{O}(\tau^{-\frac{1}{3}+3\varepsilon}),"
+\displaystyle\mathcal{I}_{\infty}^{\sharp}(\tau):=
+\displaystyle\mathcal{I}_{0}^{\sharp}(\tau):=
+\displaystyle\widehat{\mathcal{I}}_{\infty}(\tau):=
+\displaystyle\widehat{\mathcal{I}}_{0}(\tau):=
+"\displaystyle\left.\,\mathcal{O}(\tau^{-\frac{1}{3}+\delta-\delta_{1}})\right)."
+"\displaystyle\left.\,\mathcal{O}(\tau^{-\frac{1}{3}+\delta-\delta_{1}})\right),"
+"\displaystyle\left.\,\mathcal{O}(\tau^{-1}\widetilde{\Lambda}^{3})\right)."
+\displaystyle\frac{H}{2\pi}
+\displaystyle E_{\tau}(\widetilde{\Lambda})
+\displaystyle\widetilde{\Psi}(\widetilde{\mu})=
+\int^{B}_{-D}dq\rho^{\rm imp}_{i}(q)=S^{\rm Kondo}_{i}+S^{\rm charge}_{i}.
+G\!=\!(L_{0}(\tau))^{-1}L_{\infty}(\tau).
+\displaystyle S^{\rm Kondo}_{i}
+\displaystyle\widetilde{\vartheta}(\tau):=
+\displaystyle\Phi(\tau):=
+"0\!<\!20\delta\!<\!10\varepsilon\!<\!\delta_{1}\!<\!1/3,"
+\vartheta\!=\!\hat{\vartheta}\!+\!\mathcal{O}(\tau^{-\delta_{G}}\ln\tau).
+\displaystyle S^{\rm charge}_{i}
+"u(\tau)\!=\!\sum_{k=1}^{\infty}b_{k}^{s}(\tau\!-\!\tau_{s})^{k},"
+"f(\tau)\!=\!\sum_{k=1}^{\infty}f_{k}^{+}(\tau\!-\!\tau_{+})^{k},"
+"\displaystyle z(\varepsilon_{1},\varepsilon_{2}):="
+\displaystyle\Theta(\tau):=
+"\displaystyle\beta(\varepsilon_{1},\varepsilon_{2},\tau):="
+"\displaystyle\widehat{\varrho}_{2}(\varepsilon_{1},\varepsilon_{2}):="
+"\displaystyle\widehat{\beta}(\varepsilon_{1},\varepsilon_{2},\tau):="
+\epsilon_{q}(q)=\frac{\sqrt{2U_{i}\Gamma_{i}}}{\pi}e^{-\pi g(q)}.
+"\displaystyle\widehat{\varrho}_{0}(\varepsilon_{1},\varepsilon_{2}):="
+"\displaystyle\widehat{\varrho}_{0}^{\sharp}(\varepsilon_{1},\varepsilon_{2}):="
+"\displaystyle\widehat{\beta}_{0}(\varepsilon_{1},\varepsilon_{2},\tau):="
+"a_{i,j}^{(2)}=\sum_{k=0}^{n-1}a_{i,k}a_{k,j}=\sum_{l=0}^{n-1}\alpha[l]\wedge\beta[l],"
+"a_{i,j}=\min[(a_{i,0}+a_{0,j}),(a_{i,1}+a_{1,j})\cdots(a_{i,n-1}+a_{n-1,j})],"
+"\displaystyle a_{s,k,j}"
+"\displaystyle=\min[(a_{s,k}+a_{k,0}),(a_{s,k}+a_{k,1})\cdots(a_{s,k}+a_{k,n-1})],"
+"\displaystyle=\min(a_{k,0},a_{k,1},a_{k,2},a_{k,3},\cdots a_{k,n-1}),"
+\displaystyle a_{s}=
+"\displaystyle[\min_{0\leq k\leq n-1}a_{s,k,0},\min_{0\leq k\leq n-1}a_{s,k,1},"
+\displaystyle\rho^{\rm imp}(\epsilon)
+"\displaystyle\cdots\min_{0\leq k\leq n-1}a_{s,k,n-2},\min_{0\leq k\leq n-1}a_{s,k,n-1}]."
+"\displaystyle=\frac{n-pn}{Step(s)-1}\cdot d^{+}(j),"
+"\displaystyle=\frac{n-pn}{Step(s)-1}\cdot x\cdot\big{[}pn\cdot\frac{n-\frac{f(x-1)}{pn}}{n}\big{]},(x>1)"
+\displaystyle T(n)
+"\displaystyle=\sum_{x=1}^{Step(s)-1}f(x),"
+\displaystyle T(n)=
+"\displaystyle\sum_{x=1}^{Step(s)-1}\frac{n-pn}{Step(s)-1}\cdot x\cdot\big{[}pn\cdot\frac{n-\frac{f(x-1)}{pn}}{n}\big{]},"
+"\displaystyle\frac{1-p}{Step(s)-1}\cdot\sum_{x=1}^{Step(s)-1}x\cdot\big{[}m-f(x-1)\big{]},"
+"\displaystyle<\frac{1-p}{Step(s)-1}\cdot m\cdot\sum_{x=1}^{Step(s)-1}x,"
+\displaystyle<\frac{1-p}{2}Step(s)m.
+\displaystyle\epsilon_{d1}
+"\displaystyle=\sum_{i=0}^{d^{+}(s)}d^{+}(i),"
+"\displaystyle=\sum_{i=0}^{nnz(\alpha)}d^{+}(i),"
+"\displaystyle=\sum_{x=1}^{Step(s)-1}g(x),"
+"p_{i,j}=\min[(p_{i,0}+a_{0,j}),(p_{i,1}+a_{1,j})\cdots(p_{i,n-1}+a_{n-1,j})],"
+"\displaystyle T(n)=\sum_{j=0}^{S_{wcc}(s)}d^{-}(j)\cdot\mu(s)=\mu(s)\cdot E_{wcc}(s),"
+"\displaystyle T(n)=\mu\cdot S_{wcc}\cdot E_{wcc},"
+\mathcal{M}(i\to f)-\mathcal{M}^{*}(f\to i)=i\sum_{X}\int d\Pi_{X}(2\pi)^{4}\delta^{4}(p_{i}-p_{X})\mathcal{M}(i\to X)\mathcal{M}^{*}(f\to X).
+"\mathcal{M}(\theta)=16\pi\sum_{j}a_{j}(2j+1)P_{j}(\cos{\theta}),"
+"\gamma_{i}=\frac{1}{2}|1-\beta_{i}^{-1}|,"
+\int_{-\infty}^{\infty}P_{j}(\cos{\theta})P_{k}(\cos{\theta})d\cos{\theta}=\frac{2}{2j+1}\delta_{jk}.
+\sigma_{CM_{tot}}=\frac{16\pi}{E_{CM}^{2}}\sum_{j}|a_{j}|^{2}(2j+1).
+\displaystyle=2E_{\mathrm{CM}}\left|\vec{p}_{i}\right|\sum_{X}\sigma_{\mathrm{tot}}(AB\rightarrow X)
+"\displaystyle\geq 2E_{\mathrm{CM}}\left|\vec{p}_{i}\right|\sigma_{\mathrm{tot}}(AB\rightarrow AB),"
+"f(\rho)(n-\gamma)-e_{0}n(B\gamma^{2}+\gamma^{2}-1-B\gamma n)=0,"
+"f(\rho)\equiv\rho^{2}d(\frac{e_{0}(\rho)}{\rho})/d\rho-Be_{0}(\rho),"
+n=\frac{5\gamma^{2}-2\gamma-3}{2(\gamma-1)}=\frac{1}{2}(5\gamma+3).
+"V^{\pm}={1\over\sqrt{2}}(V^{D-1}\pm V^{0}),\ \ V^{i},\ i=1,\ldots,D-2"
+|I_{1}^{-1}-I_{2}^{-1}|>\gamma_{1}+\gamma_{2}
+\partial_{[a_{1}}F_{a_{2}\ldots a_{5}]}=0
+F_{+-i_{1}i_{2}}={1\over\partial_{-}}\partial^{j}F_{-ji_{1}i_{2}}
+\partial^{2}F_{-i_{1}i_{2}i_{3}}=0
+"\partial^{c}R_{ca,b_{1}b_{2}}=0,\ \ {\rm and}\ \ \partial^{c}R_{a_{1}a_{2},cb}=0"
+"R_{--}=R_{-i,-i}=0,\ \ {\rm and}\ \ \partial^{2}R_{-i,-j}=0"
+"R_{-i,-j}=-\partial_{-}^{2}\hat{h}_{ij}"
+"R_{-i,-j}=\partial_{-}\omega_{i,-j}-\partial_{i}\omega_{-,-j}"
+"\partial_{[a_{1}|}F_{\ldots,|a_{2}\ldots a_{p+1}],\ldots}=0"
+"\partial^{b}F_{\ldots,ba_{1}\ldots a_{p-1},\ldots}=0"
+\psi_{I}(\varphi)\equiv U(e^{\varphi\cdot S})\psi_{I}(0)
+\displaystyle|\epsilon_{d1}-\epsilon_{d2}|
+=D(e^{\varphi\cdot S})_{A}{}^{B}l_{B}(0)\psi(\varphi)=l_{A}(\varphi)\psi(\varphi)
+g_{0}e^{\varphi\cdot S}=e^{\varphi^{\prime}\cdot S}h_{c}
+"(\partial^{2}+m^{2})A_{a}(x)=0,\ \ {\rm and}\ \ \partial^{a}A_{a}(x)=0,"
+{\cal H}=I_{c}(E_{10})
+"A_{j_{1}\ldots j_{9},i_{1}\ldots i_{6}}(0),\ \ldots\},\ \ i,j,\ldots=2,\ldots,10"
+"h_{ij},\ A_{i_{1}i_{2}i_{3}},\ \ i,j,\ldots=2,\ldots,10"
+\propto K^{AB}\partial_{A}\partial_{B}\Lambda^{C}=L^{2}\Lambda^{C}=0
+p^{2}+v^{2}(Q_{m}^{2}+Q_{e}^{2})=0
+g=e^{x^{a}P_{a}+zvQ_{e}+wvQ_{m}}e^{\theta^{\alpha i}Q_{\alpha i}}
+"\delta l_{A}=[\Lambda^{\underline{\alpha}}S_{\underline{\alpha}},l_{A}(0)]=0"
+\displaystyle\frac{b+\sqrt{b^{2}+4ca}}{2a};
+"[L_{+i},L_{+j}]=0,\ [L_{+i},L_{-j}]=0,\ [L_{-i},L_{-j}]=0"
+"\dot{y}\left(t\right)=f\left(t,y\left(t\right)\right)."
+"f\left(t,y\right)=g\left(t\right)/h\left(y\right)"
+\nabla F\left(\mathbf{x}\right)=\left(DF\left(\mathbf{x}\right)\right)^{t}.
+"\left\{F,G\right\}=DF\cdot J\cdot\left(DG\right)^{t}=DF\cdot J\cdot\nabla G."
+\frac{d}{dt}\gamma\left(t\right)=X\left(\gamma\left(t\right)\right).
+"\left[X_{F},X_{G}\right]=X_{\left\{F,G\right\}}."
+"X_{i}\cdot Df=\sum_{j=1}^{r}b_{ij}\,\frac{\partial f}{\partial x_{j}},"
+"\frac{\partial f}{\partial x_{i}}=\left(b^{-1}\right)_{ik},\;\;\;i=1,...,r."
+"X_{1}\cdot Dy_{k}=\delta_{1k},\;\;\;k=1,...,r,"
+\displaystyle\frac{U_{1}^{2}-U_{2}^{2}}{4};
+"\left[X_{F_{j}},X_{H}\right]=X_{\left\{F_{j},H\right\}}=0,\;\;\;j=1,...,l,"
+"\left[X_{i}^{\lambda},X_{H}\right]=0,\;\;\;i=1,...,r."
+"\mathsf{rank}\hat{F}\left(\mathbf{x}\right)=k,\;\;\;\forall\mathbf{x}\in A,"
+"\left\{F_{i},F_{j}\right\}=\left[DF\cdot J\cdot\left(DF\right)^{t}\right]_{ij},"
+\bigcup_{a=1}^{k\left(k-1\right)}\left(I^{a}\cup B^{a}\right).
+"A=\hat{D}\cup\left(\cup_{a}I^{a}\right)\cup\hat{B},"
+"I^{a}=\hat{D}^{a}\cup\left(\cup_{b}I^{a,b}\right)\cup\hat{B}^{a},"
+"F_{1},...,F_{k},F_{k+1}=G^{a_{1}},F_{k+2}=G^{a_{2}},...,F_{k+s-1}=G^{a_{s-1}}"
+\displaystyle\Gamma_{1}\Gamma_{2}(U_{1}+U_{2});
+"F_{1},...,F_{k},F_{k+1}=G^{a_{1}},F_{k+2}=G^{a_{2}},...,F_{m}=G^{a_{k-m}}"
+"I^{a_{1},...,a_{m-k},b}=B^{a_{1},...,a_{m-k},b}=\emptyset"
+"\dim\left[\mathsf{Im}\left[D\sigma\left(\mathbf{x}\right)\right]\right]=r,"
+"\left\{F_{i},H\right\}=DF_{i}\cdot J\cdot\nabla H."
+\frac{\lambda_{1}(M)}{\lambda_{1}(S(R))}\leq\frac{Vol(M)}{Vol(S(R))}
+"\int_{A}G(\parallel\!X\!\parallel_{p})XdV=0,"
+\lambda_{1}(S(r))=\frac{kn-1}{\sinh^{2}r}-\frac{k-1}{cosh^{2}r}.
+"\displaystyle 2U_{i}\Gamma_{i}|\Gamma_{2}^{2}-\Gamma_{1}^{2}|,"
+\displaystyle\frac{\lambda_{1}(M)}{\lambda_{1}(S(R))}
+\displaystyle\lambda_{1}(M)
+"r(u)=max\{r>0\,|\,exp_{p}(ru)\in M\}"
+"\displaystyle\int_{M}\sinh^{2}d(p,q)dm\geq Vol(S(p,R))\sinh^{2}R"
+"\displaystyle\int_{M}\sin_{\delta}^{2}\,d(p,q)dm(q)"
+"\displaystyle\int_{A}\sin_{\delta}^{2}\,d(p,q)dm(q)"
+"\displaystyle(n+2)\int_{\Omega_{\delta}}\sin_{\delta}\,r\,\cos_{\delta}\,r\,dV."
+"\displaystyle\sum_{n=1}^{2}u_{n}\left|n\right\rangle\left\langle n\right|,"
+G(T\gg T^{\rm RKKY}_{K})\sim\frac{1}{\log^{2}(T/T^{\rm RKKY}_{K})}.
+"\displaystyle\sum_{q}m_{q}\omega_{q}^{2}x_{nq}^{(0)}x_{nq},"
+\left|\varepsilon_{0}^{(1)}\right\rangle=\left|0\right\rangle=\left|G\right\rangle
+\varepsilon_{0}^{\prime}=E_{0}.
+C_{0n}^{(1)}=\delta_{n0}.
+\displaystyle H_{0}^{(1)}
+\displaystyle a_{kk^{\prime}}^{(1)}(n)
+\displaystyle C_{kn}^{(1)*}C_{k^{\prime}n}^{(1)}.
+\displaystyle\varepsilon_{k}^{(1)}
+"\displaystyle\varepsilon_{k}^{\prime}-\Lambda_{k}^{(1)},"
+\displaystyle\Lambda_{k}^{(1)}
+\delta_{\sigma e}=2\pi n_{\sigma\rm dis}.
+"\displaystyle\sum_{n=1}^{2}\left[a_{kk}^{(1)}(n)\right]^{2}\lambda_{n},"
+\lambda_{n}=\sum_{q}\frac{1}{2}m_{q}\omega_{q}^{2}x_{nq}^{(0)2}.
+\displaystyle g_{k_{1}k_{2}k_{3}k_{4}}^{(1)}(t)
+"\displaystyle\sum_{n}a_{k_{1}k_{2}}^{(1)}(n)a_{k_{3}k_{4}}^{(1)}(n)g_{n}(t),"
+\displaystyle\lambda_{k_{1}k_{2}k_{3}k_{4}}^{(1)}
+"\displaystyle\sum_{n}a_{k_{1}k_{2}}^{(1)}(n)a_{k_{3}k_{4}}^{(1)}(n)\lambda_{n},"
+\displaystyle R_{kk^{\prime}}^{(1)\textrm{pd}}(t)
+\chi(t)\equiv\textrm{Tr}\left[\mu(t)\mu(0)\right].
+\displaystyle a_{kk^{\prime}}^{(2)}(n)
+\displaystyle\varepsilon_{k}^{(2)}
+\sum_{\alpha}\langle d^{\dagger}_{\sigma\alpha}d_{\sigma\alpha}\rangle
+"\displaystyle\varepsilon_{k}^{\prime\prime}-\Lambda_{k}^{(2)},"
+\displaystyle\Lambda_{k}^{(2)}
+\displaystyle\sum_{n=1}^{2}\left[a_{kk}^{(2)}(n)\right]^{2}\lambda_{n}.
+\displaystyle H_{e}^{(2)}
+\displaystyle g_{k_{1}k_{2}k_{3}k_{4}}^{(2)}(t)
+"\displaystyle\sum_{n}a_{k_{1}k_{2}}^{(2)}(n)a_{k_{3}k_{4}}^{(2)}(n)g_{n}(t),"
+\displaystyle\lambda_{k_{1}k_{2}k_{3}k_{4}}^{(2)}
+\displaystyle\sum_{n}a_{k_{1}k_{2}}^{(2)}(n)a_{k_{3}k_{4}}^{(2)}(n)\lambda_{n}.
+\displaystyle R_{kk^{\prime}}
+"\Gamma=B^{-1}A,"
+\frac{\Gamma_{2}}{q-\epsilon_{d2}}
+"A_{a}=\sum_{k=a+1}^{M}R_{ak}^{\textrm{pd}}+\sum_{k=1}^{M-1}R_{ka}^{\textrm{pd}},"
+\rho(0)=\left|\psi_{M}(0)\right\rangle\left\langle\psi_{M}(0)\right|.
+\displaystyle\left|\psi_{k+M+1}(\tau)\right\rangle
+"J(\omega)=\lambda\frac{\omega}{\omega_{c}}e^{-\omega/\omega_{c}},"
+\displaystyle 2\left|\rho_{21}\right|.
+A_{kk}^{\dagger}A_{kk}=A_{kk}^{\dagger}=A_{kk}.
+"\displaystyle A_{a},"
+A_{a}=\sum_{k=a+1}^{M}R_{ak}^{\textrm{pd}}+\sum_{k=1}^{M-1}R_{ka}^{\textrm{pd}}.
+B\Gamma=A
+\Gamma=B^{-1}A.
+J_{i}=\frac{2\Gamma_{i}}{U+\epsilon_{di}}-\frac{2\Gamma_{i}}{\epsilon_{di}}.
+"\displaystyle F_{n}(x_{0},y_{0},\ldots,x_{n-1},y_{n-1})"
+"\displaystyle G_{n}(x_{0},y_{0},\ldots,x_{n-1},y_{n-1})"
+"\displaystyle F_{i}(x_{0},y_{0},\ldots,x_{i-1},y_{i-1})=\{"
+"\displaystyle G_{i}(x_{0},y_{0},\ldots,x_{i-1},y_{i-1})=\{"
+f(z)=\int^{A}_{-\infty}dz^{\prime}f(z^{\prime})h(z-z^{\prime})+g(z).
+\{a:h_{y}(a)\leq h_{\hat{x}}(a)\leq h_{z}(a)\}\in p_{i}.
+\displaystyle\{a:h_{y}(a)=h_{\hat{x}}(a)=h_{z}(a)\}
+\displaystyle\{a:h_{y}(a)\leq h_{\hat{x}}(a)<h_{z}(a)\}
+\displaystyle\{a:h_{y}(a)<h_{\hat{x}}(a)\leq h_{z}(a)\}.
+"\{a:h_{x}(a)<h_{x^{\prime}}(a),\,\langle a,h_{x}(a)\rangle\in C,\,\langle a,h_{x^{\prime}}(a)\rangle\in C\}\in p_{i}"
+"\{a:\langle a,h_{x}(a)\rangle\in C\}=\{a:f(a)<h_{x}(a)<g(a)\}\in p_{i}."
+"\displaystyle A(x^{\prime},x^{\prime\prime},x^{\prime\prime\prime},y^{\prime},y^{\prime\prime},y^{\prime\prime\prime})="
+"\displaystyle\{\langle x,y\rangle:y<y^{\prime},y<x\}\cup"
+"f^{+}(\omega)+f^{-}(\omega)=f^{-}(\omega)h(\omega)+g(\omega),"
+"\displaystyle\{\langle x,y\rangle:y^{\prime\prime}<y<y^{\prime\prime\prime}\wedge(y<x<y^{\prime\prime\prime}\vee x^{\prime}<x<x^{\prime\prime}\vee x^{\prime\prime\prime}<x)\}"
+"x\in\pi(\Sigma),\,\forall t\in\Sigma_{x},\,f_{(x,t)}(c)<d,"
+\{u\in\Omega:\{x\}\times P_{x}\prec u\prec\{x\}\times Q_{x}\}
+"\dim\left(\bigcup_{t\in J^{\prime}}(L(x,t)\cup U(x,t))\right)>\dim(\Omega),"
+\forall X\in\mathcal{F}\leavevmode\nobreak\ \exists Y\in\mathcal{D}:(Y\subseteq X\leavevmode\nobreak\ \vee\leavevmode\nobreak\ Y\subseteq M^{n}\setminus X).
+\forall X\in\mathcal{D}\leavevmode\nobreak\ \exists i\leq N\leavevmode\nobreak\ \exists Y\in\mathcal{S}_{i}:Y\subseteq X.
+a(\omega)=\int d\omega e^{i\omega z}a(z).
+\displaystyle x<\xi
+\displaystyle\iff x\in\xi
+\displaystyle\xi_{1}\leq\xi_{2}
+\displaystyle\iff\xi_{1}\subseteq\xi_{2}
+\displaystyle:=\{y\in S:y\leq x\}
+\displaystyle:=\{y\in S:y<x\}.
+1-h(\omega)=\frac{1}{G^{+}(\omega)G^{-}(\omega)}.
+\displaystyle b>qa+s
+\displaystyle\iff\xi>q\iff b^{\prime}>qa+s
+\displaystyle b<qa+s
+\displaystyle\iff\xi<q\iff b^{\prime}<qa+s.
+\displaystyle\{x>t:t\in M^{\prime}\}
+"\{s\in M:(y\leq qx+s)\in p(x,y)\}=\{s\in M:s\leq\xi\}"
+\displaystyle p^{M^{\prime}}_{\xi}
+\displaystyle f^{-}(\omega)
+"\displaystyle r^{M^{\prime}}_{q,m}"
+"\displaystyle r^{M^{\prime}}_{q,m^{+}}"
+"\displaystyle r^{M^{\prime}}_{q,m^{-}}"
+"\displaystyle V_{q,t}"
+\displaystyle-G^{-}(\omega)\frac{e^{i\omega A}}{2\pi i}
+\displaystyle\mathcal{V}_{q}
+"\displaystyle=\{V_{q,t}:t\in M\}"
+\displaystyle>q_{2}>q_{3}>\cdots
+\displaystyle<q_{2}^{\prime}<q_{3}^{\prime}<\cdots
+"\displaystyle V_{i,t}"
+"\displaystyle=\{V_{i,t}:t\in M\}."
+q_{1}^{\prime}<q_{2}^{\prime}<q_{3}^{\prime}<\cdots
+"\displaystyle V_{i,s,t}"
+\displaystyle f^{+}(\omega)
+"\displaystyle=\{V_{i,s,t}:s,t\in M\}."
+\displaystyle\cup\{y=x^{q}\cdot c\}
+\displaystyle\cup\{x^{q}\cdot c<y<x^{q}\cdot c\cdot\mu
+\displaystyle:\mu>1\}
+\displaystyle\cup\{x^{q}\cdot c\cdot\mu^{-1}<y<x^{q}\cdot c
+\displaystyle\cup\{x^{q}\cdot c>y>x^{q}\cdot c\cdot\mu
+\displaystyle\frac{e^{i\omega A}}{G^{+}(\omega)}\frac{1}{2\pi i}
+\displaystyle\cup\{x^{q}\cdot c\cdot\mu^{-1}>y>x^{q}\cdot c
+\frac{x}{y}=\frac{w}{z}\iff\frac{2x}{2y}=\frac{w}{z}\iff\frac{\sigma(x)}{\sigma(y)}=\frac{\sigma(w)}{\sigma(z)}.
+\displaystyle+\int^{\infty}_{-\infty}dqs(\lambda-g(q))\Delta_{0i}(q).
+\displaystyle\cup\{y=2x^{q}\cdot c\}
+\displaystyle\cup\{2x^{q}\cdot c>y>2x^{q}\cdot c\cdot\mu
+\displaystyle\cup\{2x^{q}\cdot c\cdot\mu^{-1}>y>2x^{q}\cdot c
+"\displaystyle\partial_{t}v+(v\cdot\nabla)v+w\partial_{z}v+\nabla p+f\vec{k}\times v-\frac{1}{Re_{1}}\triangle\,v-\frac{1}{Re_{2}}\partial^{2}_{zz}v=0,"
+"\displaystyle\partial_{z}p+g\rho=0,"
+"\displaystyle\nabla\cdot v+\partial_{z}w=0,"
+\displaystyle g(\omega)
+C(t)\in L^{\infty}_{I_{C}}(\Omega).
+\rho(t)\in L^{\infty}_{I_{\rho}}(\Omega).
+\displaystyle-\frac{1}{2}(1-\beta_{i}^{-1}){\rm sign}(1-\beta_{i});
+"\displaystyle||{\bf L}({\tilde{\rho}}_{1})(t)-{\bf L}({\tilde{\rho}}_{2})(t)||_{L^{\infty}(\Omega)}\leq c\tau(\frac{c}{s_{0}}+\frac{C}{s_{0}^{2}})|I_{\rho}|||\rho_{1}(t)-\rho_{2}(t)||_{{L^{2}(\Omega)}},"
+"\displaystyle\mu||\nabla_{3}\theta||_{{L^{2}(\Omega)}}^{2}+k_{\theta}\int_{\Gamma_{u}}|\theta(x,y,0)|^{2}\,dxdy"
+\displaystyle I_{i}^{-1}
+"\displaystyle\mu:=min\{K_{I},K_{D}\},M:=max\{K_{I},K_{D}\}."
+"\displaystyle on\ \Gamma_{u}:\partial_{z}v=h\tau,w=0,"
+\displaystyle\frac{\alpha_{i}^{2}-\tilde{\Gamma}_{i}^{2}}{2U_{i}\Gamma_{i}};
+"\displaystyle on\ \Gamma_{s}:\ v\cdot\vec{n}=0,\partial_{\vec{n}}v\times\vec{n}=0,w=0,\ "
+"\displaystyle on\ \Gamma_{b}:\partial_{z}v=0,w=0,"
+\displaystyle on\ \Gamma_{u}:
+\displaystyle on\ \Gamma_{s}:
+"\displaystyle\quad\nabla_{3}\theta\cdot\vec{n}=\nabla_{3}S\cdot\vec{n}=0,"
+\displaystyle on\ \Gamma_{b}:
+\displaystyle\quad\nabla_{3}\theta\cdot n_{3}=\nabla_{3}S\cdot n_{3}=0.
+"w(x,y,z,t)=-\int_{-h}^{z}\nabla_{h}\cdot v(x,y,\xi,t)\,d\xi=-\nabla\cdot\int_{-h}^{z}v(x,y,\xi,t)\,d\xi."
+"p(x,y,z,t)=\int_{-h}^{z}g\rho(\theta,S,p_{st})(x,y,\xi,t)\,d\xi+p_{s}(x,y,t),"
+\displaystyle G^{\pm}(\omega)
+"\displaystyle\int_{\Omega}\partial_{t}v\cdot\Phi\,dx+\int_{\Omega}(v\cdot\nabla)v\cdot\Phi\,dx-\int_{\Omega}\big{(}\nabla\cdot\int_{-h}^{z}v(x,y,\xi,t)\,d\xi\big{)}(\partial_{z}v)\Phi\,dxdydz"
+"\displaystyle+\int_{\Omega}(\int_{-h}^{z}g\rho(x,y,\xi,t)\,d\xi)\nabla_{h}\cdot\Phi\,dxdydz+\int_{\Omega}f\vec{k}\times v\Phi\,dxdydz"
+"\displaystyle+\int_{\Omega}\frac{1}{Re_{1}}\nabla v\cdot\nabla\Phi+\frac{1}{Re_{2}}\partial_{z}v\partial_{z}\Phi\,dxdydz=0,"
+"\displaystyle\int_{\Omega}\partial_{t}\theta\phi^{\theta}\,dxdydz+\int_{\Omega}(v\cdot\nabla)\theta\phi^{\theta}\,dxdydz"
+"\displaystyle-\int_{\Omega}\big{(}\nabla\cdot\int_{-h}^{0}v(x,y,\xi,t)\,d\xi\big{)}(\partial_{z}\theta)\phi\,dxdydz+k_{\theta}\int_{\Gamma_{u}}\theta\phi^{\theta}\,dxdy"
+"\displaystyle\int_{\Omega}\partial_{t}S\psi^{S}\,dxdydz+\int_{\Omega}(v\cdot\nabla)S\psi^{S}\,dxdydz"
+"\displaystyle-\int_{\Omega}\big{(}\nabla\cdot\int_{-h}^{0}v(x,y,\xi,t)\,d\xi\big{)}(\partial_{z}S)\psi^{S}\,dxdydz"
+"\displaystyle\partial_{t}v_{m}=-{\bf P}_{m}[(v_{m}\cdot\nabla)v_{m}]+{\bf P}_{m}\big{[}\big{(}\int_{-h}^{z}\nabla\cdot v_{m}(\xi)\,d\xi\big{)}\partial_{z}v_{m}\big{]}-f\vec{k}\times v_{m}"
+\int^{Q}_{-\infty}d\lambda\sigma_{i}(\lambda)=\sigma_{i}^{-}(\omega=0).
+"\displaystyle-\nabla\int_{-h}^{z}g\rho_{m}(x,y,z^{\prime},t)\,dz^{\prime}+\nabla(p_{s})_{m}+\frac{1}{Re_{1}}{\bf P}_{m}\triangle\,v_{m}+\frac{1}{Re_{2}}{\bf P}_{m}\partial^{2}_{zz}v_{m},"
+\displaystyle G_{v}^{(j)}(t):=
+"\displaystyle-\sum_{k,l=1}^{m}a_{k}(t)a_{l}(t)\big{<}(\psi_{k}\cdot\nabla)\psi_{l},\psi_{j}\big{>}_{{\bf L}^{2}}-g\sum_{k}^{m}d_{k}\big{<}\nabla\int_{-h}^{z}\psi_{k}(x,y,z^{\prime})\,dz^{\prime},\psi_{j}\big{>}_{{\bf L}^{2}}"
+"\displaystyle-\sum_{k,l=1}^{m}a_{k}(t)a_{l}(t)\big{<}\big{(}\int_{-h}^{z}\nabla\cdot\psi_{l}(\xi)\,d\xi\big{)}\partial_{z}\psi_{k},\psi_{j}\big{>}_{{\bf L}^{2}}"
+"\displaystyle-\frac{1}{Re_{1}}\sum_{k=1}^{m}a_{k}(t)\big{<}\nabla\psi_{k},\nabla\psi_{j}\big{>}_{{\bf L}^{2}}-\frac{1}{Re_{2}}\sum_{k=1}^{m}a_{k}(t)\big{<}\partial_{z}\psi_{k},\partial_{z}\psi_{j}\big{>}_{{\bf L}^{2}},"
+\displaystyle G_{C}^{(j)}(t):=
+\displaystyle\int^{Q}_{-\infty}d\lambda\sigma_{i}(\lambda)=K_{i1}+K_{i2};
+"\displaystyle-\sum_{k=1}^{m}a_{k}(t)b_{k}^{C}(t)\big{<}(\psi_{k}\cdot\nabla)\phi_{k}^{C},\phi_{j}^{C}\big{>}_{{L^{2}(\Omega)}}-k_{C}\sum_{k=1}^{m}b_{k}^{C}(t)\big{<}\phi_{k}^{C},\phi_{j}^{C}\big{>}_{L^{2}(\Gamma_{u})}"
+"\displaystyle-\sum_{k=1}^{m}a_{k}(t)b_{k}^{C}(t)\big{<}\big{(}\int_{-h}^{z}\nabla\cdot\psi_{k}(\xi)\,d\xi\big{)}\partial_{z}\phi_{k}^{C},\phi_{j}^{C}\big{>}_{{L^{2}(\Omega)}}"
+\displaystyle K_{i1}(Q<0)
+"\displaystyle+C||{\bf L}({\tilde{\rho}}_{n})-{\bf L}({\tilde{\rho}})||_{{H^{1}(\Omega)}}||C_{m}||_{H^{1}(\Omega)}||\phi||_{H^{2}(\Omega)},"
+"\displaystyle+\int_{\Omega}{L}_{x}\partial_{z}C\partial_{x}C+{L}_{y}\partial_{z}C\partial_{y}C\,dxdydz."
+"\displaystyle K_{i1}(Q>0,J_{i}<0)"
+"\displaystyle=\epsilon(t)d^{\dagger}d,"
+"\displaystyle=\sum_{k}\epsilon_{k}c_{k}^{\dagger}c_{k},"
+"\displaystyle D(\tau,\tau^{\prime})"
+"\displaystyle=D_{0}(\tau,\tau^{\prime})"
+"\displaystyle K_{i1}(Q>0,J_{i}>0)"
+"\displaystyle\Sigma^{-+}(s,s^{\prime})"
+"\displaystyle A(t,\omega)=2|V(t,\omega)|^{2}."
+\displaystyle A_{0}(\omega)=\frac{2\Gamma}{(\omega-\epsilon)^{2}+\Gamma^{2}}.
+\displaystyle K_{i2}(J_{i}>0)
+"\displaystyle\partial_{t}E=\dot{Q}+\dot{W},"
+\displaystyle K_{i2}(J_{i}<0)
+"\displaystyle\partial_{t}S-\beta\dot{Q}\geq 0,"
+\displaystyle\dot{Q}^{(1)}
+\displaystyle\left[\partial_{t}S\right]^{(1)}=\beta\dot{Q}^{(1)}.
+\displaystyle\partial_{\Gamma}\partial_{\epsilon}\dot{Q}^{(1)}
+"\displaystyle=\partial_{\epsilon}\partial_{\Gamma}\dot{Q}^{(1)},"
+\displaystyle\partial_{\Gamma}\partial_{\epsilon}\dot{W}^{(1)}
+\displaystyle=\partial_{\epsilon}\partial_{\Gamma}\dot{W}^{(1)}.
+\displaystyle\delta\dot{Q}^{(2)}
+\displaystyle\equiv\dot{Q}^{(2)}-\dot{Q}^{(1)}
+\displaystyle q^{*}+\frac{1}{2\pi}\ln(2\pi eq^{*})
+\displaystyle\delta\dot{S}^{(2)}
+\displaystyle=\epsilon_{0}+\Delta_{\epsilon}\cos{\omega_{\epsilon}t}
+"\displaystyle=\Gamma_{0}+\Delta_{\Gamma}\cos{\omega_{\Gamma}t},"
+\displaystyle E^{(0)}
+"\displaystyle V^{(2)}(t,\omega)"
+\displaystyle\partial_{t}N(t)
+"\displaystyle\left[\partial_{t}A(t,\omega)\right]^{(2)}"
+\displaystyle\left[\partial_{t}N(t)\right]^{(2)}
+\displaystyle\sqrt{q^{*}}
+\displaystyle\dot{Q}^{(2)}
+F_{1}=0\hskip 72.26999ptF_{2}=1\hskip 72.26999ptF_{n}=F_{n-1}+F_{n-2}.
+f_{1}=0\hskip 72.26999ptf_{2}=1\hskip 72.26999ptf_{n}=f_{n-1}f_{n-2}
+f_{3}=010\hskip 72.26999ptf_{4}=01001\hskip 72.26999ptf_{5}=01001010.
+f_{n}=f_{n-2}f_{n-2}f_{n-4}t_{n-2}t_{n-2}.
+"f_{(2,3,1)}=01\hskip 18.06749ptf_{(2,3,2)}=01\ 01\ 0\hskip 18.06749ptf_{(2,3,3)}=01010\ 01010\ 01010\ 01."
+"\displaystyle f_{(a,b,n-1)}f_{(a,b,n-2)}"
+"\displaystyle=f_{a,b,n-2)}t_{(a,b,n-1)}"
+\displaystyle\frac{\epsilon_{di}+U_{i}/2}{\sqrt{2U_{i}\Gamma_{i}}}.
+"\displaystyle f_{(a,b,n-1)}t_{(a,b,n-2)}"
+"\displaystyle=f_{(a,b,n-2)}f_{(a,b,n-1)}."
+"\displaystyle f_{(a,b,n)}"
+"\displaystyle=f^{2}_{(a,b,n-1)}f^{r-2}_{(a,b,n-1)}f_{(a,b,n-2)}"
+"\displaystyle t_{(a,b,n)}"
+"\displaystyle=f^{r}_{(a,b,n-1)}t_{(a,b,n-2)}"
+"\displaystyle=f^{r-2}_{(a,b,n-1)}f_{(a,b,n-1)}t_{(a,b,n-2)}"
+"\displaystyle=f^{r-2}_{(a,b,n-1)}f_{(a,b,n-2)}f^{s-1}_{(a,b,n-2)}f_{(a,b,n-3)}f_{(a,b,n-1)}t_{(a,b,n-2)}."
+"\displaystyle I_{(a,b,n)}"
+"\displaystyle=\left[f^{2}_{(a,b,n-1)}\left\{f^{r-2}_{(a,b,n-1)}f_{(a,b,n-2)}\right]f^{s-1}_{(a,b,n-2)}f_{(a,b,n-3)}f_{(a,b,n-1)}t_{(a,b,n-2)}\right\}."
+\displaystyle\rho^{\rm imp}_{i}(z)
+"\displaystyle=f^{2}_{(a,b,n-1)}f^{r-2}_{(a,b,n-1)}f_{(a,b,n-2)}f^{s-1}_{(a,b,n-2)}f_{(a,b,n-3)}f_{(a,b,n-1)}t_{(a,b,n-2)}"
+"\displaystyle=f^{2}_{(a,b,n-1)}f^{r-2}_{(a,b,n-1)}f^{s}_{(a,b,n-2)}f_{(a,b,n-3)}f_{(a,b,n-1)}t_{(a,b,n-2)}"
+"\displaystyle=f^{2}_{(a,b,n-1)}f^{r-2}_{(a,b,n-1)}f_{(a,b,n-1)}f_{(a,b,n-1)}t_{(a,b,n-2)}"
+"\displaystyle=f^{2}_{(a,b,n-1)}f^{r}_{(a,b,n-1)}t_{(a,b,n-2)}"
+"\displaystyle=f^{2}_{(a,b,n-1)}t_{(a,b,n)}."
+"\displaystyle f^{2}_{(a,b,n)}"
+"\displaystyle=f_{(a,b,n)}f_{(a,b,n)}"
+"\displaystyle=f^{r}_{(a,b,n-1)}f_{(a,b,n-2)}f^{r}_{(a,b,n-1)}f_{(a,b,n-2)}"
+"\displaystyle=f^{r}_{(a,b,n-1)}f_{(a,b,n-2)}f_{(a,b,n-2)}t^{r}_{(a,b,n-1)}"
+"\displaystyle=f^{r}_{(a,b,n-1)}f_{(a,b,n-2)}I_{(a,b,n-1)}t^{r-1}_{(a,b,n-1)}"
+\displaystyle\rho^{\rm imp}_{0i}(\omega)
+"\displaystyle=\left(f^{s}_{(a,b,n-2)}I_{(a,b,n-2)}t_{(a,b,n-2)}^{s-1}\right)^{r/2}f_{(a,b,n-2)}."
+"\displaystyle\left(f^{s}_{(a,b,n-2)}I_{(a,b,n-2)}t^{s-1}_{(a,b,n-2)}\right)^{r/2}f_{(a,b,n-2)}"
+"\displaystyle=\left(f^{2}_{(a,b,n-1)}\right)^{r/2}f_{(a,b,n-2)}."
+"\displaystyle=\left[\left(f^{2}_{(a,b,n-2)}\right)^{(s+1)/2}t_{(a,b,n-3)}\left(f^{2}_{(a,b,n-2)}\right)^{(s-1)/2}f_{(a,b,n-3)}\right]^{(r-1)/2}"
+"\displaystyle\left(f^{2}_{(a,b,n-2)}\right)^{(s+1)/2}t_{(a,b,n-3)}"
+"\displaystyle\left[f^{s+1}_{(a,b,n-2)}t_{(a,b,n-3)}f^{s-1}_{(a,b,n-2)}f_{(a,b,n-3)}\right]^{(r-1)/2}f^{s+1}_{(a,b,n-2)}t_{(a,b,n-3)}"
+"\displaystyle f^{s+1}_{(a,b,n-2)}t_{(a,b,n-3)}"
+"\displaystyle=f^{s}_{(a,b,n-2)}f_{(a,b,n-3)}f_{(a,b,n-2)}"
+\displaystyle(\ref{eq:rsodd})
+"\displaystyle=\left[f^{s}_{(a,b,n-2)}f_{(a,b,n-3)}f^{s}_{(a,b,n-2)}f_{(a,b,n-3)}\right]^{(r-1)/2}f^{s}_{(a,b,n-2)}f_{(a,b,n-3)}f_{(a,b,n-2)}"
+\displaystyle\int d\omega e^{i\omega z}\rho^{\rm imp}_{0i}(z)
+"\displaystyle=\left[f_{(a,b,n-1)}f_{(a,b,n-1)}\right]^{(r-1)/2}f_{(a,b,n-1)}f_{(a,b,n-2)}"
+"\displaystyle=f^{r-1}_{(a,b,n-1)}f_{(a,b,n-1)}f_{(a,b,n-2)}"
+"\displaystyle=f_{(a,b,n)}"
+"\displaystyle=\left\{\left[\left(f_{(a,b,n-3)}^{2}\right)^{(r+1)/2}t_{(a,b,n-4)}\left(f^{2}_{(a,b,n-3)}\right)^{(r-1)/2}f_{(a,b,n-4)}\right]^{s/2}\right."
+"\displaystyle\left(f^{2}_{(a,b,n-3)}\right)^{(r+1)/2}f_{(a,b,n-4)}"
+"\displaystyle\left[\left(f_{(a,b,n-3)}^{2}\right)^{(r+1)/2}t_{(a,b,n-4)}\left(f^{2}_{(a,b,n-3)}\right)^{(r-1)/2}f_{(a,b,n-4)}\right]^{(s-2)/2}"
+"\displaystyle\left.\left(f^{2}_{(a,b,n-3)}\right)^{(r+1)/2}f_{(a,b,n-4)}\right\}^{(r-1)/2}"
+"\displaystyle\left[\left(f_{(a,b,n-3)}^{2}\right)^{(r+1)/2}t_{(a,b,n-4)}\left(f^{2}_{(a,b,n-3)}\right)^{(r-1)/2}f_{(a,b,n-4)}\right]^{s/2}"
+"\displaystyle f^{r+1}_{(a,b,n-3)}t_{(a,b,n-4)}"
+"\displaystyle=f^{r}_{(a,b,n-3)}f_{(a,b,n-4)}f_{(a,b,n-3)}"
+\displaystyle\int^{B}_{-\infty}dq\rho^{\rm imp}_{i}(q)
+\displaystyle(\ref{eq:roddseven})
+"\displaystyle=\left\{\left[f^{2}_{(a,b,n-2)}\right]^{s/2}f_{(a,b,n-3)}^{r+1}f_{(a,b,n-4)}\right."
+"\displaystyle=\left.\left[f_{(a,b,n-2)}^{2}\right]^{(s-2)/2}f^{r+1}_{(a,b,n-3)}t_{(a,b,n-4)}\right\}^{(r-1)/2}"
+"\displaystyle=\left[f^{2}_{(a,b,n-2)}\right]^{s/2}f_{(a,b,n-3)}^{r+1}f_{(a,b,n-4)}."
+"\displaystyle\left\{f^{s}_{(a,b,n-2)}f^{r+1}_{(a,b,n-3)}f_{(a,b,n-4)}f^{s-2}_{(a,b,n-2)}f^{r+1}_{(a,b,n-3)}t_{(a,b,n-4)}\right\}^{(r-1)/2}"
+"\displaystyle\hskip 216.81ptf^{s}_{(a,b,n-2)}f^{r+1}_{(a,b,n-3)}f_{(a,b,n-4)}."
+\displaystyle iu_{t}+\Delta u
+"\displaystyle=|u|^{4/n}u,"
+"\displaystyle=u_{0}(x)\in H^{s}(\mathbf{R}^{n}),"
+\lim_{t\rightarrow T_{\ast}}\|u(t)\|_{H^{s}(\mathbf{R}^{n})}=\infty
+"f_{e0}^{x}(v_{x})=2\pi\int_{|v_{x}|}f_{e0}(v)vdv,"
+"M(u(t))=\int|u(t,x)|^{2}dx=M(u(0)),"
+"\displaystyle=|u|^{\alpha}u,"
+\frac{1}{\lambda^{2/\alpha}}u_{0}(\frac{x}{\lambda}).
+"u(t,x)-e^{it\Delta}u_{0}\in H^{1}(\mathbf{R}^{2})."
+"\displaystyle iIu_{t}+I\Delta u=I(|u|^{4/n}u),"
+"\displaystyle Iu(0,x)\in H^{1}(\mathbf{R}^{n})."
+\displaystyle\|Iu\|_{H^{1}(\mathbf{R}^{n})}
+\displaystyle\|u\|_{H^{s}(\mathbf{R}^{n})}
+"\displaystyle\omega_{0}=\omega_{s}+\omega_{l,a}"
+\mathcal{F}(f)(\xi)=\int e^{-ix\cdot\xi}f(x)dx.
+\mathcal{F}(P_{\leq M}f)=\phi(\frac{\xi}{M})\hat{f}(\xi).
+P_{>M}f=f-P_{\leq M}f.
+P_{M}f=P_{\leq M}f-P_{\leq\frac{M}{2}}f.
+"\frac{2}{p}=n(\frac{1}{2}-\frac{1}{q}),p\geq 2,"
+Im\int_{t_{1}}^{t_{2}}\int(\overline{I\Delta u})[|Iu|^{4/n}(Iu)-I(|u|^{4/n}u)]dxdt
+IF(u)+IG(u)
+"\displaystyle{k}_{0}={k}_{s}+{k}_{l,a}"
+F(Iu)+G(Iu).
+"IF(u)-F(Iu)=[IF(u)-IF(u_{l})]+[IF(u_{l})-F(Iu_{l})]+[F(Iu_{l})-F(Iu)],"
+IG(u)-G(Iu)=[IG(u)-IG(u_{l})]+[IG(u_{l})-G(Iu_{l})]+[G(Iu_{l})-G(Iu)].
+\displaystyle\int_{t_{1}}^{t_{2}}\int(\overline{I\Delta u})
+"\displaystyle[|u_{l}|^{4/n}(u_{l})-I(|u_{l}|^{4/n}u_{l})]dxdt,"
+\displaystyle=\int_{t_{1}}^{t_{2}}\int(\overline{\nabla Iu})[
+f(x+y)=f(x)+\int_{0}^{1}yf^{\prime}(x+\tau y)d\tau.
+\||Iu|^{4/3}-|u|^{4/3}\|_{L_{t}^{2}L_{x}^{3}(J\times\mathbf{R}^{n})}
+"\int\hat{g}(t,\xi)\hat{f}(t,\xi)d\xi."
+"G_{\rm R,B}=\int_{0}^{L}\kappa_{\rm R,B}(z)dz,"
+\int|Iu_{0}(x)|^{2+4/n}dx\leq C\|u_{0}\|_{H^{s}(\mathbf{R}^{n})}^{2+4/n}.
+"W=\{t\in[0,\lambda^{2}T_{0}]:E(Iu_{\lambda}(t))\leq\frac{3}{4}\}."
+E(Iu_{\lambda}(t))\leq\frac{3}{4}.
+"iu_{t}+\Delta u=|u|^{4/3}u,"
+iv_{t}+\Delta v=F.
+"T_{0j}=2Im(\overline{v(t,z)}\partial_{j}v(t,z)),"
+"v(t,z)=Iu(t,x)Iu(t,y)."
+"\displaystyle+Iu(t,x)I(|u(t,y)|^{4/3}u(t,y))."
+"=-\int[\partial_{k}L_{jk}(t,z)]\partial_{j}a(z)dz"
+"\omega_{0,s}^{2}=\omega_{\rm pe}^{2}+c^{2}k_{0,s}^{2}."
+"\displaystyle=\int_{0}^{T}\int_{\mathbf{R}^{3}}|Iu(t,x)|^{4}dxdt."
+"\displaystyle=|Iu(t,x)|^{4/3}Iu(t,x)Iu(t,y)+|Iu(t,y)|^{4/3}Iu(t,x)Iu(t,y)."
+\displaystyle F_{b}
+\displaystyle=F-F_{g}.
+"|Iu(t,y)|^{4/3}\overline{Iu(t,y)Iu(t,x)}\partial_{j}(Iu(t,x)Iu(t,y))"
+"-\overline{Iu(t,x)Iu(t,y)}\partial_{j}(|Iu(t,y)|^{4/3}Iu(t,y)Iu(t,x))"
+"|Iu(t,x)|^{4/3}\overline{Iu(t,x)Iu(t,y)}\partial_{j}(Iu(t,x)Iu(t,y))"
+"+|Iu(t,x)|^{4/3}(Iu(t,x)Iu(t,y))\partial_{j}\overline{Iu(t,x)Iu(t,y)}"
+"-\overline{Iu(t,x)Iu(t,y)}\partial_{j}(|Iu(t,x)|^{4/3}Iu(t,x)Iu(t,y))"
+"-Iu(t,x)Iu(t,y)\partial_{j}(|Iu(t,x)|^{4/3}\overline{Iu(t,x)Iu(t,y)})"
+"-\int_{0}^{T}\int\partial_{j}a(z)\partial_{j}(|Iu(t,y)|^{2}|Iu(t,x)|^{10/3})dxdydt"
+"=\int_{0}^{T}\int(\partial_{jj}a(z))|Iu(t,y)|^{2}|Iu(t,x)|^{10/3}dxdydt\geq 0."
+"\displaystyle\int_{J}\int\partial_{j}a(x-y)|Iu(t,y)|^{2}(\partial_{j}Iu(t,x))"
+"\displaystyle\times[|Iu(t,x)|^{4/3}Iu(t,x)-I(|u(t,x)|^{4/3}u(t,x))]dxdydt,"
+"\displaystyle\int_{J}\int\partial_{j}a(x-y)|Iu(t,y)|^{2}Iu(t,x)"
+"\displaystyle\times[|Iu(t,y)|^{4/3}Iu(t,y)-I(|u(t,y)|^{4/3}u(t,y))]dxdydt."
+"\displaystyle\int_{0}^{T}\int\partial_{jj}a(x-y)|Iu(t,y)|^{2}Iu(t,x)"
+"\displaystyle\times[|Iu(t,x)|^{4/3}Iu(t,x)-I(|u(t,x)|^{4/3}u(t,x))]dxdydt."
+"\int|Iu(t,y)|^{2}\partial_{jj}a(x-y)dy"
+"W=\{t:E(Iu_{\lambda}(t))\leq\frac{3}{4}\}\subset[0,\lambda^{2}T_{0}]."
+"\|Iu_{\lambda}(t)\|_{L_{t,x}^{4}([0,T+\delta])}^{4}\leq\frac{3C}{2}m_{0}^{3}."
+"\|Iu_{\lambda}(t)\|_{L_{t,x}^{4}([0,\tau])}^{4}\leq\frac{3C}{2}m_{0}^{3},"
+"\|Iu_{\lambda}(t)\|_{L_{t,x}^{4}([0,\tau+\delta^{\prime}])}^{4}\leq 2Cm_{0}^{3}."
+\|\langle\nabla\rangle Iu\|_{S^{0}(J_{k}\times\mathbf{R}^{3})}\leq C^{\prime}.
+E(Iu_{\lambda}(t))\leq\frac{1}{2}+\frac{C\lambda^{2/3}T_{0}^{1/3}}{N^{1-}}.
+"v_{x}=\frac{x}{R}v_{\mathrm{out}}-\frac{y}{R}v_{\mathrm{rot}},"
+"v_{y}=\frac{y}{R}v_{\mathrm{out}}+\frac{x}{R}v_{\mathrm{rot}},"
+"\frac{1}{N}\frac{dN}{dt}=-Gc_{2}N^{2/5}-\frac{1}{\tau},"
+"v_{z}=\frac{z}{R}v_{\mathrm{out}},"
+x^{\prime}=x+\frac{\vec{v}_{\rm rot}\cdot\hat{k}}{v_{\mathrm{th}}}
+"\mathrm{STD}=\sqrt{m_{2}},"
+"\mathrm{SKW}=\frac{m_{3}}{m_{2}^{3/2}},"
+"x^{\prime}=x+\mathcal{N}(0,\sigma_{x}^{2})."
+"{G^{(1)}}(t,t+\tau)={\langle{\hat{a}}^{\dagger}(t){\hat{a}}(t+\tau)\rangle},"
+"{G^{(1)}}(\tau)=\int_{\mathcal{I}}dt~{}{G^{(1)}}(t,t+\tau),"
+"\displaystyle{G^{(2)}}(t,t+\tau)"
+\displaystyle{G^{(2)}}(\tau)
+"\frac{1}{N}\frac{dN}{dt}=-Lc_{3}N^{4/5}-\frac{1}{\tau}\,\,."
+"\displaystyle=\int_{\mathcal{I}}dt~{}{G^{(2)}}(t,t+\tau)."
+\displaystyle{\hat{b}}_{\mathrm{in}}(t)
+\displaystyle{\hat{b}}_{\mathrm{out}}(t)
+"S_{r}(t)=X_{1}(t)+iP_{2}(t),"
+\displaystyle{\langle X_{1}(t)\rangle}
+\displaystyle{\langle P_{2}(t)\rangle}
+"[{\hat{S}}_{r}(t),{\hat{S}}_{r}^{\dagger}(t^{\prime})]=0,"
+"{G^{(2)}}(t,t+\tau)=4{\Gamma_{\beta}^{(2)}}(t,t+\tau)."
+"[{\hat{b}}_{\mathrm{out}}(t),{\hat{c}}_{\mathrm{out}}^{\dagger}(t^{\prime})]=0,"
+"\displaystyle{\Gamma_{\alpha,{\mathrm{amp}}}^{(1)}}(t,t+\tau)"
+"L=1.81\ (\pm 0.06\ \pm 0.40)\times 10^{-29}\ {\rm cm}^{6}\,{\rm s}^{-1}"
+"\displaystyle{\Gamma_{\beta,{\mathrm{amp}}}^{(1)}}(t,t+\tau)"
+\displaystyle\phi(U)
+\displaystyle={1\over\sqrt{1+U^{2}\sigma^{4}}}
+\phi_{R}(U)=\left[\phi\left({U\over n}\right)\right]^{R}.
+\displaystyle{\langle{\hat{n}}(0)\rangle}
+"\displaystyle=|\beta|^{2},"
+\displaystyle|{\langle{\hat{a}}(0)\rangle}|^{2}
+"\displaystyle=|\alpha|^{2}|\beta|^{2},"
+\displaystyle{\langle{\hat{n}}(0)\rangle}^{2}
+n({\bf r})=(\mu-V({\bf r}))/g
+"\displaystyle=|\beta|^{4},"
+"F(t_{1},\ldots,t_{n})=f_{1}(t_{1})\,f_{2}(t_{2})\cdots f_{n}(t_{n}),"
+\displaystyle G_{{\mathrm{fil}}}(\tau)
+"{\hat{c}}_{\mathrm{out}}=\sqrt{\kappa_{c}}{\hat{a}}-{\hat{c}}_{\mathrm{in}},"
+"\displaystyle[{\hat{a}}(t),{\hat{b}}_{\mathrm{in}}(t^{\prime})]"
+"\displaystyle[{\hat{a}}(t),{\hat{c}}_{\mathrm{in}}(t^{\prime})]"
+t^{\prime}>t
+"\displaystyle[{\hat{a}}(t),{\hat{c}}_{\mathrm{out}}(t^{\prime})]"
+t^{\prime}<t
+\sum_{v\in V_{1}}\gamma(v)-\sum_{v\in V_{2}}\gamma(v)=0.
+\displaystyle r_{1}^{2}a^{2}(\delta^{\prime}_{A})^{N_{f}=3}=-0.29(1)(4)
+\det A(C)=\det(P+P^{\top})=\det(P^{\top}(P^{2}+I))=\det P^{\top}\det(I+P^{2}).
+\det(I+P)=\prod_{i=1}^{n}(1+\zeta_{i})=1+\sum_{i=1}^{n}\sigma_{i}.
+a\mathbf{1}_{m}\leq\mbox{\boldmath{$\omega$}}\leq b\mathbf{1}_{m}.
+"\mathbf{y}_{3}\geq\mathbf{0},\quad\mathbf{y}_{3}\geq A^{\top}\mathbf{z}."
+"w_{j}(\mathbf{z})=\max(0,(A^{\top}\mathbf{z})_{j})\textrm{ for }j=1,\ldots,m."
+"p_{1}=|P_{1}|\geq p_{2}=|P_{2}|\geq\ldots\geq p_{k}=|P_{k}|=\max(2,n_{k}-1)."
+\gamma^{(k)}(u)=\sum_{v\in P_{k}}\gamma^{(k)}(v).
+p_{i}=\omega_{i-1}(E^{\prime}(P_{i-1}))+\omega_{i}(E(P_{i})).
+"|X|=\sum_{v\in X}s(v)=\sum_{v\in Y}s(v)+\omega(e)=|Y|+\omega(e),"
+"\mathrm{Var}[\hat{\phi}]\geq\frac{1}{MH(\phi)},"
+P_{L}(z):=\prod_{j=1}^{k}(z-t_{j}).
+P_{L}(\omega(e))=0\textrm{ for each }e\in E.
+"\sum_{y_{j}\in N(x_{i})}a_{ij}=0\ ,\ \sum_{x_{j}\in N(y_{i})}a_{ji}=0."
+dX_{t}=-A\nabla H(X_{t})dt+\sqrt{2A}dW_{t}
+dX_{t}=-A\nabla H(X_{t})dt-J\nabla H(X_{t})dt+\sqrt{2A}dW_{t}
+"dX_{t}=-A\nabla H(X_{t})\,dt-J\nabla H(X_{t})\,dt+\sqrt{2A}\,dW_{t},"
+"\partial_{t}(f\mu)=\mathop{\mathrm{div}}\nolimits[\mu(A+J)\nabla f],"
+\mu(dx):=\frac{1}{Z}\exp(-H(x))dx.
+"NPP^{t}=\mathrm{id}_{Y},"
+\frac{d\eta}{dt}=-(\overline{A}+\overline{J})\nabla\overline{H}(\eta(t)).
+"H(\phi)\geq F(\phi),"
+"\overline{A}^{-1}=PA^{-1}NP^{t},\quad\overline{J}=\overline{A}PA^{-1}NJP^{t},"
+\overline{\mu}(dy)=\exp(-N\overline{H}(y))dy.
+"|(\mathrm{id_{X}}-NP^{t}P)x|^{2}\leq\gamma M^{-2}\langle x,Ax\rangle_{X};"
+G(x)\mu(dx):=\frac{1}{Z}\exp(NP^{t}\nabla\bar{H}(\eta)\cdot x)\mu(dx).
+\psi(x)=\frac{1}{2}x^{2}+\delta\psi(x);\hskip 8.535827pt||\delta\psi||_{C^{2}}<\infty
+"\int{f_{0}\log f_{0}d\mu_{N,0}}\leq CN"
+\displaystyle=\quad(I)+(II)+(III)+(IV).
+\displaystyle(I)=-\frac{1}{N}\int_{X}(x-NP^{t}\eta)\cdot\nabla f\mu(dx)
+\displaystyle=\frac{1}{N}\int JA^{-1}(x-NP^{t}\eta)\cdot\nabla f\mu(dx)
+"H=4\Delta K^{2},"
+\displaystyle(IV)
+"\displaystyle\langle\bar{A}PJA^{-1}NP^{t}y,PJA^{-1}NP^{t}y\rangle\leq c|y|^{2}."
+"\displaystyle\langle PJA^{-1}NP^{t}y,PJA^{-1}NP^{t}y\rangle"
+"\displaystyle=\frac{1}{N}\langle NP^{t}PJA^{-1}NP^{t}y,JA^{-1}NP^{t}y\rangle"
+"\displaystyle\leq\frac{1}{N}\langle JA^{-1}NP^{t}y,JA^{-1}NP^{t}y\rangle"
+"\displaystyle=-\frac{1}{N}\langle J^{2}A^{-1}NP^{t}y,A^{-1}NP^{t}y\rangle"
+"\displaystyle=c\langle NPA^{-1}P^{t}y,y\rangle"
+"\displaystyle=c\langle\overline{A}^{-1}y,y\rangle."
+\displaystyle\leq c|y|^{2}.
+"\displaystyle\frac{d}{dt}\int\Phi(f(t,x))\mu(dx)"
+"F(\phi)=\int\frac{1}{p(x|\phi)}(\frac{\partial p(x|\phi)}{\partial\phi})^{2},"
+\displaystyle=\int(\log f+1)\partial_{t}(f\mu)
+\displaystyle=\int(\log f+1)\mathrm{div}(\mu(A+J)\nabla f)
+\displaystyle=-\int(A+J)\nabla f\cdot\frac{\nabla f}{f}\mu(dx)
+\displaystyle\frac{d}{dt}\overline{H}(\eta(t))
+"\displaystyle=\langle\dot{\eta}(t),\nabla_{Y}\overline{H}(\eta)\rangle"
+\displaystyle\leq\frac{c}{2}|\nabla\bar{H}(\eta)|^{2}
+\displaystyle\leq C(|\eta|^{2}+1)
+\displaystyle\leq C(\overline{H}(\eta)+1).
+\displaystyle|z|^{2}
+"\displaystyle=\langle JA^{-1}(x-NP^{t}\eta),JA^{-1}(x-NP^{t}\eta)\rangle"
+"p(x|\phi)={\rm\,Tr}\,{[\Pi_{x}\rho_{\phi}]}."
+"\displaystyle=\langle-J^{2}A^{-1}(x-NP^{t}\eta),A^{-1}(x-NP^{t}\eta)\rangle"
+\displaystyle\leq c|\nabla\bar{H}(\eta)|^{2}
+\displaystyle\leq e^{-Dt}S(t)\leq S(t).
+\displaystyle\leq\Theta(0)+\int_{0}^{T}S(t)dt.
+"W_{2}(\bar{G}\bar{\mu},\delta_{\eta})^{2}\leq\frac{M}{\lambda N}"
+\displaystyle\left|\frac{1}{N}\int{\Phi(G^{\eta})d\mu}-\bar{H}(\eta)\right|
+"\displaystyle     +\sqrt{\frac{M}{\lambda N}}|\nabla\bar{H}(\eta)|_{Y},"
+"\displaystyle\langle-J^{2}x,x\rangle"
+\displaystyle=|Jx|^{2}
+"\displaystyle=\langle Ax,x\rangle"
+\displaystyle p(n|\phi)
+"\displaystyle\langle g-PA^{-1}NJP^{t}g,\nabla_{Y}\bar{H}(\eta)\rangle_{Y}"
+\displaystyle=-2\bar{H}(\eta)+\bar{H}(\eta+g)+\bar{H}(\eta-PA^{-1}NJP^{t}g).
+"\displaystyle\int_{0}^{T}\langle g,(\bar{A})^{-1}\eta\rangle_{Y}\dot{\beta}(t)dt"
+"A=DD^{T},\quad J=\frac{1}{2}(D^{T}-D)."
+\displaystyle PA^{-1}JNP^{t}\xi
+\displaystyle\bar{H}(\eta^{\ell}(t)
+"\displaystyle\langle\bar{A}^{-1}y,y\rangle_{Y}"
+"\displaystyle=\frac{1}{N}\langle A^{-1}NP^{t}y,NP^{t}y\rangle_{X}"
+\displaystyle\leq C||\bar{NP^{t}y}||_{H^{-1}}^{2}
+\displaystyle\leq C||\bar{y}||_{H^{-1}}^{2}
+F_{\mathrm{dis}}(\phi)=2\alpha^{2}(1+\cos^{2}{\phi}).
+"\displaystyle\leq C\langle A_{M}^{-1}y,y\rangle_{Y}"
+\displaystyle     +\frac{1}{2\lambda}\int{(g_{1}-g_{2})^{2}d\theta}
+"\Gamma_{n,\mbox{loc}}=nv_{r}\;,"
+"\Gamma_{n,\mbox{FS}}=\frac{1}{L_{y}}\int_{0}^{L_{y}}\Gamma_{n,\mbox{loc}}\;dy\;,"
+\displaystyle{dn\over dt}+n{K}(\phi)-{K}(n)
+\displaystyle\mu_{n}\nabla_{\perp}^{2}n+S_{n}-\sigma_{n}(n-1)
+\displaystyle\mu_{T}\nabla_{\perp}^{2}T+S_{T}-\frac{3}{2}\sigma_{T}(T-1)
+\displaystyle\mu_{\omega}\nabla_{\perp}^{2}\omega-\sigma_{\omega}\omega\;.
+\displaystyle{d\omega\over dt}+\nabla N\cdot\frac{d}{dt}\nabla\phi
+\displaystyle\mu_{\omega}\nabla^{2}\omega+\nabla_{\|}(U-V)+(U-V)\nabla_{\|}N
+F_{\mathrm{hom}}(\phi)=4\alpha^{2}\cos^{2}{\phi}.
+\displaystyle{dN\over dt}
+\displaystyle{dU\over dt}
+"\displaystyle-\nabla_{\|}\phi-\nu_{e,i}U"
+\displaystyle{dV\over dt}
+x^{\star}_{j}=\sum_{l=1}^{k}c_{l}\exp(i2\pi jf_{l})
+"\min_{p\neq q}d(f_{p},f_{q})>4/n"
+x(t)=\sum_{l=1}^{k}c_{l}\exp(i2\pi f_{l}t)
+\mu(f)=\sum_{l=1}^{k}c_{l}\delta(f-f_{l})
+"\displaystyle\mathcal{A}=\left\{a(f)e^{i\phi},f\in[0,1],\phi\in[0,2\pi]\right\}."
+F_{\mathrm{het}}(\phi)=2\alpha^{2}.
+\hat{x}=\sum_{l}\hat{c}_{l}a(\hat{f}_{l})
+\tau=\eta\sigma\sqrt{n\log(n)}
+\displaystyle x_{j}^{\star}
+\displaystyle\int_{0}^{1}e^{i2\pi jf}\mu(df)
+x^{\star}=\sum_{l=1}^{k}c_{l}a(f_{l})
+x^{\star}=\int_{0}^{1}a(f)\mu(df)
+p(\{n_{k}\})P(\phi|\{n_{k}\})=p(\phi)P(\{n_{k}\}|\phi).
+|Q(f)|<1
+\displaystyle|Q(f)|
+\displaystyle\leq 1-\frac{C_{a}}{2}n^{2}(f-f_{j})^{2}
+\displaystyle|Q(f)-v_{j}|
+\displaystyle\leq\frac{C_{a}^{\prime}}{2}n^{2}(f-f_{j})^{2}
+|Q(f)|\leq 1-C_{b}
+\hat{x}=\int_{0}^{1}a(f)\hat{\mu}(df)
+"\displaystyle=\langle e,e\rangle"
+P(\{n_{k}\}|\phi)=\prod_{i=1}^{k}p(n_{i}|\phi).
+"\displaystyle=\left\langle e,\int_{0}^{1}a(f)\nu(df)\right\rangle"
+"\displaystyle=\int_{0}^{1}\left\langle e,a(f)\right\rangle\nu(df)"
+\displaystyle=\int_{0}^{1}E(f)\nu(df).
+\displaystyle I_{0}^{j}
+\displaystyle:=\left|\int_{N_{j}}\nu(df)\right|
+\displaystyle I_{1}^{j}
+\displaystyle:=n\left|\int_{N_{j}}(f-f_{j})\nu(df)\right|
+\displaystyle I_{2}^{j}
+\displaystyle:=\frac{n^{2}}{2}\int_{N_{j}}(f-f_{j})^{2}|\nu|(df)
+"\displaystyle:=\sum_{j=1}^{k}I_{l}^{j},~{}~{}\mbox{for}~{}l=0,1,2\,."
+"\displaystyle\int\phi P(\phi|\{n_{k}\})d\phi,"
+"\displaystyle=\sup_{f\in[0,1]}\left|\langle e,a(f)\rangle\right|"
+"\displaystyle=\sup_{f\in[0,1]}\left|\langle x^{\star}-\hat{x},a(f)\rangle\right|"
+"\displaystyle\leq\sup_{f\in[0,1]}\left|\langle w,a(f)\rangle\right|+\tau"
+\displaystyle\leq C_{0}\left(\frac{k\tau}{n}+I_{2}+\int_{F}{|\nu|(df)}\right)
+\displaystyle\leq C_{1}\left(\frac{k\tau}{n}+I_{2}+\int_{F}{|\nu|(df)}\right).
+\int_{F}{|\nu|(df)}+I_{2}\leq\frac{Ck\tau}{n}.
+\displaystyle\leq\frac{Ck\tau^{2}}{n^{2}}
+\displaystyle\mathrm{Var}[\hat{\phi}]
+\displaystyle=O\left(\sigma^{2}\frac{k\log(n)}{n}\right).
+\displaystyle Q_{j}^{\star}(f_{j})
+\displaystyle|1-Q_{j}^{\star}(f)|
+"\displaystyle n^{2}C_{1}^{\prime}(f-f_{j})^{2},f\in N_{j}"
+\displaystyle|Q_{j}^{\star}(f)|
+"\displaystyle C_{2}^{\prime},f\in F."
+\displaystyle\left|\int_{N_{j}}\nu(df)\right|
+\left|\int^{0}_{1}Q_{j}^{\star}(f)\nu(df)\right|\leq\frac{Ck\tau}{n}
+\displaystyle\left|\int_{F}Q_{j}^{\star}(f)\nu(df)\right|
+\displaystyle\leq C_{2}^{\prime}\int_{F}|\nu|(df)
+\displaystyle\int(\hat{\phi}-\phi)^{2}P(\phi|\{n_{k}\})d\phi.
+\displaystyle\left|\int_{0}^{1}X(f)\nu(df)\right|
+\displaystyle|X(f)-X(f_{j})-X^{\prime}(f_{j})(f-f_{j})|
+\displaystyle|X^{\prime}(f_{j})|
+\displaystyle|X^{\prime\prime}(f_{j})|
+\displaystyle\left|\int_{N_{j}}X(f)\nu(df)\right|
+\displaystyle+\frac{1}{2}n^{2}\|X(f)\|_{\infty}\int_{N_{j}}(f-f_{j})^{2}|\nu|(df)
+\displaystyle\leq\|X(f)\|_{\infty}\left(I_{0}^{j}+I_{1}^{j}+I_{2}^{j}\right).
+"\displaystyle\dot{q}=\frac{\partial\,H}{\partial\,p},\quad\dot{p}=-\frac{\partial\,H}{\partial\,q}."
+|Q_{1}(f)-v_{j}(f-f_{j})|\leq\frac{n}{2}C_{a}^{1}(f-f_{j})^{2}
+|Q_{1}(f)|\leq\frac{C_{b}^{1}}{n}.
+\displaystyle\|Q(f)\|_{1}
+\displaystyle:=\int_{0}^{1}{|Q(f)|df}\leq\frac{Ck}{n}
+\displaystyle\|Q_{1}(f)\|_{1}
+\displaystyle\leq\frac{Ck}{n^{2}}
+\displaystyle\|Q_{j}^{\star}\|_{1}
+\displaystyle\leq\frac{Ck}{n}.
+\displaystyle Q\left(f\right)
+\displaystyle K\left(f\right)
+"\displaystyle\psi(q+a,t)=e^{iaf(q)}\psi(q,t)"
+\displaystyle\left\|\alpha\right\|_{\infty}
+\displaystyle\left\|\beta\right\|_{\infty}
+\displaystyle\frac{C_{\beta}}{n}
+\displaystyle\int_{0}^{1}\left|Q\left(f\right)\right|df
+\displaystyle\int_{0}^{1}|K(f)|df
+\displaystyle\int_{0}^{1}|G(f)|^{2}df=\sum_{l=-m/2}^{m/2}|g_{l}|^{2}
+\displaystyle\frac{C}{n}
+\displaystyle G^{\prime}(f)
+\displaystyle-2\pi i\sum_{l=-m/2}^{m/2}lg_{l}e^{-i2\pi fl}
+\displaystyle\|G^{\prime}(f)\|_{2}^{2}
+"\displaystyle\psi(q+a,t)"
+\displaystyle 4\pi^{2}\sum_{l=-m/2}^{m/2}l^{2}|g_{l}|^{2}
+\displaystyle\pi^{2}m^{2}\sum_{l=-m/2}^{m/2}|g_{l}|^{2}
+\displaystyle C^{\prime}n
+\displaystyle\int_{0}^{1}|K^{\prime}(f)|df\leq C
+"\displaystyle\|\alpha_{1}\|_{\infty}\leq\frac{C_{\alpha_{1}}}{n},"
+\displaystyle\|\beta_{1}\|_{\infty}\leq\frac{C_{\beta_{1}}}{n^{2}}.
+"\displaystyle\|\alpha^{\star}\|_{\infty}\leq{C_{\alpha_{\star}}},"
+"\displaystyle\|\beta_{\star}\|_{\infty}\leq\frac{C_{\beta_{\star}}}{n},"
+\displaystyle\left|\int_{0}^{1}Q(f)\nu(df)\right|
+\displaystyle\leq\frac{Ck\tau}{n}
+"\displaystyle\psi(q,t)+a\psi^{\prime}(q,t)+\frac{a^{2}}{2}\psi^{\prime\prime}(q,t)+...\quad"
+\displaystyle\left|\int_{0}^{1}Q_{1}(f)\nu(df)\right|
+\displaystyle\leq\frac{Ck\tau}{n^{2}}
+\displaystyle\left|\int_{0}^{1}Q_{j}^{\star}(f)\nu(df)\right|
+\displaystyle\leq\frac{Ck\tau}{n}.
+\displaystyle\left|\int_{0}^{1}Q_{0}(f)\nu(df)\right|
+"\displaystyle=\left|\int_{0}^{1}\langle q_{0},a(f)\rangle\nu(df)\right|"
+"\displaystyle=\left|\langle q_{0},\int_{0}^{1}a(f)\nu(df)\rangle\right|"
+"\displaystyle=\left|\langle q_{0},e\rangle\right|"
+"\displaystyle=\left|\langle Q_{0}(f),E(f)\rangle\right|"
+"\displaystyle e^{iaf(q)}\psi(q,t)"
+\int_{N_{j}}\nu(df)=\left|\int_{N_{j}}\nu(df)\right|e^{i\theta_{j}}.
+\displaystyle=\int_{N_{j}}e^{-i\theta_{j}}\nu(df)
+\displaystyle=\int_{N_{j}}Q(f)\nu(df)+\int_{N_{j}}(e^{-i\theta_{j}}-Q(f))\nu(df)
+\displaystyle=\sum_{j=1}^{k}\left|\int_{N_{j}}\nu(df)\right|
+\displaystyle=n\int_{N_{j}}e^{-i\theta_{j}}(f-f_{j})\nu(df)
+\displaystyle=\sum_{j=1}^{k}I_{1}^{j}
+\displaystyle\leq C_{a}^{1}I_{2}+\frac{Ck\tau}{n}+C_{b}^{1}\int_{F}|\nu|(df)
+\displaystyle\|P_{T}(\nu)\|_{\mathrm{TV}}
+\displaystyle=\int_{0}^{1}Q(f)P_{T}(\nu)(df)
+\left|\int_{F}Q(f)\nu(df)\right|\leq(1-C_{b})\int_{F}|\nu|(df)
+"\displaystyle[1+iaf(q)-\frac{a^{2}f^{2}(q)}{2}+...]\psi(q,t)."
+\displaystyle\left|\int_{N_{j}/\{f_{j}\}}Q(f)\nu(df)\right|
+\displaystyle\leq\left|\int_{N_{j}/\{f_{j}\}}|Q(f)||\nu|(df)\right|
+\displaystyle\leq\int_{N_{j}/\{f_{j}\}}|\nu|(df)-C_{a}I_{2}^{j}.
+"\displaystyle|\langle w,e\rangle|"
+"\displaystyle=|\langle w,\int_{0}^{1}a(f)\nu(df)|\rangle"
+"\displaystyle=\left|\int_{0}^{1}\left\langle w,a(f)\right\rangle\nu(df)\right|"
+\displaystyle\leq 2\eta^{-1}\tau\left(\frac{Ck\tau}{n}+I_{0}+I_{1}+I_{2}\right)
+\displaystyle\leq C\eta^{-1}\tau\left(\frac{k\tau}{n}+I_{2}+\int_{F}|\nu|(df)\right)
+"\displaystyle\psi^{\prime}(q,t)"
+"\displaystyle\bar{V}_{0}(z)=V_{0}(z),\qquad\bar{V}_{1}(z)=-V_{-1}(z),"
+\displaystyle\hat{V}_{-2}
+"\displaystyle=\frac{1}{12}\left[V_{-1},[V_{0},V_{-1}]\right]+\mathcal{O}(V^{4}),"
+\displaystyle\hat{V}_{-1}
+\displaystyle\hat{V}_{1}
+\displaystyle\hat{V}_{2}
+"\displaystyle=\frac{1}{12}\left[V_{1},[V_{0},V_{1}]\right]+\mathcal{O}(V^{4})."
+"\displaystyle{\cal D}_{\alpha}^{[2]}\tilde{\Upsilon}=0,."
+"\displaystyle\hat{V}_{0},"
+\displaystyle\bar{\Phi}=
+"\displaystyle if(q)\psi(q,t),"
+\displaystyle\mathcal{L}^{\mathcal{N}=3}_{\mathrm{CS}}=
+\displaystyle G^{[2]}=\frac{i}{\zeta}\Phi_{0}+L+i\zeta\bar{\Phi}_{0}.
+\displaystyle f_{0}=\hat{V}_{0}.
+"\displaystyle\hat{V}_{0}=V_{0}+\frac{1}{2}[V_{1},V_{-1}]+\mathcal{O}(V^{3})."
+\displaystyle 0+\mathcal{O}(V^{3}).
+\displaystyle f_{-1}=\hat{V}_{-1}.
+"f_{1}=\left(V_{1}+\frac{1}{2}[V_{1},V_{0}]\right)+\mathcal{O}(V^{3})."
+\displaystyle+\left(L\leftrightarrow R\right).
+"\displaystyle\psi^{\prime\prime}(q,t)"
+"\displaystyle v^{i}=v^{1}(1,\zeta_{L}),\quad\zeta_{L}=\frac{v^{2}}{v^{1}}."
+\displaystyle\sum_{n}{\det(e)}X^{\dagger}_{n}{\gamma_{5}}{X_{n}}
+\displaystyle-{1\over 384\pi^{2}}R_{\mu\nu\sigma\tau}\ast R^{\mu\nu\sigma\tau}
+N_{+}-N_{-}=-N\tau/8-{1/({8\pi^{2}})}\int_{M}Tr(F\wedge F)
+\displaystyle d_{i}=\bar{s}=\frac{1}{N_{i}}\sum_{j=1}^{N_{i}}s_{j}
+"\displaystyle F(f)=\frac{|S(f)|^{2}}{|S(f)|^{2}+|N(f)|^{2}}\,,"
+"\displaystyle d_{\mathrm{total}}=\frac{d_{1}+d_{2}}{2}\,."
+"\displaystyle d_{\mathrm{difference}}=\pm\left(\frac{d_{1}-d_{2}}{2}\right)\,."
+H=\frac{{\bf p}^{2}}{2}+\frac{Z}{\left|{\bf r}\right|}
+"\displaystyle-f^{2}(q)\psi(q,t)."
+c(t)=\langle\psi|K|\psi\rangle
+"K({\bf r},{\bf r}^{\prime},t)=\langle{\bf r}|e^{-iHt/\hbar}|{\bf r}^{\prime}\rangle"
+c(t)=\langle\psi(0)|U(t)|\psi(0)\rangle\equiv\langle\psi(0)|\psi(t)\rangle.
+"\sigma(\omega)=\int c(t)\,e^{i\omega t}\,dt."
+"\psi(t)=\sum_{nlm}a_{nlm}\,\Phi_{nlm}\,e^{iE_{n}t/\hbar}"
+"\sigma(\omega)=\sum_{n}\delta(\omega-E_{n}/\hbar)\,b_{n}."
+"c(t)=\sum_{j}a_{j}\,e^{iE_{j}t/\hbar}"
+"\displaystyle K_{\gamma}({\bf r},{\bf r}^{\prime},t)"
+G=\sigma_{1}H\sqcup\ldots\sqcup\sigma_{d}H.
+"\displaystyle\psi^{\prime\prime}(q,t)=if^{\prime}(q)\psi(q,t)+if(q)\psi^{\prime}(q,t)."
+P(X)=\prod_{i=1}^{d}(X-\sigma_{i}(\alpha))
+\displaystyle\bigoplus_{i=1}^{d}\widetilde{E}[X]/(X-\sigma_{i}(\alpha))
+\displaystyle\bigoplus_{i=1}^{d}E_{\sigma_{i}}.
+"(T_{\widetilde{E}},q_{\widetilde{E}})=\bigoplus_{i=1}^{d}(T_{i},q_{i})."
+\tau T_{\sigma_{i}}=T_{\tau\sigma_{i}}.
+\tau T_{i}=T_{\tau(i)}.
+t_{\tau i}=\tau(t_{i}).
+"\iota_{i}:T\to\;T_{i},\;\;\;t\mapsto\;\pi_{i}(t\otimes 1)"
+"\displaystyle f^{\prime}(q)=0,"
+\iota_{\tau i}=\tau\circ\iota_{i}.
+q_{\widetilde{E}}(\tau t)=\tau q_{\widetilde{E}}(t).
+q_{i}(\iota_{i}(t))=\sigma_{i}q_{1}(\iota_{1}(t)).
+T\subset V\otimes V.
+A_{\sigma}:=A\otimes_{E}\widetilde{E}
+\lambda\cdot(a\otimes e)=a\otimes\sigma^{-1}(\lambda)e.
+"\kappa_{\sigma}:A\to A_{\sigma},\;\;a\mapsto a\otimes 1"
+"\beta(\lambda a,e)=\beta(a,\lambda e)"
+"\displaystyle-i\frac{\partial}{\partial\,q}\psi(q,t)=k\psi(q,t),"
+"\alpha(a\otimes e)=\beta(a,e)."
+"\psi:A\times\widetilde{E}\to B,\;\;(a,e)\mapsto\sigma(e)\varphi(a)."
+a\otimes e\mapsto a\otimes\sigma_{\tau i}^{-1}\tau\sigma_{i}(e).
+V\simeq W^{2^{d-1}}.
+"(T,q)_{\widetilde{E}}=\bigoplus_{i=1}^{d}(T_{i},q_{i})."
+C^{\mathbf{a}}(q)=C^{a_{1}}(q_{1})\otimes\ldots\otimes C^{a_{d}}(q_{d}).
+\tau:(C(q_{i}))\stackrel{{\scriptstyle\sim}}{{\to}}C(q_{\tau{i}}).
+"\displaystyle-i\hbar\frac{\partial}{\partial\,q}\psi(q,t)=\hbar k\psi(q,t)."
+\tau(C^{\mathbf{a}}(q))=C^{\tau\mathbf{a}}(q).
+\varphi_{i}:C^{0}(Q)\hookrightarrow C^{0}(q_{i}).
+\widetilde{\varphi}_{i}:C^{0}(Q)_{\sigma_{i}}\to C^{0}(q_{i}).
+\displaystyle\;\bigoplus_{i}C^{0}(Q)\otimes_{E}E_{\sigma_{i}}
+\displaystyle\;\bigoplus_{i}C^{0}(Q)_{\sigma_{i}}
+\displaystyle\;C^{0}(q_{1})\oplus\ldots\oplus C^{0}(q_{d})
+"\displaystyle i\hbar\frac{\partial}{\partial\,q}\psi^{*}(q,t)=p\psi^{*}(q,t)"
+\displaystyle C^{0}(q)_{\widetilde{E}}=
+\displaystyle\;\bigoplus_{j=0}^{r}D^{\mathbf{a}_{j}}
+R=Z_{G}(C^{0}(Q))
+V_{\widetilde{E}}=C^{0}(q)_{\widetilde{E}}\simeq R^{\oplus 2^{d-1}}
+"\displaystyle\varphi\big{(}\tau(v_{[\mu_{1}]},\ldots,v_{[\mu_{d_{j}}]})\big{)}="
+\displaystyle\psi_{i}(\tau r)=
+"\displaystyle\;\beta(\tau,\psi_{i}(r))."
+"\det((\mu_{l}(f_{i}))_{l,i})\neq 0."
+\oplus_{i=1}^{d_{j}}\psi_{i}:R^{\oplus d_{j}}\to R^{\oplus d_{j}}
+"\displaystyle[\,\pm i\hbar\frac{\partial}{\partial\,q},\,q\,]=\pm i\hbar,"
+(M\otimes_{K}N)^{G\times H}=M^{G}\otimes_{K}N^{H}.
+"\displaystyle\psi(q,t+t_{0})=e^{it_{0}f(t)}\psi(q,t)"
+A\sim B^{2^{2d-2}}
+"C^{0}(Q)=(-d,\sqrt{d}(d-\sqrt{d}c))_{E}\simeq(-1,\sqrt{d}-c)_{E}."
+T(S)\subset\widetilde{T}(S).
+A\sim B^{4}
+"(C,E,f:C\to E)"
+\mathrm{Prym}(f)=B.
+"\displaystyle\psi(q,t+t_{0})"
+"\displaystyle B(t_{2},t_{1})=(t_{2}-t_{1})+"
+"\displaystyle A(t_{2},t_{1})=1"
+"\displaystyle C(t_{2},t_{1})=0"
+"\displaystyle D(t_{2},t_{1})=1"
+\displaystyle+\frac{1}{\hbar}[p_{sD}(q-q_{sD})-p_{iD}(q-q_{iD})]
+"\displaystyle\Delta\varphi=k_{1}q_{1}[1-2A(T,0)+A(2T,0)]+"
+\displaystyle+\vartheta_{1F}-\vartheta_{2F}-\vartheta_{3F}+\vartheta_{4F}
+\displaystyle+\vartheta_{1E}-\vartheta_{2E}-\vartheta_{3E}+\vartheta_{4E}
+"\displaystyle\psi(q,t)+t_{0}\psi^{\prime}(q,t)+\frac{t_{0}^{2}}{2}\psi^{\prime\prime}(q,t)+...\quad\quad"
+"h(\Omega)=\frac{\eta}{\sqrt{\dot{N}}}\,\,\frac{1}{f(\Omega)\Sigma}"
+"h(\Omega)=\frac{\eta\hbar}{p_{T}L\sqrt{\dot{N}}}\,\,\frac{1}{f(\Omega)}"
+\textrm{det}\left(\frac{\partial x^{\alpha}}{\partial y^{\beta}}\right)\neq 0
+g_{\mu\nu}(x)=\eta_{\mu\nu}+h_{\mu\nu}(x)
+"g_{0\mu}=g_{\mu 0}=(1,0,0,0)"
+ds^{2}=c^{2}dt^{2}-(1-h_{+})dx^{2}-(1+h_{+})dy^{2}-dz^{2}+2h_{\times}dxdy
+d^{2}=d_{0}^{2}+h_{ij}(t)(x_{B}^{i}-x_{A}^{i})(x_{B}^{j}-x_{A}^{j})
+\displaystyle X=x-\frac{1}{2}h_{+}x+\frac{1}{2}h_{\times}y
+\displaystyle Y=y+\frac{1}{2}h_{+}y+\frac{1}{2}h_{\times}x
+"\displaystyle Z_{A,B}=z_{A,B}"
+"\displaystyle e^{it_{0}f(t)}\psi(q,t)"
+\displaystyle S=I+O(h)
+\displaystyle T=t+O(hL^{2}/c\lambda)
+ds^{2}=c^{2}dt^{2}-(1-h_{+})dx^{2}-(1+h_{+})dy^{2}-dz^{2}
+\displaystyle t=T
+\displaystyle x=X+\frac{1}{2}h_{+}X
+\displaystyle y=Y-\frac{1}{2}h_{+}Y
+\displaystyle z=Z
+\displaystyle ds^{2}=c^{2}dT^{2}-dX^{2}-dY^{2}-dZ^{2}+
+\displaystyle+\frac{\dot{h}_{+}}{c}\left(XdXdZ-YdYdZ-cXdXdT+cYdYdT\right)
+"C(\theta)=\sum_{l=0}^{\infty}\frac{2l+1}{4\pi}C_{l}P_{l}(\cos\theta)\,,"
+"\displaystyle[1+it_{0}f(t)-\frac{t_{0}^{2}f^{2}(t)}{2}+...]\psi(q,t)."
+\displaystyle e_{ab}^{+}(\hat{k})
+"\displaystyle=\hat{l}_{a}\hat{l}_{b}-\hat{m}_{a}\hat{m}_{b}\,,"
+\displaystyle e_{ab}^{\times}(\hat{k})
+"\displaystyle=\hat{l}_{a}\hat{m}_{b}+\hat{m}_{a}\hat{l}_{b}\,,"
+\displaystyle\hat{l}
+"\displaystyle=+\sin\phi\,\hat{x}-\cos\phi\,\hat{y}=-\hat{\phi}\,,"
+"\langle h_{A}(f,\hat{k})\rangle=0\,,"
+"S_{h}(f)=\int{\rm d}^{2}\Omega_{\hat{k}}\,{\cal P}(f,\hat{k})\,."
+"S_{h}(f)=\frac{3H_{0}^{2}}{2\pi^{2}}\frac{\Omega_{\rm gw}(f)}{f^{3}}\,,"
+"h_{c}(f)=\sqrt{fS_{h}(f)}\,."
+"\displaystyle if(t)\psi(q,t),"
+"n(z)\,{\rm d}z=R(z)\,|{\rm d}t|_{t=t(z)}\,."
+E(z)\equiv\sqrt{\Omega_{\rm m}(1+z)^{3}+\Omega_{\Lambda}}
+"\omega^{2}r^{3}=GM\,,\qquad E_{\rm orb}=-\frac{GM\mu}{2r}\,,"
+"\frac{{\rm d}E_{\rm gw}}{{\rm d}t}=-\frac{{\rm d}E_{\rm orb}}{{\rm d}t}\,,"
+"\displaystyle=h+n_{1}\,,"
+"\displaystyle=h+n_{2}\,."
+"\langle\hat{C}_{12}\rangle=\langle h^{2}\rangle\equiv S_{h}\,,"
+"\displaystyle=h_{i}+n_{1i}\,,"
+\displaystyle d_{2i}
+"\displaystyle=h_{i}+n_{2i}\,,"
+"\displaystyle-f^{2}(t)\psi(q,t)."
+"\hat{S}_{h}\equiv\hat{C}_{12}\equiv\frac{1}{N}\sum_{i=1}^{N}d_{1i}d_{2i}\,,"
+"\sigma^{2}=\frac{1}{N}(S_{1}S_{2}+S_{h}^{2})\,,"
+"S_{1}\equiv S_{n_{1}}+S_{h}\,,\qquad S_{2}\equiv S_{n_{2}}+S_{h}\,,"
+"C_{12}(f)\equiv\Gamma_{12}(f)S_{h}(f)\,."
+\displaystyle\langle\tilde{n}_{1}(f)\tilde{n}_{1}^{*}(f^{\prime})\rangle
+"\displaystyle=\frac{1}{2}\delta(f-f^{\prime})P_{n_{1}}(f)\,,"
+\displaystyle\langle\tilde{n}_{2}(f)\tilde{n}_{2}^{*}(f^{\prime})\rangle
+"\displaystyle=\frac{1}{2}\delta(f-f^{\prime})P_{n_{2}}(f)\,,"
+"\langle\tilde{n}_{1}(f)\tilde{n}_{2}^{*}(f^{\prime})\rangle=0\,."
+"\tilde{Q}(f)\propto\frac{\Gamma_{12}(f)H(f)}{P_{1}(f)P_{2}(f)}\,,"
+\displaystyle f^{\prime}(t)=0.
+"\hat{C}_{12}(f)\equiv\frac{2}{T}\tilde{d}_{1}(f)\tilde{d}^{*}_{2}(f)\,,"
+"\displaystyle p(\hat{C}|A,N)"
+"\hat{A}=F^{-1}X\,,"
+"F\equiv M^{\dagger}N^{-1}M\,,\qquad X\equiv M^{\dagger}N^{-1}\hat{C}\,."
+\displaystyle h(t)\equiv\Delta T(t)
+\displaystyle({\rm pulsar\ timing})
+\displaystyle h(t)\equiv\frac{\Delta L(t)}{L}=\frac{\Delta T(t)}{T}
+"\displaystyle({\rm LIGO,\ Virgo,\ }\cdots)"
+\displaystyle({\rm spacecraftDoppler\ tracking})
+"\displaystyle h(t)\equiv\Delta\Phi(t)=2\pi\nu_{0}\,\Delta T(t)"
+"b_{m,n}:=\langle L[\hat{a}]\hat{u}_{\mathcal{S}^{m}\setminus\mathcal{S}^{m-1}},\hat{u}_{\mathcal{S}^{n}\setminus\mathcal{S}^{n-1}}\rangle_{\ell^{2}},"
+"\displaystyle-i\hbar\frac{\partial}{\partial\,t}\psi(q,t)=E\psi(q,t)."
+"\displaystyle({\rm LISA})\,."
+"R^{A}(f,\hat{k})\equiv R^{ab}(f,\hat{k})e^{A}_{ab}(\hat{k})"
+"t(s)=(t-L/c)+s/c\,,\qquad\vec{x}(s)=\vec{r}_{1}+s\hat{u}"
+\displaystyle e^{i2\pi f(t(s)-\hat{k}\cdot\vec{x}(s)/c)}
+\displaystyle=e^{i2\pi f(t-L/c+s/c-\hat{k}\cdot(\vec{r}_{1}+s\hat{u})/c)}
+"\displaystyle{\cal T}_{\vec{u}}(f,\hat{k}\cdot\hat{u})"
+"\displaystyle u^{a}u^{b}e^{\times}_{ab}(\hat{k})=0\,,"
+"\displaystyle 1-\hat{k}\cdot\hat{u}=1-\cos\theta\,,"
+"F^{+}(\hat{k})=\frac{1}{2}(1+\cos\theta)\,,\qquad F^{\times}(\hat{k})=0\,."
+"\cos\theta=1-\frac{nc}{fL}\,,\qquad n=0,1,\cdots\,,{\rm int}[2fL/c]\,."
+"\displaystyle i\hbar\frac{\partial}{\partial\,t}\psi^{*}(q,t)=E\psi^{*}(q,t)."
+"D^{ab}\equiv\frac{1}{2}\left(u^{a}u^{b}-v^{a}v^{b}\right)\,."
+"\sum_{A}F_{1}^{A}(\hat{k})F_{2}^{A}(\hat{k})=\frac{1}{4}(1+\cos\theta)^{2}\,,"
+"r_{I}(t)=\hat{u}_{I}\cdot\vec{E}(t,\vec{x}_{0})\,."
+"\Gamma_{12}(f)=\frac{2}{3}\,\hat{u}_{1}\cdot\hat{u}_{2}=\frac{2}{3}\cos\zeta\,."
+"{\rm likelihood}=p({\rm data}|{\rm parameters},{\rm model})\,."
+"S_{1}\equiv S_{n_{1}}+S_{h}\,,\quad S_{2}\equiv S_{n_{2}}+S_{h}\,,\quad S_{h}\,."
+"p(H|d)=\frac{p(d|H)p(H)}{p(d)}\,,"
+"p(d)\equiv\int{\rm d}H\>p(d|H)p(H)\,."
+"{\cal B}_{10}(d)\equiv\frac{p(d|{\cal M}_{1})}{p(d|{\cal M}_{0})}\,."
+"p(h|A,f_{0},\phi_{0})=\delta\left(h(t)-A\sin(2\pi f_{0}t+\phi_{0})\right)\,."
+"\displaystyle\pm i\hbar\frac{\partial}{\partial\,t}\equiv\hat{H}(\hat{q},\hat{p},t)."
+"p(d_{i}|C_{n},h)\equiv p_{n}(d_{i}-h|C_{n})"
+"\displaystyle p(d_{i}|\xi,\vec{\lambda},C_{n})"
+"\displaystyle=\int{\rm d}h\>p(d_{i}|C_{n},h)p(h|\xi,\vec{\lambda})"
+"p(\xi|d_{i})=\frac{p(d_{i}|\xi)p(\xi)}{p(d_{i})}\,,"
+"p(d|\xi)=\prod_{i}p(d_{i}|\xi)\,."
+S_{h}(f)=\frac{3H_{0}^{2}}{2\pi^{2}}\frac{\Omega_{\rm gw}(f)}{f^{3}}
+"1+z=\frac{1}{a(t)}\,,\qquad a(t_{0})\equiv 1\quad(t_{0}\equiv{\rm today})\,,"
+"(A,B)\equiv\int dfA(f)B^{*}(f)P_{1}(f)P_{2}(f)\,."
+"p(d|A,C)\propto\exp\left[-\frac{1}{2}(d-MA)^{\dagger}C^{-1}(d-MA)\right]\,,"
+"F\equiv M^{\dagger}C^{-1}M\,,\qquad X\equiv M^{\dagger}C^{-1}d\,."
+"\displaystyle\pm i\hbar\frac{\partial}{\partial\,t}\psi(q,t)=\hat{H}(\hat{q},\hat{p},t)\psi(q,t)."
+\Gamma_{12}\propto\hat{u}_{1}\cdot\hat{u}_{2}\equiv\cos\zeta
+"S_{1}\equiv S_{n_{1}}+S_{h}\,,\quad S_{2}\equiv S_{n_{2}}+S_{h}\,,\quad S_{h}\,,"
+w(S):=\sum_{i\in S}X_{i}.
+"\textbf{PROPH}_{M}:=\max_{S\in\mathcal{I}(M)}w(S)\,,"
+"\textbf{EPROPH}_{M}:=E[\textbf{PROPH}_{M}]\,."
+"\{S\subseteq E\setminus A\,:\,S\cup A^{\prime}\in\mathcal{S}\}\,,"
+"\mathcal{S}:=\{A\subseteq E\,:\,|A|\leq k\}\,."
+\phi_{ixx}+\phi_{izz}=0.
+"\sqcap_{M}(X,Y)=r(X)+r(Y)-r(X\cup Y)\,."
+"\lambda_{M}(X):=\sqcap_{M}(X,E\setminus X)=r(X)+r(E\setminus X)-r(E)\,."
+\displaystyle\lambda_{M}(S)=
+\displaystyle r(S)+r(E\setminus S)-r(E)=
+"E[\sum_{i\in I_{opt}}X_{i}]=\sum_{i=1}^{n}P[i\in I_{opt}]E[X_{i}\mid i\in I_{opt}]=\sum_{i=1}^{n}p_{i}E[X_{i}\mid i\in I_{opt}]\,."
+"P[I\mid J]\leq 1/2\,."
+"E[\sum_{e\in E\setminus H^{*}}X_{e}]=\frac{1}{3}E[\sum_{i\in[3]}\sum_{e\in E\setminus H_{i}}X_{e}]\geq\frac{1}{3}E[\sum_{e\in E}X_{e}]\geq\frac{1}{3}\textbf{EPROPH}_{M}\,."
+E_{a}[\textbf{PROPH}_{M\mid_{T_{a}}}]\geq\frac{1}{p^{k}}\textbf{PROPH}_{M{/}_{\overline{T}}}
+"E_{c}[\textbf{PROPH}_{M\mid_{H_{c}}}]\geq\frac{1}{p}\textbf{PROPH}_{M{\mid}_{\overline{T}_{a^{*}}}}\,."
+"E_{c}[w(I_{opt}\cap H_{c})]=\sum_{t\in I_{opt}}P_{c}[c\cdot t=1]w(t)=\frac{1}{p}\sum_{t\in I_{opt}}w(t)=\frac{1}{p}w(I_{opt})=\textbf{PROPH}_{M\mid_{T_{a^{*}}}}\,."
+"E_{c}[\textbf{PROPH}_{M\mid_{H_{c}}}]\geq\frac{1}{p}\textbf{PROPH}_{M{\mid}_{\overline{T}_{a^{*}}}}\,,"
+\displaystyle\sum_{s\in S^{*}}\alpha_{s}=\sum_{s\in S^{*}}\alpha_{s}(c^{*}\cdot(\phi(s)\mid_{C}))=c^{*}\cdot\left(\sum_{s\in S^{*}}\alpha_{s}(\phi(s)\mid_{C})\right)=
+"\displaystyle c^{*}\cdot\left(x\mid_{C}\right)=0\,."
+"x\mid_{L}=\sum_{s\in S^{*}}\alpha_{s}(\phi(s)\mid_{L})=\left(\sum_{s\in S^{*}}\alpha_{s}\right)a^{*}\,,"
+"\lambda(e):=\lambda_{M}(\cup_{v\in V(T_{1})}X_{v})\,."
+\textbf{PROPH}_{M\mid_{X_{\ell}}}+\textbf{PROPH}_{M\setminus{X_{\ell}}}\geq\textbf{PROPH}_{M}
+"\textbf{EPROPH}_{M\mid_{X_{\ell}}}+\textbf{EPROPH}_{M\setminus{X_{\ell}}}\geq\textbf{EPROPH}_{M}\,."
+"\displaystyle\geq w(I_{opt}\setminus C_{opt})+\frac{1}{2}w(C_{opt}\setminus\{x\})\geq\frac{1}{2}w(I_{opt})=\frac{1}{2}\textbf{PROPH}_{N}\,."
+\displaystyle\gamma\frac{1}{\alpha}\textbf{EPROPH}_{M}+(1-\gamma)\frac{1}{2}\textbf{EPROPH}_{P\setminus\{x\}}=
+\displaystyle\frac{1}{\alpha+1}\textbf{EPROPH}_{M}+\frac{1}{2\alpha+2}\textbf{EPROPH}_{P\setminus\{x\}}\geq
+"\displaystyle\qquad E\left[\frac{w(x_{opt})}{2\alpha+2}+\frac{\textbf{PROPH}_{M}}{\alpha+1}\,\middle|\,|C_{opt}|<3\right]P\left[|C_{opt}|<3\right]"
+"\displaystyle\qquad E\left[\frac{w(x_{opt})}{2\alpha+2}+\frac{w(I_{opt}\setminus\{x_{opt}\})}{\alpha+1}\,\middle|\,|C_{opt}|<3\right]P\left[|C_{opt}|<3\right]"
+"\displaystyle\qquad E\left[\frac{\textbf{PROPH}_{N}}{2\alpha+2}\,\middle|\,|C_{opt}|<3\right]P\left[|C_{opt}|<3\right]"
+"\frac{1}{3}E[w(I_{alg})-w(x_{opt})]+\frac{2}{3}\frac{1}{2}E[w(x_{opt})]\geq\frac{1}{\alpha\cdot 3^{t}}\textbf{EPROPH}_{M{\setminus}L}\,."
+"\frac{1}{3}E[w(I_{alg})-w(x_{opt})]+\frac{2}{3}\frac{1}{2}E[w(x_{opt})]=\frac{1}{3}E[w(I_{alg})]\geq\frac{1}{3}\frac{1}{\alpha\cdot 3^{t-1}}\textbf{EPROPH}_{M{\setminus}L}\,."
+\displaystyle=A_{0}\sin\left[\pi\;\textrm{frac}\left(T_{exp}\cdot 60\textrm{ Hz}\right)\right]
+\displaystyle=\phi_{0}+\pi\;\textrm{frac}\left(T_{exp}\cdot 60\textrm{ Hz}\right)
+"\hat{T}=UX^{T}\left(XX^{T}\right)^{-1},"
+\displaystyle l_{jr}=\frac{l_{vi}}{2}
+\displaystyle w_{jr}=\frac{w_{vi}}{2}
+\displaystyle n_{\mu}e^{\mu}_{a}=0
+\displaystyle=\xi_{2}.
+E_{D}(\omega)=\int_{D}\|\omega\|^{2}.
+"\big{\langle}\omega,\eta\big{\rangle}=\int_{S}\omega\wedge\star\eta."
+"{\rm A}=(\alpha_{1},\alpha_{2},\ldots,\alpha_{2g-1},\alpha_{2g})"
+"a/h_{1}=\alpha\ll 1,\ \ \ h_{2}/h_{1}=O(1)."
+"\int_{[\alpha_{i}]}{\sigma_{k}}=\delta_{ik},\quad i,k=1,\dots,2g."
+g_{C}=d\rho^{2}+\ell(\gamma)^{2}\cosh^{2}(\rho)dt^{2}.
+g_{V}=dr^{2}+e^{-2r}dt^{2}.
+"V_{a}^{b}:=\{p\in V(q)\mid\textup{$p$ lies between $\eta_{a}$ and $\eta_{b}$}\},"
+"\psi_{\gamma}(\rho,t)=(F_{\gamma}(\rho),t)"
+"\psi_{q}(r,t)=(e^{r},t)."
+\phi:Y\rightarrow Y^{\prime}
+"h_{1}^{2}/L^{2}=\beta\ll 1,\ \ \ h_{2}/h_{1}=O(1)."
+\epsilon\cosh(\widehat{w}(\epsilon))=1+\frac{\epsilon^{2}}{4}.
+"\ell(\gamma_{1}),\dots,\ell(\gamma_{l})\leq\epsilon."
+\psi:R^{{\scriptscriptstyle\mathsf{G}}}\to R^{{\scriptscriptstyle\mathsf{F}}}
+"h(x,y)=a_{0}+b_{0}x+\tilde{h}(x,y),\quad\tilde{h}(x,y)=h^{-}(x,y)+h^{+}(x,y),"
+"dh(x,y)=A(x,y)dx+B(x,y)dy"
+"\|dh(x,y)\|^{2}=A^{2}(x,y)+B^{2}(x,y)."
+"\displaystyle\int\limits_{0}^{1}\|dh(x,y)\|^{2}\,dy"
+\displaystyle D_{\mathsf{L}}
+\displaystyle D_{int}
+"|h^{-}(x,y)|\leq\sum_{n=1}^{\infty}(|a_{n}|+|b_{n}|)e^{-2\pi nx}"
+"\displaystyle\omega=b(x)dx+c\,dy+dH,"
+"\displaystyle\tilde{\omega}=\tilde{b}(x)dx+\tilde{c}\,dy+d\tilde{H},"
+"\omega=b_{0}dx+c_{0}dy+d\tilde{h},"
+"\omega_{\chi}=b_{0}dx+c_{0}dy+d(\chi\cdot\tilde{h}),"
+"\omega_{\chi}^{+}=b_{0}dx+c_{0}dy+dh^{-}\!+d(\chi\cdot h^{+}),"
+"\displaystyle|h^{-}(x,y)|<e^{-2\pi\delta_{\mathsf{L}}}\sqrt{E^{-}},"
+"\displaystyle\|dh^{-}(x,y)\|<8e^{-2\pi\delta_{\mathsf{L}}}\sqrt{E^{-}},"
+"\displaystyle|h^{+}(x,y)|<e^{-2\pi\delta_{\mathsf{R}}}\sqrt{E^{+}},"
+"\displaystyle\|dh^{+}(x,y)\|<8e^{-2\pi\delta_{\mathsf{R}}}\sqrt{E^{+}}."
+"\displaystyle\|d\hat{h}(x,y)\|"
+"\phi_{1}^{\ast}=\phi_{1}^{\ast(0)}+\beta\phi_{1}^{\ast(1)}+O(\beta^{2}),"
+"\displaystyle\leq\|dh^{-}(x,y)\|+\frac{1}{w}|h^{+}(x,y)|+\|dh^{+}(x,y)\|"
+E_{D_{int}}(d\hat{h})\leq E_{D_{int}}(dh^{-})+\alpha\sqrt{E^{+}}+\beta E^{+}
+\ell(\gamma)\leq\frac{1}{2}
+E_{S_{2}}(\sigma)\leq\mu(\gamma)E_{S}(\sigma).
+\phi_{C}=(\psi_{\gamma})^{-1}:Z_{M}\rightarrow C.
+"h(x,y)=a_{0}+b_{0}x+\tilde{h}(x,y),"
+"H^{\prime}=h^{-}\!+\chi^{\prime}\cdot h^{+},"
+"H^{\prime\prime}=\chi^{\prime\prime}\cdot h^{-}\!+\chi^{\prime}\cdot h^{+},"
+E_{S}(s^{\prime\prime})-E_{S}(\sigma)\leq e^{-8\pi M+6}E_{S}(\sigma).
+E_{S}(s)\leq(1+e^{-8\pi M+6})E_{S}(\sigma).
+"\phi_{1}^{\ast(0)}=\phi_{1}^{\ast(0)}(x^{\ast},t^{\ast})."
+E_{\tilde{S}}(\tilde{s})\leq(1+e^{-8\pi M+4})E_{\tilde{S}}(\tilde{\sigma}).
+"\displaystyle\big{\langle}u^{\prime},v^{\prime}\big{\rangle}"
+"\displaystyle SA\left([256,512,1024]\right)-FP(1,[1024+256,256,256])-"
+"\displaystyle FP(3,[256+128,256,128])-FP(3,[128+F,128,128])-"
+"\displaystyle FC(128,128)-FC(128,10)"
+\varphi(\pi_{\mathcal{L}}(x))=\pi_{\mathcal{L}_{0}}(x_{0})
+"\mathcal{I}_{-}:=\langle H^{0}\left(X,\mathcal{L}_{+}^{N}\right)^{G}\rangle,"
+"V=\bigoplus_{\chi\in M}V_{\chi},"
+"\mu^{\mathcal{L}}(x,\lambda)=\max_{v_{i}\neq 0}\langle\lambda,\chi_{i}\rangle."
+"R^{G}=k[x_{1},\dots,x_{n}]^{T}=k[S],"
+"R(V,D)=\oplus H^{0}(V,\mathcal{O}(nD))"
+"\overline{(\mathcal{D}/\Gamma)}_{\mathcal{H}}\cong X/\!\!/_{\mathcal{L}}G,"
+Tr[L_{P}^{2}D_{B}^{2}]\sim\frac{1}{L_{P}^{2}}\int d^{4}x\sqrt{g}R
+\Lambda_{s}=\left|\frac{1}{\Xi_{2}(0)}\int_{0}^{\infty}\Xi_{2}(X)dX\right|.
+\displaystyle 2\dot{q}_{B}+(\beta_{1}+\beta_{2})\dot{q}_{F}=c_{1}
+\rho_{\rm ini}(1)=\rho^{d}_{X}(1)\otimes C^{p}_{AB}
+\displaystyle O_{\rm Alice}(2)
+\displaystyle\rho_{\rm AO}
+\quad\sigma_{0}\otimes\sigma_{0}
+\quad\sigma_{0}\otimes\sigma_{1}
+\quad\sigma_{1}\otimes\sigma_{0}
+\quad\sigma_{1}\otimes\sigma_{1}
+"O_{\rm Alice}(N)=\prod_{i=1}^{N}H^{A_{i}}\prod_{i=1}^{N}CNOT(X_{i},A_{i})"
+"{\mathcal{S}}=\prod_{j=1}^{N-1}\left(\prod_{i=1}^{N-j}S(B_{i},A_{N-j+1})\right)"
+"\overline{\nu}_{k}=\overline{\omega}_{k}-C_{s}k,"
+\displaystyle C_{X_{1}X_{2}A_{1}A_{2}}^{s}(2)
+F(\omega)=\omega^{2}/(\omega_{\circ}^{2}+\omega^{2})
+\displaystyle\tilde{\mathbf{h}}_{v}
+\displaystyle=\sum_{c\in\mathcal{C}_{v}}\mathbf{h}_{c}
+\displaystyle\mathbf{i}_{v}
+\displaystyle=\sigma\big{(}\mathbf{W}^{i}\mathbf{x}_{v}+\mathbf{U}^{i}\tilde{\mathbf{h}}_{v}+\mathbf{b}^{i}\big{)}
+"\displaystyle\mathbf{f}_{v,c}"
+\displaystyle=\sigma\big{(}\mathbf{W}^{f}\mathbf{x}_{v}+\mathbf{U}^{f}\mathbf{h}_{c}+\mathbf{b}^{f}\big{)}
+\displaystyle\mathbf{o}_{v}
+\displaystyle=\sigma\big{(}\mathbf{W}^{o}\mathbf{x}_{v}+\mathbf{U}^{o}\tilde{\mathbf{h}}_{v}+\mathbf{b}^{o}\big{)}
+"\eta_{1T}-C_{s}\eta_{1X}+(\eta_{1}\overline{u}_{1})_{X}=0,"
+\displaystyle\mathbf{u}_{v}
+\displaystyle=tanh\big{(}\mathbf{W}^{u}\mathbf{x}_{v}+\mathbf{U}^{u}\tilde{\mathbf{h}}_{v}+\mathbf{b}^{u}\big{)}
+\displaystyle\mathbf{m}_{v}
+"\displaystyle=\mathbf{i}_{v}\odot\mathbf{u}_{v}+\sum_{c\in\mathcal{C}_{v}}\mathbf{f}_{v,c}\odot\mathbf{m}_{c}"
+\displaystyle\mathbf{h}_{v}
+\displaystyle=\mathbf{o}_{v}\odot tanh(\mathbf{m}_{v})
+"f(t,t^{\prime})=\sigma\big{(}concat(\mathbf{e}_{t},\mathbf{e}_{t^{\prime}})\big{)},"
+"\small\mathcal{L}_{pre}=\sum_{t,t^{\prime}}\bigg{(}\hat{f}(t,t^{\prime})\log f(t,t^{\prime})+\big{(}1-\hat{f}(t,t^{\prime})\big{)}\log\big{(}1-f(t,t^{\prime})\big{)}\bigg{)},"
+"AvgPooling(\mathbf{e}_{1},\cdots,\mathbf{e}_{|\mathcal{T}|})=[\frac{\sum_{t}\mathbf{e}_{t,1}}{|\mathcal{T}|},\cdots,\frac{\sum_{t}\mathbf{e}_{t,L}}{|\mathcal{T}|}]."
+"FFN(\tilde{\mathbf{x}})=ReLU(\mathbf{W}^{F}\tilde{\mathbf{x}}+\mathbf{b}^{F}),"
+"\eta_{2T}-C_{s}\eta_{2X}+(\eta_{2}\overline{u}_{2})_{X}=0,"
+"Attention(\mathbf{Q}^{h},\mathbf{K}^{h},\mathbf{V}^{h})=softmax(\frac{\mathbf{Q}^{h},{\mathbf{K}^{h}}^{T}}{\sqrt{L_{h}}})\mathbf{V}^{h}."
+"P_{n}=\frac{\sum_{gram_{n}\in\mathbf{s}}\#{match}(gram_{n})}{\#(gram_{n})},\,\,\,\,BLEU=\rho(\prod_{n}P_{n})^{1/N}"
+"R=\frac{\#LCS(\mathbf{s},\mathbf{y})}{m},\,\,\,\,P=\frac{\#LCS(\mathbf{s},\mathbf{y})}{n},\,\,\,\,F=\frac{2RP}{R+P}"
+"\sqrt{\Lambda}=\frac{\delta m^{2}}{4E}\sin{2\theta_{v}},"
+\sin{2\theta(x)}=\frac{\sqrt{\Lambda}}{\sqrt{\Lambda+\varphi^{2}(x)}}
+"\cos{2\theta(x)}=\frac{-\varphi(x)}{\sqrt{\Lambda+\varphi^{2}(x)}}\,."
+\displaystyle\Psi_{e}(x)
+\displaystyle\Psi_{e}(L)
+"P_{\rm hop}=|\Psi_{2,(S)}|^{2},"
+\displaystyle{\hat{A}}_{-}
+"M_{1T}-C_{s}M_{1X}+\left(\frac{1}{2}\overline{u}_{1}^{2}+g\xi_{1}\right)_{X}=0,"
+"\displaystyle i\hbar\frac{\partial}{\partial x}-\varphi(x)\,,"
+\displaystyle{\hat{A}}_{+}
+"\displaystyle i\hbar\frac{\partial}{\partial x}+\varphi(x)\,."
+\displaystyle{\hat{A}}_{-}\Psi_{e}(x)
+"\displaystyle\sqrt{\Lambda}\Psi_{\mu}(x)\,,"
+\displaystyle{\hat{A}}_{+}\Psi_{\mu}(x)
+"\displaystyle\sqrt{\Lambda}\Psi_{e}(x)\,."
+\hat{T}(a_{1}){\cal O}(a_{1})\hat{T}^{-1}(a_{1})={\cal O}(a_{2}).
+\displaystyle\hat{A}_{+}(a_{1})\hat{T}(a_{1})
+"\displaystyle\hat{T}^{-1}(a_{1})\hat{A}_{-}(a_{1})\,,"
+"E_{l_{1}}=\sum_{j}\left|\xi_{1}(X_{j})-\xi_{1}^{\rm ref}(X_{j})\right|\Delta X,"
+"[\hat{B}_{-},\hat{B}_{+}]=R(a_{0}),"
+"R(a_{n})=\hat{T}(a_{1})R(a_{n-1})\hat{T}^{-1}(a_{1}),"
+{\hat{B}}_{+}{\hat{B}}_{-}\Psi_{e}(x)=\Lambda\Psi_{e}(x).
+\Psi_{-}^{(0)}\sim\exp{\left(-i\int\varphi(x;a_{1})dx\right)}.
+{\hat{A}}_{-}(a_{1})\Psi_{-}^{(0)}=0={\hat{B}}_{-}\Psi_{-}^{(0)}.
+f(n)=\sum_{k=1}^{n}R(a_{k})
+f(\mu)=\Lambda
+"\Psi_{+}^{(0)}\sim\exp{\left(+i\int\varphi(x;a_{0})dx\right)}\,,"
+{\hat{B}}_{+}\Psi_{+}^{(0)}=0.
+\displaystyle\beta{\hat{B}}_{+}^{\mu}\exp{\left(-i\int\varphi(x;a_{1})dx\right)}
+"(\Xi_{1}+\delta_{1},\Xi_{2},\overline{U}_{1},\overline{U}_{2}),"
+"N_{e}(x)=N_{0}-N_{0}^{\prime}(x-x_{R}),"
+"2\sqrt{2}\ G_{F}N_{0}E=\delta m^{2}\cos{2\theta_{v}},"
+"P_{\rm hop}=|\Psi_{2}(x_{f})|^{2}=\exp{(-\pi\Omega)}\,,"
+"N_{e}(x)=N_{0}e^{-\alpha(x-x_{R})},"
+\delta=\frac{\delta m^{2}}{2E\alpha}.
+\displaystyle P_{hop}
+"\displaystyle\exp(-\pi\Omega),"
+"\zeta(r)=\frac{2\sqrt{2}G_{F}N_{e}(r)}{\delta m^{2}/E}\,,"
+"-r_{s}\equiv\frac{N_{e}(r)}{N_{e}^{\prime}(r)}=\sum_{n}b_{n}N_{e}^{n},"
+"\langle N^{r}_{e}(r)\rangle=0,"
+\displaystyle\frac{dX}{dT}
+f_{12\cdots}=\langle N^{r}_{e}(r_{1})N^{r}_{e}(r_{2})\cdots\rangle
+"f_{1234}=f_{12}f_{34}+f_{13}f_{24}+f_{14}f_{23},"
+\Delta_{p(x)}u:=\textrm{div}\big{(}|\nabla u(x)|^{p(x)-2}\nabla u(x)\big{)}
+"L^{p(x)}(\Omega)=\{u\in E(\Omega):\int_{\Omega}|u(x)|^{p(x)}dx<\infty\},"
+"\|u\|=\|u\|_{W^{1,p(x)}(\Omega)}=\|u\|_{p(x)}+\|\nabla u\|_{p(x)}."
+"A=J^{\prime}:W_{0}^{1,p(x)}(\Omega)\rightarrow(W_{0}^{1,p(x)}(\Omega))^{*},"
+"\max\{R(0),R(y)\}<\inf\limits_{\|x\|=\rho}\{R(x)\}=:\eta,"
+"u_{n}^{*}=Au_{n}-\lambda|u_{n}|^{p(x)-2}u_{n}-v_{n}^{*},"
+\displaystyle-M-\varepsilon_{n}
+"\displaystyle=\frac{\partial\overline{\nu}_{k}}{\partial k},"
+"|j(x,t)-j(x,0)|\leq|v(x)||t|."
+"|j(x,t)|\leq|j(x,0)|+c_{1}|t|^{r(x)}\leq c_{1}|t|^{r^{+}}."
+"|j(x,t)|\leq c_{2},"
+\displaystyle\frac{c}{2}\int_{\Omega}|u_{n}(x)|^{r(x)}dx
+"\displaystyle+\int_{\Omega}v_{n}^{*}(x)u_{n}(x)dx-\int_{\Omega}j(x,u_{n}(x))dx."
+\displaystyle\lambda\int_{\Omega}|u_{n}(x)|^{p(x)-2}u_{n}(x)(u_{n}-u)(x)dx
+"\limsup\limits_{n\rightarrow\infty}\langle Au_{n},u_{n}-u\rangle\leq 0."
+\displaystyle\frac{dk}{dT}
+"|j(x,t)|\leq c_{1}|t|^{r(x)},"
+\displaystyle R(u)
+"j(x,t)>\frac{c}{2}|t|^{r(x)}-c_{1}|t|^{r(x)}-\beta=c_{3}|t|^{r(x)}-\beta,"
+\displaystyle R(su)
+"0=Au-\lambda|u|^{p(x)-2}u-v^{*},"
+"\displaystyle=-\frac{\partial\overline{\nu}_{k}}{\partial X},"
+"Au=\lambda|u|^{p(x)-2}u+v^{*},"
+"\sigma=-\frac{\sqrt{f(a)+\dot{a}^{2}}}{4\pi}\frac{h^{\prime}(a)}{h(a)},"
+"p=\frac{A}{|\sigma|^{\alpha}},"
+"\sigma_{0}=-\frac{\sqrt{f(a_{0})}}{4\pi}\frac{h^{\prime}(a_{0})}{h(a_{0})},"
+"\dot{a}^{2}=-V(a),"
+V(a)=f(a)-16\pi^{2}\left[\frac{h(a)}{h^{\prime}(a)}\sigma(a)\right]^{2}.
+"V(a)=\frac{1}{2}V^{\prime\prime}(a_{0})(a-a_{0})^{2}+O[(a-a_{0})^{3}],"
+"S=\int d^{4}x\sqrt{-g}\left(-R+2(\nabla\phi)^{2}+e^{-2b\phi}F^{2}\right),"
+"\nabla_{\mu}\left(e^{-2b\phi}F^{\mu\nu}\right)=0,"
+"\nabla^{2}\phi+\frac{b}{2}e^{-2b\phi}F^{2}=0,"
+"\displaystyle r^{2}\left(1-\frac{B}{r}\right)^{2b^{2}/(1+b^{2})},"
+"A=M+\sqrt{M^{2}-(1-b^{2})Q^{2}},"
+B=\frac{(1+b^{2})Q^{2}}{M+\sqrt{M^{2}-(1-b^{2})Q^{2}}}.
+"\displaystyle-k_{2}=k_{3},"
+\displaystyle\omega_{k}(k_{1})

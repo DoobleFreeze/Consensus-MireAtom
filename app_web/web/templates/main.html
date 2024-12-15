@@ -16,24 +16,25 @@
                         <div class="vertical-timeline-wrapper">
                             <div class="timeline-vertical">
                                 <div class="activity-log">
-                                    <p class="log-name"><i class="mdi mdi-regex mr-1"></i><b>ЪЪЪ</b></p>
+                                    <p class="log-name"><b>Входные данные</b></p>
                                     <div class="log-details">
-                                        ЪЪЪ
+                                        Входными данными для работы с формулами является синтаксис LaTeX и изображения.
+                                        Для наиболее корректной работы с изображениями лучше загружать файлы в формате JPEG.
+                                        Также, желательно, чтобы на изображении формула имела отступы от краев больше 20px.
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-12">
-                        <div class="card-title">
-                            <label class="inc-badge inc-badge-dark">Страница <i class="mdi mdi-format-float-right mr-1"></i>Текстовый редактор</label>
-                        </div>
-                        <div class="vertical-timeline-wrapper">
-                            <div class="timeline-vertical">
                                 <div class="activity-log">
-                                    <p class="log-name"><i class="mdi mdi-database mr-1"></i><b>ЪЪЪ</b></p>
+                                    <p class="log-name"><b>Выходные данные</b></p>
                                     <div class="log-details">
-                                        ЪЪЪ
+                                        Входными данными является нормализованная формула в формате LaTeX, а также
+                                        формула в графическом формате KaTeX.
+                                    </div>
+                                </div>
+                                <div class="activity-log">
+                                    <p class="log-name"><b>Действия</b></p>
+                                    <div class="log-details">
+                                        При работе с формулами вы можете изменять её, чтобы добиться нужного формата.
+                                        Если формула удовлетворяет Вашим требованиям, её можно сохранить в базу данных.
                                     </div>
                                 </div>
                             </div>
@@ -62,17 +63,17 @@
                 <div class="col-12 equel-grid">
                     <div class="grid grid-body">
                         <h5 class="text-center mb-3">
-                            <b>Синтаксисы</b>
+                            <b>Поддерживаемые форматы</b>
                         </h5>
                         <nav class="nav nav-pills nav-fill" role="tablist">
                             <a id="nav_link_main_lang_rule" class="nav-item nav-link active" data-bs-toggle="tab" href="#nav_href_main_lang_rule" role="tab" aria-selected="true">
-                                <b>ЪЪЪ</b>
+                                <b>LaTeX</b>
                             </a>
                             <a id="nav_link_main_lang_reg" class="nav-item nav-link" data-bs-toggle="tab" href="#nav_href_main_lang_reg" role="tab" aria-selected="true">
-                                <b>ЪЪЪ</b>
+                                <b>KaTeX</b>
                             </a>
                             <a id="nav_link_main_lang_brand" class="nav-item nav-link" data-bs-toggle="tab" href="#nav_href_main_lang_brand" role="tab" aria-selected="true">
-                                <b>ЪЪЪ</b>
+                                <b>Изображения</b>
                             </a>
                         </nav>
                         <div class="tab-content py-3">
@@ -80,9 +81,19 @@
                                 <div class="vertical-timeline-wrapper">
                                     <div class="timeline-vertical">
                                         <div class="activity-log">
-                                            <p class="log-name"><b>ЪЪЪ</b></p>
+                                            <p class="log-name"><b>Что такое LaTeX?</b></p>
                                             <div class="log-details">
-                                                ЪЪЪ
+                                                LaTeX – это язык разметки текста, широко используемый в академической среде
+                                                для создания научных документов, статей и книг. Он особенно популярен при
+                                                работе с математикой, физикой и другими точными науками благодаря своей
+                                                способности точно представлять сложные математические выражения.
+                                            </div>
+                                        </div>
+                                        <div class="activity-log">
+                                            <p class="log-name"><b>Как он выглядит?</b></p>
+                                            <div class="log-details mr-2">
+                                                В исходном виде LaTex представляет собой текст, который определяет структуру формулы:
+                                                <textarea class="form-control form-control-lg mt-2" rows="1" readonly="readonly">x^{2}+\left(\frac{4y}{5}-\sqrt{|X|}\right)^{2}=1</textarea>
                                             </div>
                                         </div>
                                     </div>
@@ -92,9 +103,16 @@
                                 <div class="vertical-timeline-wrapper">
                                     <div class="timeline-vertical">
                                         <div class="activity-log">
-                                            <p class="log-name"><b>ЪЪЪ</b></p>
+                                            <p class="log-name"><b>Для чего используется KaTeX?</b></p>
                                             <div class="log-details">
-                                                ЪЪЪ
+                                                KaTeX используется для отображения математических формул непосредственно в браузере. И
+                                                сходный код формулы выглядит аналогично LaTex, но вместо компиляции он обрабатывается и отображается
+                                                на веб-странице:
+                                                <div class="text-center">
+                                                    <span class='math' style=" font-size: 1.3em;">
+                                                        x^{2}+\left(\frac{4y}{5}-\sqrt{|X|}\right)^{2}=1
+                                                    </span>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -104,9 +122,14 @@
                                 <div class="vertical-timeline-wrapper">
                                     <div class="timeline-vertical">
                                         <div class="activity-log">
-                                            <p class="log-name"><b>ЪЪЪ</b></p>
+                                            <p class="log-name"><b>Почему используются изображения?</b></p>
                                             <div class="log-details">
-                                                ЪЪЪ
+                                                Использование изображений для представления математических формул является
+                                                одним из самых простых способов передачи информации. Данный формат можно
+                                                использовать практически везде: в презентациях, документах, электронных
+                                                письмах, социальных сетях и многих других местах. Они не требуют специальной
+                                                поддержки со стороны программ или платформ, что делает их универсальным
+                                                решением для передачи математического контента.
                                             </div>
                                         </div>
                                     </div>
@@ -127,15 +150,21 @@
                         <div class="vertical-timeline-wrapper">
                             <div class="timeline-vertical">
                                 <div class="activity-log">
-                                    <p class="log-name"><b>ЪЪЪ</b></p>
+                                    <p class="log-name"><b>Сравнение формул</b></p>
                                     <div class="log-details">
-                                        ЪЪЪ
+                                        Метод для нахождения схожей формулы и определения процента схожести.
                                     </div>
                                 </div>
                                 <div class="activity-log">
-                                    <p class="log-name"><b>ЪЪЪ</b></p>
+                                    <p class="log-name"><b>Добавление формулы</b></p>
                                     <div class="log-details">
-                                        ЪЪЪ
+                                        Метод для добавления формулы в формате LaTeX в базу данных.
+                                    </div>
+                                </div>
+                                <div class="activity-log">
+                                    <p class="log-name"><b>Выгрузка</b></p>
+                                    <div class="log-details">
+                                        Метод для выгрузки всех формул из базы данных.
                                     </div>
                                 </div>
                             </div>
