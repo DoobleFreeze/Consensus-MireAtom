@@ -55,7 +55,7 @@ def create_api(flask_log: bool,
     # !!! УДАЛИТЬ !!!
 
     for i in list_latex:
-        new_formula = Formulas(formula=json.dumps({"formula": i}))
+        new_formula = Formulas(formula=json.dumps({"formula": [i]}))
         session.add(new_formula)
     session.commit()
     session.close()

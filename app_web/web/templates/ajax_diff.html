@@ -1,0 +1,22 @@
+<div class="row">
+    <div class="col-12 mb-2 text-center">
+        <h5>Исходная формула</h5>
+    </div>
+    <div class="col-12 mb-2 text-center">
+        <span class='math' style=" font-size: 1.3em;">
+            {{ start_formula }}
+        </span>
+    </div>
+    {% for itr in matches_list %}
+        <div class="col-12 mb-3 text-center">
+            <h5>Процент схожести {{ itr[0] }}</h5>
+        </div>
+        <div class="col-12 mb-2 text-center">
+            {% for diff_f in itr[1] %}
+                <span class='math' style=" font-size: 1.3em;">
+                    {{ diff_f }}
+                </span>
+            {% endfor %}
+        </div>
+    {% endfor %}
+</div>
