@@ -65,7 +65,7 @@ $(document).ready(function () {
 
             $('#table_database').on('click', 'tbody tr', function() {
                 console.log('API row values : ', datatable.row(this).data());
-                latex_to_diff = datatable.row(this).data()['latex'].replace(/<div style="font-size: 13px;">&#34;/g, '').replace(/&#34;<\/div>/g, '');;
+                latex_to_diff = datatable.row(this).data()['latex'].replace(/<div style="font-size: 13px;">/g, '').replace(/<\/div>/g, '');;
 
                 const lines = latex_to_diff.split('\n');
                 text_to_div = ""
@@ -113,7 +113,7 @@ function diff_for() {
             );
             modal_diff.show();
 
-            const lines = latex_to_diff.split('\n');
+            const lines = latex_to_diff.replace(/&#34;/g, '"').split('\n');
             text_to_div = ""
             for (let i = 0; i < lines.length; i++) {
                 text_to_div += "<span class='math' style=\" font-size: 1.3em;\">\n" +

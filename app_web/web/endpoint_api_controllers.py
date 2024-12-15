@@ -95,9 +95,9 @@ def diff_formula():
 
         matches_list = []
         for f in all_formulas:
-            diff_formula = "\n".join(json.loads(f.formula)['formula'])
-            if diff_formula != latex_formula:
-                ratio = fuzz.partial_ratio(latex_formula, diff_formula)
+            diff_formul = "\n".join(json.loads(f.formula)['formula'])
+            if diff_formul != latex_formula:
+                ratio = fuzz.partial_ratio(latex_formula, diff_formul)
                 matches_list.append([ratio, json.loads(f.formula)['formula']])
 
         matches_list.sort(key=lambda x: x[0], reverse=True)
@@ -114,7 +114,8 @@ def diff_formula():
 def diff_formula_ajax():
     try:
         logger.info("Start diff_formula_ajax")
-        latex_formula = request.form.get('formula')
+        latex_formula = request.form.get('formula').replace("&#34;", '"').replace("\n", "").strip()
+        logger.info(f"{latex_formula=}")
 
         session = create_session()
         all_formulas = session.query(Formulas).all()
@@ -128,6 +129,7 @@ def diff_formula_ajax():
 
         matches_list.sort(key=lambda x: x[0], reverse=True)
 
+        logger.info(f"{matches_list[0][1]}")
         logger.info("End add_formula")
 
         return jsonify({'data': render_template(
